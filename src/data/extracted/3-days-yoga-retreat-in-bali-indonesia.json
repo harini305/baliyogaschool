@@ -1,0 +1,342 @@
+{
+  "slug": "3-days-yoga-retreat-in-bali-indonesia",
+  "path": "/3-days-yoga-retreat-in-bali-indonesia/",
+  "sourceFile": "content/pages/3-days-yoga-retreat-in-bali-indonesia.md",
+  "kind": "retreat",
+  "location": "ubud",
+  "title": "3-Day Yoga & Healing Retreat in Ubud, Bali",
+  "displayTitle": "3-Day Yoga & Healing Retreat",
+  "hours": null,
+  "days": 3,
+  "nights": 2,
+  "level": null,
+  "metaTitle": "3-Day Yoga & Healing Retreat in Ubud, Bali",
+  "metaDescription": "Book a 3-day yoga and healing retreat in Ubud, Bali with Vinyasa, meditation, Reiki, Balinese and Ayurvedic massage, meals and accommodation.",
+  "summary": "Move with Vinyasa Flow, settle into meditation, receive Reiki healing and restore with Balinese and Ayurvedic massage—all in one peaceful, beginner-friendly Bali retreat.",
+  "intro": [
+    "This 3-day yoga and healing retreat in Ubud is designed for travellers who want meaningful rest without committing to a long programme or yoga teacher training course.",
+    "Your mornings create energy through meditation and breath-led Vinyasa Flow. Your healing sessions invite quiet rest, while Balinese and Ayurvedic massage give the body time to soften after travel and movement. Fresh plant-based meals, an unhurried campus rhythm and free time by the pool complete the experience.",
+    "There is no pressure to perform and no need to arrive flexible. The retreat simply gives you a supportive setting to listen to your body, steady your attention and return to your Bali journey feeling refreshed."
+  ],
+  "duration": "3 days / 2 nights",
+  "durationStatements": [
+    "3 days / 2 nights",
+    "3 DAYS / 2 NIGHTS",
+    "3 days / 2 nights accommodation"
+  ],
+  "keyFacts": [
+    {
+      "label": "Duration",
+      "value": "3 days / 2 nights"
+    },
+    {
+      "label": "Location",
+      "value": "Ubud, Bali, Indonesia"
+    },
+    {
+      "label": "Stay",
+      "value": "Accommodation & meals included"
+    },
+    {
+      "label": "Level",
+      "value": "Beginner-friendly practice"
+    },
+    {
+      "label": "Check-in",
+      "value": "After 12:00 PM on Day 1"
+    },
+    {
+      "label": "Check-out",
+      "value": "Before 12:00 PM on Day 3"
+    }
+  ],
+  "hourCalculation": [],
+  "styles": [
+    "Vinyasa Flow"
+  ],
+  "curriculum": [
+    {
+      "title": "Vinyasa Flow Yoga",
+      "summary": "Breath-led sequences build warmth, mobility, strength and body awareness with options for different experience levels.",
+      "items": [
+        "Mobility",
+        "Strength",
+        "Flexibility",
+        "Body awareness"
+      ]
+    },
+    {
+      "title": "Guided Meditation",
+      "summary": "Morning and evening practices use breath awareness, observation and relaxation to create a calmer inner pace.",
+      "items": [
+        "Breath awareness",
+        "Relaxation",
+        "Stillness"
+      ]
+    },
+    {
+      "title": "Reiki Healing",
+      "summary": "A quiet, fully clothed wellness session that offers time to rest, receive and step away from outside stimulation.",
+      "items": [
+        "Fully clothed",
+        "Quiet setting",
+        "No experience needed"
+      ]
+    },
+    {
+      "title": "Restorative Massage",
+      "summary": "Experience both Balinese and Ayurvedic massage as distinct moments of care across your three-day stay.",
+      "items": [
+        "Day 1 – Balinese Massage",
+        "Day 2 – Ayurvedic Massage"
+      ]
+    }
+  ],
+  "schedule": {
+    "heading": "3-Day Yoga Retreat Prices",
+    "note": null,
+    "batches": []
+  },
+  "fees": {
+    "currency": "USD",
+    "discountLabelAsPublished": null,
+    "note": "Both options include the complete yoga, meditation, Reiki, massage and meal programme. Room allocation is subject to availability. Please confirm the final rate, room, retreat inclusions and preferred dates with the booking team before making payment.",
+    "options": [
+      {
+        "group": "Accommodation + meals",
+        "label": "Twin-Shared Room",
+        "detail": "From $250 USD / person. Solo room matching depends on availability.",
+        "original": null,
+        "offer": 250
+      },
+      {
+        "group": "Accommodation + meals",
+        "label": "Private Room",
+        "detail": "From $400 USD / person. Your own air-conditioned room and attached bathroom.",
+        "original": null,
+        "offer": 400
+      }
+    ],
+    "extras": [
+      {
+        "label": "Airport transfer",
+        "price": null,
+        "detail": "Available on request for an additional fee"
+      }
+    ]
+  },
+  "addOnHealing": [],
+  "addOnNote": null,
+  "inclusions": [
+    "3 days / 2 nights accommodation",
+    "2 Vinyasa Flow yoga sessions",
+    "Guided meditation sessions",
+    "1 Reiki healing session",
+    "1 Balinese massage",
+    "1 Ayurvedic massage",
+    "Vegetarian or vegan meals",
+    "Yoga mats and class equipment",
+    "Complimentary campus Wi-Fi",
+    "Swimming pool access"
+  ],
+  "exclusions": [],
+  "dailySchedule": [
+    {
+      "day": "Day 1",
+      "time": "12:00 PM",
+      "activity": "Check-in and welcome"
+    },
+    {
+      "day": "Day 1",
+      "time": "12:30 PM",
+      "activity": "Fresh vegetarian or vegan lunch"
+    },
+    {
+      "day": "Day 1",
+      "time": "Afternoon",
+      "activity": "Rest, settle in or enjoy pool time"
+    },
+    {
+      "day": "Day 1",
+      "time": "4:00 PM",
+      "activity": "Balinese massage experience"
+    },
+    {
+      "day": "Day 1",
+      "time": "Evening",
+      "activity": "Guided meditation"
+    },
+    {
+      "day": "Day 1",
+      "time": "7:00 PM",
+      "activity": "Dinner"
+    },
+    {
+      "day": "Day 2",
+      "time": "7:00 AM",
+      "activity": "Morning meditation"
+    },
+    {
+      "day": "Day 2",
+      "time": "8:00 AM",
+      "activity": "Vinyasa Flow yoga"
+    },
+    {
+      "day": "Day 2",
+      "time": "9:30 AM",
+      "activity": "Breakfast"
+    },
+    {
+      "day": "Day 2",
+      "time": "Late morning",
+      "activity": "Reiki healing session"
+    },
+    {
+      "day": "Day 2",
+      "time": "12:30 PM",
+      "activity": "Lunch"
+    },
+    {
+      "day": "Day 2",
+      "time": "Afternoon",
+      "activity": "Personal time or pool time"
+    },
+    {
+      "day": "Day 2",
+      "time": "4:00 PM",
+      "activity": "Ayurvedic massage experience"
+    },
+    {
+      "day": "Day 2",
+      "time": "Evening",
+      "activity": "Guided meditation and dinner"
+    },
+    {
+      "day": "Day 3",
+      "time": "7:00 AM",
+      "activity": "Morning meditation"
+    },
+    {
+      "day": "Day 3",
+      "time": "8:00 AM",
+      "activity": "Vinyasa Flow yoga"
+    },
+    {
+      "day": "Day 3",
+      "time": "9:30 AM",
+      "activity": "Breakfast"
+    },
+    {
+      "day": "Day 3",
+      "time": "Late morning",
+      "activity": "Closing relaxation and reflection"
+    },
+    {
+      "day": "Day 3",
+      "time": "Before 12:00 PM",
+      "activity": "Check-out"
+    }
+  ],
+  "dining": {
+    "text": "Breakfast, lunch and dinner are part of the retreat rhythm. Bali Yoga School serves plant-based meals prepared to support yoga practice and comfortable days on campus.",
+    "mealTimes": [
+      "Breakfast: After morning yoga",
+      "Lunch: 12:30 PM",
+      "Dinner: Evening"
+    ]
+  },
+  "arrival": [
+    "Check-in: After 12:00 PM on Day 1",
+    "Check-out: Before 12:00 PM on Day 3",
+    "Airport transfer: Available on request for an additional fee",
+    "Your accommodation, meals, yoga sessions and pool time are centred around the Bali Yoga School campus, approximately a 10-minute ride from central Ubud."
+  ],
+  "prerequisites": [
+    "No previous yoga, meditation or Reiki experience required",
+    "Tell us about injuries, allergies, pregnancy or relevant health considerations before arrival",
+    "Complete yoga and meditation beginners",
+    "Solo travellers seeking a supportive stay",
+    "Couples or friends travelling through Bali",
+    "Existing yoga practitioners wanting a reset",
+    "Bali visitors looking for a short wellness retreat",
+    "Guests who want yoga without teacher training"
+  ],
+  "policies": [
+    {
+      "title": "Schedule changes",
+      "items": [
+        "Exact session times may change slightly according to practitioner availability, group needs and campus operations. The core retreat experiences remain included."
+      ]
+    },
+    {
+      "title": "Wellness disclaimer",
+      "items": [
+        "Reiki … does not replace medical care or promise a specific health outcome.",
+        "Massage sessions are wellness experiences, not medical treatments. Please tell the team about pregnancy, allergies, recent surgery, injuries or pressure preferences before your appointment."
+      ]
+    },
+    {
+      "title": "Dietary requirements",
+      "items": [
+        "Please share allergies, intolerances and dietary requirements before arrival so the kitchen team can confirm what can be accommodated."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is this three-day yoga retreat suitable for beginners?",
+      "a": null
+    },
+    {
+      "q": "What happens during the Reiki healing session?",
+      "a": null
+    },
+    {
+      "q": "What kind of massages are included?",
+      "a": null
+    },
+    {
+      "q": "Are vegetarian and vegan meals included?",
+      "a": null
+    },
+    {
+      "q": "What accommodation can I choose?",
+      "a": null
+    },
+    {
+      "q": "Is airport pickup included in the retreat fee?",
+      "a": null
+    },
+    {
+      "q": "What are the check-in and check-out times?",
+      "a": null
+    },
+    {
+      "q": "Can solo travellers join the retreat?",
+      "a": null
+    },
+    {
+      "q": "Can couples or friends book together?",
+      "a": null
+    },
+    {
+      "q": "What should I bring for the retreat?",
+      "a": null
+    }
+  ],
+  "teachersNamed": [],
+  "relatedLinks": [],
+  "youtube": [],
+  "issues": [
+    "Live page contains internal redesign/draft wording addressed to the school (e.g. 'rates published on Bali Yoga School’s existing … page when this redesign was prepared', 'proposed curriculum', 'confirm … before paying') — the page appears to be an unfinished redesign; prices and inclusions need confirmation. Specifically: 'The prices above reflect the rates currently published for main-campus accommodation on the existing BYS 3-day retreat page.'",
+    "Prices are published as 'From $250 USD / person' and 'From $400 USD / person' with no regular/discounted pair and no discount label; stored as offer with original null. Campus (I/II) not stated.",
+    "Price level differs from the old-format Ubud pages (e.g. 5-day private Campus-I $600 offer) — cannot cross-check a 3-day rate; verify with school.",
+    "Retreat format differs from hub /yoga-retreats-in-bali/ description of the 3-day retreat (hub: Hatha Vinyasa, sound session and two Balinese massages; page: Vinyasa Flow, Reiki, one Balinese + one Ayurvedic massage).",
+    "Dining 'Lunch 12:30 PM' / 'Dinner Evening' vs old Ubud meal timings (Lunch 12:30–01:30, Dinner 19:30–20:30); no Sunday meal note on this page.",
+    "Review block labelled 'A VERIFIED GUEST EXPERIENCE' quoting 'Nadine Fuches' — verification status unknown; not extracted.",
+    "Page footer line: 'Retreat information prepared by the Bali Yoga School retreat team · Last updated September 19, 2026'.",
+    "No teachers named; no booking/refund policy on page.",
+    "No dates/availability statement on the page (only 'Check Availability' buttons); schedule.note left null.",
+    "FAQ section lists questions only — answers were not present in the captured text (collapsed accordion); 'a' left null. Capture answers before publishing FAQs."
+  ]
+}

@@ -1,0 +1,1540 @@
+{
+  "logo": {
+    "width": 662,
+    "height": 564,
+    "alt": "Bali Yoga School",
+    "src": "/images/logo-240.webp",
+    "srcSet": [
+      {
+        "w": 120,
+        "src": "/images/logo-120.webp"
+      },
+      {
+        "w": 240,
+        "src": "/images/logo-240.webp"
+      }
+    ],
+    "original": "2017/11/bali-yoga-school-logo.png"
+  },
+  "hero-garland-meditation": {
+    "width": 1203,
+    "height": 785,
+    "alt": "Students in white wearing marigold garlands, meditating in a row on an open-air shala floor",
+    "src": "/images/hero-garland-meditation-960.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/hero-garland-meditation-480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/images/hero-garland-meditation-960.webp"
+      },
+      {
+        "w": 1203,
+        "src": "/images/hero-garland-meditation-1203.webp"
+      }
+    ],
+    "original": "2023/02/WhatsApp-Image-2023-02-13-at-3.10.46-PM-1.jpeg"
+  },
+  "graduation-group": {
+    "width": 1440,
+    "height": 1026,
+    "alt": "A large group of graduates in white with orange garlands celebrating in the yoga shala",
+    "src": "/images/graduation-group-960.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/graduation-group-480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/images/graduation-group-960.webp"
+      },
+      {
+        "w": 1440,
+        "src": "/images/graduation-group-1440.webp"
+      }
+    ],
+    "original": "2025/09/300-Hour-Yoga-Teacher-Training-School-in-Bali-1.jpg"
+  },
+  "ceremony-fire": {
+    "width": 1024,
+    "height": 737,
+    "alt": "Students in white with garlands making offerings into a ceremonial fire",
+    "src": "/images/ceremony-fire-960.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/ceremony-fire-480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/images/ceremony-fire-960.webp"
+      },
+      {
+        "w": 1024,
+        "src": "/images/ceremony-fire-1024.webp"
+      }
+    ],
+    "original": "2025/08/200-Hour-Yoga-Teacher-Training-In-Ubud-Bali-2-1024x737.jpg"
+  },
+  "certificates-group": {
+    "width": 1024,
+    "height": 737,
+    "alt": "Graduates seated around a flower mandala, holding up their certificates",
+    "src": "/images/certificates-group-960.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/certificates-group-480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/images/certificates-group-960.webp"
+      },
+      {
+        "w": 1024,
+        "src": "/images/certificates-group-1024.webp"
+      }
+    ],
+    "original": "2025/08/200-Hour-Yoga-Teacher-Training-In-Ubud-Bali-4-1024x737.jpg"
+  },
+  "class-upward-dog": {
+    "width": 1300,
+    "height": 1040,
+    "alt": "Students holding upward-facing dog during a group class in the shala",
+    "src": "/images/class-upward-dog-960.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/class-upward-dog-480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/images/class-upward-dog-960.webp"
+      },
+      {
+        "w": 1300,
+        "src": "/images/class-upward-dog-1300.webp"
+      }
+    ],
+    "original": "2025/05/yoga-school-in-bali-2025.jpg"
+  },
+  "class-backbend": {
+    "width": 1300,
+    "height": 1040,
+    "alt": "Students lifting their chests into a gentle backbend during an indoor class",
+    "src": "/images/class-backbend-960.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/class-backbend-480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/images/class-backbend-960.webp"
+      },
+      {
+        "w": 1300,
+        "src": "/images/class-backbend-1300.webp"
+      }
+    ],
+    "original": "2025/05/best-yoga-school-in-bali-2025.jpg"
+  },
+  "teacher-greeting": {
+    "width": 1300,
+    "height": 1040,
+    "alt": "A teacher and a student facing each other with hands in prayer during class",
+    "src": "/images/teacher-greeting-960.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/teacher-greeting-480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/images/teacher-greeting-960.webp"
+      },
+      {
+        "w": 1300,
+        "src": "/images/teacher-greeting-1300.webp"
+      }
+    ],
+    "original": "2025/05/bali-yoga-school.jpg"
+  },
+  "water-blessing": {
+    "width": 1300,
+    "height": 1040,
+    "alt": "A student wrapped in an orange sarong with hands in prayer beneath flowing water",
+    "src": "/images/water-blessing-960.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/water-blessing-480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/images/water-blessing-960.webp"
+      },
+      {
+        "w": 1300,
+        "src": "/images/water-blessing-1300.webp"
+      }
+    ],
+    "original": "2025/05/best-yoga-school-in-bali.jpg"
+  },
+  "beach-balance": {
+    "width": 2048,
+    "height": 1365,
+    "alt": "Students in a kneeling balance pose on mats on a beach beside the sea",
+    "src": "/images/beach-balance-960.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/beach-balance-480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/images/beach-balance-960.webp"
+      },
+      {
+        "w": 1600,
+        "src": "/images/beach-balance-1600.webp"
+      }
+    ],
+    "original": "2020/05/Bali-yoga-school-8.jpg"
+  },
+  "beach-warrior": {
+    "width": 1280,
+    "height": 768,
+    "alt": "A group practising warrior pose on a beach in front of palm-thatched huts",
+    "src": "/images/beach-warrior-960.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/beach-warrior-480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/images/beach-warrior-960.webp"
+      },
+      {
+        "w": 1280,
+        "src": "/images/beach-warrior-1280.webp"
+      }
+    ],
+    "original": "2023/02/WhatsApp-Image-2023-02-13-at-3.10.45-PM.jpeg"
+  },
+  "mandala-rest": {
+    "width": 1348,
+    "height": 1180,
+    "alt": "Students lying in a circle around a flower mandala on the shala floor",
+    "src": "/images/mandala-rest-960.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/mandala-rest-480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/images/mandala-rest-960.webp"
+      },
+      {
+        "w": 1348,
+        "src": "/images/mandala-rest-1348.webp"
+      }
+    ],
+    "original": "2025/01/Yin-yoga-teacher-training-in-Bali.jpeg"
+  },
+  "class-seated": {
+    "width": 1600,
+    "height": 1066,
+    "alt": "Students seated cross-legged on mats with eyes closed during a class",
+    "src": "/images/class-seated-960.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/class-seated-480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/images/class-seated-960.webp"
+      },
+      {
+        "w": 1600,
+        "src": "/images/class-seated-1600.webp"
+      }
+    ],
+    "original": "2024/08/bali-course-yoga-classes.jpg"
+  },
+  "class-mandala-wall": {
+    "width": 800,
+    "height": 600,
+    "alt": "Students in a standing pose in a shala decorated with mandala wall art",
+    "src": "/images/class-mandala-wall-800.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/class-mandala-wall-480.webp"
+      },
+      {
+        "w": 800,
+        "src": "/images/class-mandala-wall-800.webp"
+      }
+    ],
+    "original": "2025/04/3-days-yoga-retreat-in-bali.jpg"
+  },
+  "garland-embrace": {
+    "width": 640,
+    "height": 720,
+    "alt": "Two students in white with marigold garlands embracing and smiling",
+    "src": "/images/garland-embrace-640.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/garland-embrace-480.webp"
+      },
+      {
+        "w": 640,
+        "src": "/images/garland-embrace-640.webp"
+      }
+    ],
+    "original": "2025/04/300-hours-yin-yoga-course-in-bali.jpg"
+  },
+  "retreat-group": {
+    "width": 1200,
+    "height": 690,
+    "alt": "Students and teachers in white with garlands gathered for a group photo",
+    "src": "/images/retreat-group-960.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/retreat-group-480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/images/retreat-group-960.webp"
+      },
+      {
+        "w": 1200,
+        "src": "/images/retreat-group-1200.webp"
+      }
+    ],
+    "original": "2021/12/best-yoga-retreat-in-bali-1.jpg"
+  },
+  "shala-gong": {
+    "width": 709,
+    "height": 567,
+    "alt": "Practice hall with pink mats, bolsters and a gong, set out for class",
+    "src": "/images/shala-gong-709.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/shala-gong-480.webp"
+      },
+      {
+        "w": 709,
+        "src": "/images/shala-gong-709.webp"
+      }
+    ],
+    "original": "2025/12/3-20.jpg"
+  },
+  "shala-garden": {
+    "width": 800,
+    "height": 640,
+    "alt": "Open-sided practice hall with mats and bolsters facing a tropical garden",
+    "src": "/images/shala-garden-800.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/shala-garden-480.webp"
+      },
+      {
+        "w": 800,
+        "src": "/images/shala-garden-800.webp"
+      }
+    ],
+    "original": "2025/12/2-23-1.jpg"
+  },
+  "shala-brick": {
+    "width": 745,
+    "height": 596,
+    "alt": "Indoor practice room with brick walls and mats laid out in rows",
+    "src": "/images/shala-brick-745.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/shala-brick-480.webp"
+      },
+      {
+        "w": 745,
+        "src": "/images/shala-brick-745.webp"
+      }
+    ],
+    "original": "2025/12/4-17.jpg"
+  },
+  "ubud-stay-pool": {
+    "width": 800,
+    "height": 600,
+    "alt": "Small swimming pool with sun loungers in front of a guest villa",
+    "src": "/images/ubud-stay-pool-800.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/ubud-stay-pool-480.webp"
+      },
+      {
+        "w": 800,
+        "src": "/images/ubud-stay-pool-800.webp"
+      }
+    ],
+    "original": "2025/04/bali-yoga-school-second-stay-2.jpg"
+  },
+  "ubud-stay-villa": {
+    "width": 800,
+    "height": 600,
+    "alt": "Front terrace of a guest villa with plants at the entrance",
+    "src": "/images/ubud-stay-villa-800.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/ubud-stay-villa-480.webp"
+      },
+      {
+        "w": 800,
+        "src": "/images/ubud-stay-villa-800.webp"
+      }
+    ],
+    "original": "2025/04/bali-yoga-school-second-stay.jpg"
+  },
+  "ubud-stay-entrance": {
+    "width": 800,
+    "height": 600,
+    "alt": "Glass doors of a guest room framed by tropical plants",
+    "src": "/images/ubud-stay-entrance-800.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/ubud-stay-entrance-480.webp"
+      },
+      {
+        "w": 800,
+        "src": "/images/ubud-stay-entrance-800.webp"
+      }
+    ],
+    "original": "2025/04/bali-yoga-school-second-stay-1.jpg"
+  },
+  "ubud-stay-bathroom": {
+    "width": 800,
+    "height": 600,
+    "alt": "Guest bathroom with a stone basin and wooden vanity",
+    "src": "/images/ubud-stay-bathroom-800.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/ubud-stay-bathroom-480.webp"
+      },
+      {
+        "w": 800,
+        "src": "/images/ubud-stay-bathroom-800.webp"
+      }
+    ],
+    "original": "2025/04/bali-yoga-school-second-stay-3-1.jpg"
+  },
+  "ubud-shared-room": {
+    "width": 550,
+    "height": 350,
+    "alt": "Shared room with two single beds and rolled towels",
+    "src": "/images/ubud-shared-room-550.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/ubud-shared-room-480.webp"
+      },
+      {
+        "w": 550,
+        "src": "/images/ubud-shared-room-550.webp"
+      }
+    ],
+    "original": "2017/11/bali-yoga-school-shared-room-1-550x350.jpeg"
+  },
+  "ubud-twin-room": {
+    "width": 550,
+    "height": 350,
+    "alt": "Room with a double bed under a timber ceiling, lit by wall lamps",
+    "src": "/images/ubud-twin-room-550.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/ubud-twin-room-480.webp"
+      },
+      {
+        "w": 550,
+        "src": "/images/ubud-twin-room-550.webp"
+      }
+    ],
+    "original": "2017/11/WhatsApp-Image-2024-11-04-at-2.34.56-PM-550x350.jpeg"
+  },
+  "uluwatu-pool-dusk": {
+    "width": 1500,
+    "height": 1080,
+    "alt": "Swimming pool and garden at the Uluwatu campus at dusk",
+    "src": "/images/uluwatu-pool-dusk-960.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/uluwatu-pool-dusk-480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/images/uluwatu-pool-dusk-960.webp"
+      },
+      {
+        "w": 1500,
+        "src": "/images/uluwatu-pool-dusk-1500.webp"
+      }
+    ],
+    "original": "2025/08/IMG_1345-1-1.png"
+  },
+  "uluwatu-pool-day": {
+    "width": 1500,
+    "height": 1080,
+    "alt": "Turquoise pool with sun loungers under frangipani trees",
+    "src": "/images/uluwatu-pool-day-960.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/uluwatu-pool-day-480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/images/uluwatu-pool-day-960.webp"
+      },
+      {
+        "w": 1500,
+        "src": "/images/uluwatu-pool-day-1500.webp"
+      }
+    ],
+    "original": "2025/08/IMG_1346.png"
+  },
+  "uluwatu-deck": {
+    "width": 1500,
+    "height": 1080,
+    "alt": "Garden dining deck with wicker chairs beside the pool",
+    "src": "/images/uluwatu-deck-960.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/uluwatu-deck-480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/images/uluwatu-deck-960.webp"
+      },
+      {
+        "w": 1500,
+        "src": "/images/uluwatu-deck-1500.webp"
+      }
+    ],
+    "original": "2025/08/IMG_1347.png"
+  },
+  "uluwatu-villa": {
+    "width": 1500,
+    "height": 1080,
+    "alt": "Two-storey villa building surrounded by tropical planting",
+    "src": "/images/uluwatu-villa-960.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/uluwatu-villa-480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/images/uluwatu-villa-960.webp"
+      },
+      {
+        "w": 1500,
+        "src": "/images/uluwatu-villa-1500.webp"
+      }
+    ],
+    "original": "2025/08/IMG_1371.png"
+  },
+  "uluwatu-room": {
+    "width": 1500,
+    "height": 1080,
+    "alt": "Bedroom with a double bed, wardrobe and garden window",
+    "src": "/images/uluwatu-room-960.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/uluwatu-room-480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/images/uluwatu-room-960.webp"
+      },
+      {
+        "w": 1500,
+        "src": "/images/uluwatu-room-1500.webp"
+      }
+    ],
+    "original": "2025/08/IMG_1374.png"
+  },
+  "uluwatu-room-2": {
+    "width": 1500,
+    "height": 1080,
+    "alt": "Bedroom with a timber ceiling, double bed and sitting area",
+    "src": "/images/uluwatu-room-2-960.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/uluwatu-room-2-480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/images/uluwatu-room-2-960.webp"
+      },
+      {
+        "w": 1500,
+        "src": "/images/uluwatu-room-2-1500.webp"
+      }
+    ],
+    "original": "2025/08/IMG_1377.png"
+  },
+  "uluwatu-hall": {
+    "width": 1500,
+    "height": 1080,
+    "alt": "Spacious hall with a pitched timber ceiling and wooden floor",
+    "src": "/images/uluwatu-hall-960.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/uluwatu-hall-480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/images/uluwatu-hall-960.webp"
+      },
+      {
+        "w": 1500,
+        "src": "/images/uluwatu-hall-1500.webp"
+      }
+    ],
+    "original": "2025/08/IMG_1352.png"
+  },
+  "uluwatu-pool-aerial": {
+    "width": 1500,
+    "height": 1080,
+    "alt": "Overhead view of a pool framed by greenery",
+    "src": "/images/uluwatu-pool-aerial-960.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/uluwatu-pool-aerial-480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/images/uluwatu-pool-aerial-960.webp"
+      },
+      {
+        "w": 1500,
+        "src": "/images/uluwatu-pool-aerial-1500.webp"
+      }
+    ],
+    "original": "2025/08/IMG_1372.png"
+  },
+  "canggu-building": {
+    "width": 675,
+    "height": 540,
+    "alt": "Multi-storey accommodation building with balconies under a blue sky",
+    "src": "/images/canggu-building-675.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/canggu-building-480.webp"
+      },
+      {
+        "w": 675,
+        "src": "/images/canggu-building-675.webp"
+      }
+    ],
+    "original": "2025/09/Building-Yoga-Retreat-In-Canggu-2.jpg"
+  },
+  "canggu-pool": {
+    "width": 1200,
+    "height": 960,
+    "alt": "Pool deck with loungers and umbrella beside the Canggu accommodation",
+    "src": "/images/canggu-pool-960.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/canggu-pool-480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/images/canggu-pool-960.webp"
+      },
+      {
+        "w": 1200,
+        "src": "/images/canggu-pool-1200.webp"
+      }
+    ],
+    "original": "2025/09/Swimming-Pool-Yoga-Retreat-In-Canggu-3.jpg"
+  },
+  "canggu-room": {
+    "width": 1000,
+    "height": 667,
+    "alt": "Bedroom with a double bed, wooden furniture and tiled floor",
+    "src": "/images/canggu-room-960.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/canggu-room-480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/images/canggu-room-960.webp"
+      },
+      {
+        "w": 1000,
+        "src": "/images/canggu-room-1000.webp"
+      }
+    ],
+    "original": "2025/09/Deluxe-room.jpg"
+  },
+  "canggu-room-2": {
+    "width": 1000,
+    "height": 667,
+    "alt": "Bright double room with large windows and a television",
+    "src": "/images/canggu-room-2-960.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/canggu-room-2-480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/images/canggu-room-2-960.webp"
+      },
+      {
+        "w": 1000,
+        "src": "/images/canggu-room-2-1000.webp"
+      }
+    ],
+    "original": "2025/09/Deluxe-room-2.jpg"
+  },
+  "canggu-room-3": {
+    "width": 675,
+    "height": 540,
+    "alt": "Double room with artwork above the bed and a garden window",
+    "src": "/images/canggu-room-3-675.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/canggu-room-3-480.webp"
+      },
+      {
+        "w": 675,
+        "src": "/images/canggu-room-3-675.webp"
+      }
+    ],
+    "original": "2025/09/Superior-Room-2-_-Yoga-Retreat-In-Canggu-2.jpg"
+  },
+  "food-plates": {
+    "width": 2560,
+    "height": 1707,
+    "alt": "Three students smiling as they hold plates of fresh food",
+    "src": "/images/food-plates-960.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/food-plates-480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/images/food-plates-960.webp"
+      },
+      {
+        "w": 1600,
+        "src": "/images/food-plates-1600.webp"
+      }
+    ],
+    "original": "2025/08/bali-yoga-shala-uluwatu-school-food-images-1-scaled.jpg"
+  },
+  "food-pool": {
+    "width": 2560,
+    "height": 1707,
+    "alt": "A student holding a plate of food beside the pool",
+    "src": "/images/food-pool-960.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/food-pool-480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/images/food-pool-960.webp"
+      },
+      {
+        "w": 1600,
+        "src": "/images/food-pool-1600.webp"
+      }
+    ],
+    "original": "2025/08/bali-yoga-shala-uluwatu-school-food-images-11-scaled.jpg"
+  },
+  "food-buffet": {
+    "width": 2560,
+    "height": 1706,
+    "alt": "Buffet trays of salads, grains and roasted vegetables",
+    "src": "/images/food-buffet-960.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/food-buffet-480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/images/food-buffet-960.webp"
+      },
+      {
+        "w": 1600,
+        "src": "/images/food-buffet-1600.webp"
+      }
+    ],
+    "original": "2025/08/bali-yoga-shala-uluwatu-school-food-images-2-scaled.jpg"
+  },
+  "food-banana-leaf": {
+    "width": 2560,
+    "height": 1707,
+    "alt": "Woven plate lined with banana leaf holding vegetables and rice",
+    "src": "/images/food-banana-leaf-960.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/food-banana-leaf-480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/images/food-banana-leaf-960.webp"
+      },
+      {
+        "w": 1600,
+        "src": "/images/food-banana-leaf-1600.webp"
+      }
+    ],
+    "original": "2025/08/bali-yoga-shala-uluwatu-school-food-images-9-scaled.jpg"
+  },
+  "food-table": {
+    "width": 2560,
+    "height": 1706,
+    "alt": "Students sharing a meal together at a long table",
+    "src": "/images/food-table-960.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/food-table-480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/images/food-table-960.webp"
+      },
+      {
+        "w": 1600,
+        "src": "/images/food-table-1600.webp"
+      }
+    ],
+    "original": "2025/08/bali-yoga-shala-uluwatu-school-food-images-12-scaled.jpg"
+  },
+  "sound-bowls": {
+    "width": 1500,
+    "height": 1080,
+    "alt": "Students playing singing bowls together during a sound healing class",
+    "src": "/images/sound-bowls-960.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/sound-bowls-480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/images/sound-bowls-960.webp"
+      },
+      {
+        "w": 1500,
+        "src": "/images/sound-bowls-1500.webp"
+      }
+    ],
+    "original": "2024/09/Sound-Healing-Course-in-Bali.jpg"
+  },
+  "reiki-hands": {
+    "width": 640,
+    "height": 720,
+    "alt": "A practitioner holding her hands near a recipient's head during a Reiki session",
+    "src": "/images/reiki-hands-640.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/reiki-hands-480.webp"
+      },
+      {
+        "w": 640,
+        "src": "/images/reiki-hands-640.webp"
+      }
+    ],
+    "original": "2025/04/reiki-level-1-2-3.jpg"
+  },
+  "reiki-wide": {
+    "width": 1200,
+    "height": 630,
+    "alt": "A practitioner extending a hand towards a recipient's forehead",
+    "src": "/images/reiki-wide-960.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/reiki-wide-480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/images/reiki-wide-960.webp"
+      },
+      {
+        "w": 1200,
+        "src": "/images/reiki-wide-1200.webp"
+      }
+    ],
+    "original": "2017/11/reiki-healing-Bali.jpeg"
+  },
+  "healing-meditation": {
+    "width": 640,
+    "height": 720,
+    "alt": "Students meditating with eyes closed in the practice hall",
+    "src": "/images/healing-meditation-640.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/healing-meditation-480.webp"
+      },
+      {
+        "w": 640,
+        "src": "/images/healing-meditation-640.webp"
+      }
+    ],
+    "original": "2025/04/reiki-level-1-2.jpg"
+  },
+  "yin-beach": {
+    "width": 1348,
+    "height": 1180,
+    "alt": "A student resting in child's pose on a mat on the sand",
+    "src": "/images/yin-beach-960.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/yin-beach-480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/images/yin-beach-960.webp"
+      },
+      {
+        "w": 1348,
+        "src": "/images/yin-beach-1348.webp"
+      }
+    ],
+    "original": "2025/01/Benefits-of-Yin-Yoga.jpeg"
+  },
+  "yin-pair": {
+    "width": 1260,
+    "height": 750,
+    "alt": "Two students seated in meditation in a calm practice room",
+    "src": "/images/yin-pair-960.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/yin-pair-480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/images/yin-pair-960.webp"
+      },
+      {
+        "w": 1260,
+        "src": "/images/yin-pair-1260.webp"
+      }
+    ],
+    "original": "2025/04/50-hours-yin-yoga-course-in-bali.jpg"
+  },
+  "yin-beach-stretch": {
+    "width": 1350,
+    "height": 1080,
+    "alt": "Students reaching into a side stretch during a beach class",
+    "src": "/images/yin-beach-stretch-960.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/yin-beach-stretch-480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/images/yin-beach-stretch-960.webp"
+      },
+      {
+        "w": 1350,
+        "src": "/images/yin-beach-stretch-1350.webp"
+      }
+    ],
+    "original": "2025/01/50-hour-yoga-teacher-training-in-Bali-hatha-vinyasa-yoga.jpeg"
+  },
+  "rishikesh-class": {
+    "width": 1080,
+    "height": 1080,
+    "alt": "A student raising both arms during an outdoor class in Rishikesh",
+    "src": "/images/rishikesh-class-960.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/rishikesh-class-480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/images/rishikesh-class-960.webp"
+      },
+      {
+        "w": 1080,
+        "src": "/images/rishikesh-class-1080.webp"
+      }
+    ],
+    "original": "2021/08/100-hour-yoga-teacher-training-in-Rishikesh-India.jpeg"
+  },
+  "rishikesh-terrace": {
+    "width": 1079,
+    "height": 863,
+    "alt": "A teacher guiding students in yellow T-shirts through a warrior pose on a terrace",
+    "src": "/images/rishikesh-terrace-960.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/rishikesh-terrace-480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/images/rishikesh-terrace-960.webp"
+      },
+      {
+        "w": 1079,
+        "src": "/images/rishikesh-terrace-1079.webp"
+      }
+    ],
+    "original": "2026/09/200-houryoga-ttc-course.jpeg"
+  },
+  "rishikesh-pranayama": {
+    "width": 1200,
+    "height": 630,
+    "alt": "Students practising breathing exercises in a group class",
+    "src": "/images/rishikesh-pranayama-960.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/rishikesh-pranayama-480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/images/rishikesh-pranayama-960.webp"
+      },
+      {
+        "w": 1200,
+        "src": "/images/rishikesh-pranayama-1200.webp"
+      }
+    ],
+    "original": "2025/01/300-hour-yoga-teacher-training-in-India-pranayama.jpeg"
+  },
+  "prenatal-class": {
+    "width": 1440,
+    "height": 810,
+    "alt": "A teacher speaking with two pregnant students seated on mats",
+    "src": "/images/prenatal-class-960.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/prenatal-class-480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/images/prenatal-class-960.webp"
+      },
+      {
+        "w": 1440,
+        "src": "/images/prenatal-class-1440.webp"
+      }
+    ],
+    "original": "2026/06/12-Day-50-Hour-Prenatal-Postnatal-Yoga-Teacher-Training-in-Bali-Indonesia.jpeg"
+  },
+  "cert-ya-200": {
+    "width": 1500,
+    "height": 1158,
+    "alt": "Yoga Alliance certificate of registration for Bali Yoga School, RYS 200",
+    "src": "/images/cert-ya-200-960.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/cert-ya-200-480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/images/cert-ya-200-960.webp"
+      },
+      {
+        "w": 1500,
+        "src": "/images/cert-ya-200-1500.webp"
+      }
+    ],
+    "original": "2024/11/Bali-Yoga-School-200-hour-Yoga-Alliance-registration.jpg"
+  },
+  "cert-ya-300": {
+    "width": 1500,
+    "height": 1158,
+    "alt": "Yoga Alliance certificate of registration for Bali Yoga School, RYS 300",
+    "src": "/images/cert-ya-300-960.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/cert-ya-300-480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/images/cert-ya-300-960.webp"
+      },
+      {
+        "w": 1500,
+        "src": "/images/cert-ya-300-1500.webp"
+      }
+    ],
+    "original": "2024/11/Bali-Yoga-School-300-hour-Yoga-Alliance-registration.jpg"
+  },
+  "cert-iyo": {
+    "width": 1280,
+    "height": 991,
+    "alt": "International Yoga Organisation registration certificate issued to Bali Yoga School",
+    "src": "/images/cert-iyo-960.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/cert-iyo-480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/images/cert-iyo-960.webp"
+      },
+      {
+        "w": 1280,
+        "src": "/images/cert-iyo-1280.webp"
+      }
+    ],
+    "original": "2025/11/Internatonal-yoga-organization-certificate-IYO-bali-yoga-school.jpeg"
+  },
+  "cert-iys": {
+    "width": 926,
+    "height": 1280,
+    "alt": "IYS International Yoga School certificate issued to Bali Yoga School",
+    "src": "/images/cert-iys-926.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/cert-iys-480.webp"
+      },
+      {
+        "w": 926,
+        "src": "/images/cert-iys-926.webp"
+      }
+    ],
+    "original": "2025/11/Internatonal-yoga-organization-certificate-bali-yoga-school.jpeg"
+  },
+  "cert-sample-200": {
+    "width": 1536,
+    "height": 1086,
+    "alt": "Sample certificate of completion for the 200 Hour Yoga Teacher Training Course",
+    "src": "/images/cert-sample-200-960.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/cert-sample-200-480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/images/cert-sample-200-960.webp"
+      },
+      {
+        "w": 1536,
+        "src": "/images/cert-sample-200-1536.webp"
+      }
+    ],
+    "original": "2025/01/200-hour-yoga-teacher-training-bali-certificate-usa-1536x1086.jpeg"
+  },
+  "cert-sample-yin": {
+    "width": 1024,
+    "height": 724,
+    "alt": "Sample certificate of completion for the 200 Hour Yin Yoga Teacher Training",
+    "src": "/images/cert-sample-yin-960.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/cert-sample-yin-480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/images/cert-sample-yin-960.webp"
+      },
+      {
+        "w": 1024,
+        "src": "/images/cert-sample-yin-1024.webp"
+      }
+    ],
+    "original": "2025/01/200-hour-yin-yoga-teacher-training-certificate-yoga-alliance-usa-1024x724.jpg"
+  },
+  "founder": {
+    "width": 1080,
+    "height": 1080,
+    "alt": "Yogi Himanshu Joshi, founder of Bali Yoga School, seated cross-legged and smiling",
+    "src": "/images/founder-960.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/founder-480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/images/founder-960.webp"
+      },
+      {
+        "w": 1080,
+        "src": "/images/founder-1080.webp"
+      }
+    ],
+    "original": "2020/05/FB_IMG_1586217251553.jpg"
+  },
+  "garden-path": {
+    "width": 1600,
+    "height": 1151,
+    "alt": "Stone garden path between thatched-roof bungalows and palms",
+    "src": "/images/garden-path-960.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/garden-path-480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/images/garden-path-960.webp"
+      },
+      {
+        "w": 1600,
+        "src": "/images/garden-path-1600.webp"
+      }
+    ],
+    "original": "2026/09/head-management.jpeg"
+  },
+  "person-dewa": {
+    "width": 697,
+    "height": 523,
+    "alt": "Dewa, School Director, in a white udeng with hands in prayer",
+    "src": "/images/person-dewa-697.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/person-dewa-480.webp"
+      },
+      {
+        "w": 697,
+        "src": "/images/person-dewa-697.webp"
+      }
+    ],
+    "original": "2024/09/Screenshot-2024-09-16-at-10.20.56-AM.jpg"
+  },
+  "person-shanti": {
+    "width": 757,
+    "height": 568,
+    "alt": "Yogini Shanti smiling in a Bali Yoga School T-shirt",
+    "src": "/images/person-shanti-757.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/person-shanti-480.webp"
+      },
+      {
+        "w": 757,
+        "src": "/images/person-shanti-757.webp"
+      }
+    ],
+    "original": "2024/09/Screenshot-2024-09-16-at-10.20.43-AM.jpg"
+  },
+  "person-nikki": {
+    "width": 843,
+    "height": 632,
+    "alt": "Yogini Nikki with hands in prayer in a garden",
+    "src": "/images/person-nikki-843.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/person-nikki-480.webp"
+      },
+      {
+        "w": 843,
+        "src": "/images/person-nikki-843.webp"
+      }
+    ],
+    "original": "2024/09/Screenshot-2024-09-16-at-10.21.15-AM.jpg"
+  },
+  "person-chiara": {
+    "width": 971,
+    "height": 728,
+    "alt": "Yogini Chiara with hands in prayer in a garden",
+    "src": "/images/person-chiara-960.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/person-chiara-480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/images/person-chiara-960.webp"
+      },
+      {
+        "w": 971,
+        "src": "/images/person-chiara-971.webp"
+      }
+    ],
+    "original": "2024/09/Screenshot-2024-09-16-at-10.21.27-AM.jpg"
+  },
+  "person-pandu": {
+    "width": 960,
+    "height": 720,
+    "alt": "Yogi Pandu in a white udeng, smiling with hands in prayer",
+    "src": "/images/person-pandu-960.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/person-pandu-480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/images/person-pandu-960.webp"
+      }
+    ],
+    "original": "2024/09/5a1395ba-7bcd-48f4-b140-2de89e57d8d1.jpg"
+  },
+  "person-babloo": {
+    "width": 1121,
+    "height": 897,
+    "alt": "Yogi Babloo seated in meditation on a lawn",
+    "src": "/images/person-babloo-960.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/person-babloo-480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/images/person-babloo-960.webp"
+      },
+      {
+        "w": 1121,
+        "src": "/images/person-babloo-1121.webp"
+      }
+    ],
+    "original": "2025/10/IMG_2812.jpg"
+  },
+  "person-chetan": {
+    "width": 803,
+    "height": 859,
+    "alt": "Yogi Chetan smiling outdoors",
+    "src": "/images/person-chetan-803.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/person-chetan-480.webp"
+      },
+      {
+        "w": 803,
+        "src": "/images/person-chetan-803.webp"
+      }
+    ],
+    "original": "2025/10/WhatsApp-Image-2025-10-04-at-5.32.15-PM.jpeg"
+  },
+  "person-laksmi": {
+    "width": 1440,
+    "height": 1080,
+    "alt": "Yogini Laksmi smiling in a Bali Yoga School T-shirt",
+    "src": "/images/person-laksmi-960.webp",
+    "srcSet": [
+      {
+        "w": 480,
+        "src": "/images/person-laksmi-480.webp"
+      },
+      {
+        "w": 960,
+        "src": "/images/person-laksmi-960.webp"
+      },
+      {
+        "w": 1440,
+        "src": "/images/person-laksmi-1440.webp"
+      }
+    ],
+    "original": "2026/01/Laksmi.png"
+  },
+  "review-ryan-murase": {
+    "width": 150,
+    "height": 150,
+    "alt": "",
+    "src": "/images/review-ryan-murase-96.webp",
+    "srcSet": [
+      {
+        "w": 96,
+        "src": "/images/review-ryan-murase-96.webp"
+      }
+    ],
+    "original": "2021/10/Ryan-Murase.png"
+  },
+  "review-nadine-fuchs": {
+    "width": 150,
+    "height": 150,
+    "alt": "",
+    "src": "/images/review-nadine-fuchs-96.webp",
+    "srcSet": [
+      {
+        "w": 96,
+        "src": "/images/review-nadine-fuchs-96.webp"
+      }
+    ],
+    "original": "2021/10/Nadine-Fuchs.png"
+  },
+  "review-polina-boyd": {
+    "width": 150,
+    "height": 150,
+    "alt": "",
+    "src": "/images/review-polina-boyd-96.webp",
+    "srcSet": [
+      {
+        "w": 96,
+        "src": "/images/review-polina-boyd-96.webp"
+      }
+    ],
+    "original": "2021/10/Polina-Boyd.png"
+  },
+  "review-elizabeth-whitis": {
+    "width": 150,
+    "height": 150,
+    "alt": "",
+    "src": "/images/review-elizabeth-whitis-96.webp",
+    "srcSet": [
+      {
+        "w": 96,
+        "src": "/images/review-elizabeth-whitis-96.webp"
+      }
+    ],
+    "original": "2021/10/Elizabeth-Whitis.png"
+  },
+  "review-rimante-eneva": {
+    "width": 150,
+    "height": 150,
+    "alt": "",
+    "src": "/images/review-rimante-eneva-96.webp",
+    "srcSet": [
+      {
+        "w": 96,
+        "src": "/images/review-rimante-eneva-96.webp"
+      }
+    ],
+    "original": "2021/10/Rimante-Eneva.png"
+  },
+  "review-sakshi": {
+    "width": 150,
+    "height": 150,
+    "alt": "",
+    "src": "/images/review-sakshi-96.webp",
+    "srcSet": [
+      {
+        "w": 96,
+        "src": "/images/review-sakshi-96.webp"
+      }
+    ],
+    "original": "2021/10/Sakshi.png"
+  },
+  "review-mireya-schoo": {
+    "width": 150,
+    "height": 150,
+    "alt": "",
+    "src": "/images/review-mireya-schoo-96.webp",
+    "srcSet": [
+      {
+        "w": 96,
+        "src": "/images/review-mireya-schoo-96.webp"
+      }
+    ],
+    "original": "2021/10/Mireya-Schoo.png"
+  },
+  "review-heike-rose": {
+    "width": 150,
+    "height": 150,
+    "alt": "",
+    "src": "/images/review-heike-rose-96.webp",
+    "srcSet": [
+      {
+        "w": 96,
+        "src": "/images/review-heike-rose-96.webp"
+      }
+    ],
+    "original": "2021/10/Heike-Rose.png"
+  },
+  "review-marie-sophie": {
+    "width": 150,
+    "height": 150,
+    "alt": "",
+    "src": "/images/review-marie-sophie-96.webp",
+    "srcSet": [
+      {
+        "w": 96,
+        "src": "/images/review-marie-sophie-96.webp"
+      }
+    ],
+    "original": "2021/10/Marie-Sophie-Van-de-Pas.png"
+  },
+  "review-iron-man": {
+    "width": 150,
+    "height": 150,
+    "alt": "",
+    "src": "/images/review-iron-man-96.webp",
+    "srcSet": [
+      {
+        "w": 96,
+        "src": "/images/review-iron-man-96.webp"
+      }
+    ],
+    "original": "2021/10/Iron-Man.png"
+  },
+  "review-nashelly": {
+    "width": 150,
+    "height": 150,
+    "alt": "",
+    "src": "/images/review-nashelly-96.webp",
+    "srcSet": [
+      {
+        "w": 96,
+        "src": "/images/review-nashelly-96.webp"
+      }
+    ],
+    "original": "2021/10/Nashelly-Magallanes.png"
+  },
+  "review-vandana": {
+    "width": 150,
+    "height": 150,
+    "alt": "",
+    "src": "/images/review-vandana-96.webp",
+    "srcSet": [
+      {
+        "w": 96,
+        "src": "/images/review-vandana-96.webp"
+      }
+    ],
+    "original": "2021/10/vandana-khanna.png"
+  }
+}

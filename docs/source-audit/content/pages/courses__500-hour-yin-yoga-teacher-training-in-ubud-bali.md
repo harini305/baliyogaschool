@@ -1,0 +1,1052 @@
+# 500 Hour Yin Yoga Teacher Training in Bali : Bali Yoga School
+
+| Field | Value |
+|---|---|
+| URL | https://www.baliyogaschool.com/courses/500-hour-yin-yoga-teacher-training-in-ubud-bali/ |
+| HTTP status | 200 |
+| Final URL | https://www.baliyogaschool.com/courses/500-hour-yin-yoga-teacher-training-in-ubud-bali/ |
+| Page type (audit classification) | Course detail |
+| Meta description | 500-Hour Yin Yoga Teacher Training in Bali is a comprehensive, Yoga Alliance–certified professional program designed for yoga teachers and experienced practitioners seeking advanced, evidence-informed education in Yin Yoga. |
+| Canonical | https://www.baliyogaschool.com/courses/500-hour-yin-yoga-teacher-training-in-ubud-bali/ |
+| Robots meta | index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1 |
+| OG image | https://www.baliyogaschool.com/wp-content/uploads/2025/01/yin-yoga-teacher-training-in-Bali-3.jpeg |
+| Rendered height (1440px) | 40142 px |
+| Prices found | $5700, $3990, $7035, $4925, $6100, $4270, $4350, $3045, $5150, $3605, $3050, $2135, $500, $350, $200 |
+
+## Heading outline (visible headings)
+
+  - H2 500-Hour Yin Yoga Teacher Training in Bali
+  - H2 Advance Clinical Knowledge. Integrate Functional Anatomy. Teach Yin Yoga with Depth, Precision, and Professional Confidence.
+    - H3 Classes
+    - H3 Self-Study
+    - H3 Assignments
+    - H3 Total Course Period
+    - H3 Important Note
+  - H2 Our Yoga Certifications
+    - H3 Yoga Alliance 200 hrs Certificate
+    - H3 Yoga Alliance 300 hrs Certificate
+    - H3 IYS®️ - International Yoga School Certification
+    - H3 IYS®️ Recognition
+  - H2 BALI YOGA SCHOOL OFFERS
+  - H2 CURRICULUM OVERVIEW
+  - H2 200 Hour Yin Yoga Teacher Training Syllabus
+    - H3 Pranayama Syllabus
+    - H3 Meditation Syllabus
+    - H3 Yin Anatomy Syllabus
+    - H3 Yin Asanas with [Alignment / Adjustment/ Methodology]
+    - H3 Foundations – Yang Asanas
+    - H3 Philosophy Syllabus
+    - H3 Teaching Practice & Methodology
+    - H3 Evaluation are based on
+  - H2 300 Hour Yin Yoga Teacher Training Syllabus
+    - H3 Yin Practice Syllabus
+    - H3 Yin, Ayurveda & Yoga Therapy Course Syllabus
+    - H3 Yin Yoga Philosophy Course Syllabus
+    - H3 Yin Yoga Anatomy
+    - H3 Yin Teaching Methodology, Alignments & Adjustments
+    - H3 Yang Yoga Asanas
+    - H3 Yin Meditation
+    - H3 Yin Pranayama & Shatkarma
+    - H3 Plant-Based Meals & Yogic Nutrition at Bali Yoga School
+  - H2 Yin Yoga Shala
+  - H2 500 Hour Yin Yoga Teacher Training – Dates & Fees
+  - H2 200 Hrs Yin Daily Schedule
+  - H2 300 Hrs Yin Daily Schedule
+    - H3 Important Points:
+- H1 Additional Healing Courses
+  - H2 ✨ Additional Sound Healing Courses
+  - H2 🌸 Additional Reiki Healing Courses
+  - H2 What’s Included
+  - H2 Shared Room at Bali Yoga School
+  - H2 COURSE SAMPLE CERTIFICATE
+  - H2 Himanshu Joshi
+  - H2 Our Yin Yoga Teachers
+    - H3 Yogini Chiara
+    - H3 Yogi Babloo
+    - H3 Yogi Chetan
+  - H2 FAQs
+      - H4 Do I need prior Yin Yoga experience?
+      - H4 Is this training Yoga Alliance certified?
+      - H4 Is the training physically demanding?
+      - H4 Can I teach Yin Yoga professionally after completing this training?
+      - H4 Is this training suitable if I have injuries or limitations?
+  - H2 30% OFF on 500-Hour Yin Yoga Teacher Training in Rishikesh, India.
+
+## Section order (top-level page builder rows)
+
+1. 500 Hour Yin Yoga Teacher Training In Ubud, Bali
+2. 500-Hour Yin Yoga Teacher Training in Bali
+3. [Why Yin Yoga — And Why Our 500-Hour Training In an increasin]
+4. [Who This 500-Hour Yin Yoga Teacher Training Is For The 500-H]
+5. [Why Train Yin Yoga with Bali Yoga School At Bali Yoga School]
+6. CURRICULUM OVERVIEW
+7. 300 Hour Yin Yoga Teacher Training Syllabus
+8. Plant-Based Meals & Yogic Nutrition at Bali Yoga School
+9. 500 Hour Yin Yoga Teacher Training – Dates & Fees
+10. [Course Options Original (USD) Discounted (USD) Book Now Twin]
+11. Additional Healing Courses
+12. What’s Included
+13. Shared Room at Bali Yoga School
+14. COURSE SAMPLE CERTIFICATE
+15. Himanshu Joshi
+16. FAQs
+17. 30% OFF on 500-Hour Yin Yoga Teacher Training in Rishikesh, India.
+18. [no text – image/embed only]
+
+## Full visible main-content text (header/footer excluded; captured 2026-10-19)
+
+```text
+500-Hour Yin Yoga Teacher Training in Bali
+Advance Clinical Knowledge. Integrate Functional Anatomy. Teach Yin Yoga with Depth, Precision, and Professional Confidence.
+
+The 500-Hour Yin Yoga Teacher Training in Bali is a comprehensive, Yoga Alliance–certified professional program designed for yoga teachers and experienced practitioners seeking advanced, evidence-informed education in Yin Yoga. This training provides an in-depth exploration of the structural, fascial, neurological, and energetic foundations of Yin Yoga, supporting safe, intelligent, and adaptable teaching across diverse populations.
+
+Through progressive study of functional anatomy, skeletal variation, connective tissue physiology, and Traditional Chinese Medicine (TCM), participants develop refined skills to assess postures, apply therapeutic modifications, and design Yin Yoga practices that support joint health, nervous system regulation, and long-term sustainability. The curriculum integrates anatomy lectures, applied Yin Yoga practice, meridian and organ theory, breath regulation, mindfulness-based techniques, and advanced teaching methodology.
+
+Delivered as a residential training in the focused and supportive environment of Bali, the program emphasizes clinical reasoning, experiential learning, and practical application rather than prescriptive sequencing or aesthetic alignment. Graduates complete the training with a comprehensive understanding of Yin Yoga as a therapeutic, meditative, and structurally sound discipline, fully prepared for professional teaching, continued study, and integration into modern yoga, wellness, and therapeutic settings.
+
+Yoga Alliance Certified 500-Hour Program | Residential Training | Bali, Indonesia
+
+Calculation of 200 Hours Multi-style Yoga TTC Course In Bali
+Classes
+
+20 days × 8 hours per day
+
+160 Hours
+Self-Study
+
+20 days × 2 hours per day
+
+40 Hours
+✓
+Total Course Period
+
+20 Training Days + 3 Off Days + Check-in 1 Day before the course + 1 Day for checkout
+
+Total: 25 Days
+160 hours (classes) + 40 hours (self-study)
+= 200 Hours
+Total Course Period: 25 Days
+Training Days: 20 Days
+Off Days: 3 Days
+Course Certification: 200 Hours
+Calculation of 300 Hours Multi-Style Yoga TTC Course In Bali
+Classes
+
+24 days × 9 hours per day
+
+216 Hours
+Self-Study
+
+24 days × 2 hours per day
+
+48 Hours
+Assignments
+
+Before joining the course
+
+36 Hours
+✓
+Total Course Period
+
+24 Training Days + 2 Off Days + Check-in 1 Day before the course + 1 Day for checkout
+
+Total: 28 Days
+216 hours (classes) + 48 hours (self-study) + 36 hours (assignments)
+= 300 Hours
+Total Course Period: 28 Days
+Training Days: 24 Days
+Off Days: 2 Days
+Course Certification: 300 Hours
+Total Course Period
+✓
+
+44 Training Days + 12 Off Days + Check-in 1 Day before the course + 1 Day for checkout
+
+Total: 58 Days
+Important Note
+Prerequisite Assignment
+
+We kindly inform you that all students are required to complete the prerequisite assignment prior to their arrival and submit it at the time of check-in. We request that the assignment be printed and that each topic be compiled separately into a single file for submission.
+
+This prerequisite is designed to ensure that all participants of the 300-Hour Yoga Teacher Training Program possess the essential foundational knowledge, allowing for a deeper, more meaningful, and fruitful learning experience throughout the course.
+
+In the event that a student is unable to complete the assignment due to limited time before the commencement of the program, we kindly allow submission within the first seven (10) days of the 300-Hour YTT.
+
+Please note the following important guidelines topic must be answered in 300–500 words. The 200-Hour YTT Manual (PDF) has been shared with you for reference and guidance while completing the assignment. Should you have any questions or require further clarification, please feel free to contact us. We look forward to welcoming you and supporting you on this transformative journey.
+
+Word count guideline
+Each topic must be answered in 300–500 words.
+Reference material
+The 200-Hour YTT Manual (PDF) has been shared with you for reference and guidance while completing the assignment.
+Need assistance?
+Should you have any questions or require further clarification, please feel free to contact us. We look forward to welcoming you and supporting you on this transformative journey.
+Bali Yoga School Campus Tour
+A glimpse into our peaceful learning space
+▶
+View More
+Our Yoga Certifications
+
+Bali Yoga School is globally recognized for authentic yoga education and certified by leading yoga organizations worldwide. Our certifications represent integrity, professionalism, and spiritual excellence.
+
+Yoga Alliance 200 hrs Certificate
+
+Begin your teaching journey with this foundational course, accredited by Yoga Alliance USA.
+
+Yoga Alliance 300 hrs Certificate
+
+Advance your yoga expertise with deeper studies in teaching methodology and yogic sciences.
+
+IYS®️ - International Yoga School Certification
+
+Recognizing Bali Yoga School for international standards in authentic yoga education.
+
+IYS®️ Recognition
+
+Exclusive IYS®️ certification acknowledging Bali Yoga School as a globally registered yoga institution.
+
+View IYO Registration
+IYO Certification Registry
+Yoga Alliance Profile
+BALI YOGA SCHOOL OFFERS
+
+Why Yin Yoga — And Why Our 500-Hour Training
+
+In an increasingly fast-paced and stimulus-driven world, Yin Yoga provides a clinically relevant and necessary counterbalance. The practice works systematically with connective tissue, fascia, joints, and the nervous system, supporting structural integrity, nervous system regulation, and long-term physical resilience. Yin Yoga also cultivates mindfulness, interoceptive awareness, and mental clarity, making it a valuable modality in modern yoga and wellness education.
+
+Our 500-Hour Yin Yoga Teacher Training offers the depth and scope required to move beyond foundational understanding into advanced application and professional competency.
+
+This level of training allows you to:
+
+Develop advanced functional and therapeutic teaching skills
+
+Apply in-depth knowledge of skeletal variation and individual biomechanics
+
+Adapt Yin Yoga safely for diverse bodies, conditions, and experience levels
+
+Teach Yin Yoga as a therapeutic, meditative, and evidence-informed practice, rather than simply a slow-paced class
+
+Integrate functional anatomy, Traditional Chinese Medicine (TCM), mindfulness, and breath regulation into cohesive class design
+
+This program is not focused solely on certification. A 500-hour training represents a comprehensive professional education that refines how you practice, assess, and teach Yin Yoga, supporting clarity, confidence, and long-term sustainability in modern teaching contexts.
+
+Who This 500-Hour Yin Yoga Teacher Training Is For
+
+The 500-Hour Yin Yoga Teacher Training at Bali Yoga School is intentionally designed for practitioners and teachers seeking advanced depth, clinical understanding, and long-term sustainability in their Yin Yoga practice and teaching. This program is suitable for those who wish to move beyond foundational training into a more comprehensive and professional level of study.
+
+This training is ideal for:
+
+Certified 200-hour or 300-hour yoga teachers who wish to deepen their specialization in Yin Yoga
+Yin Yoga practitioners seeking advanced anatomical, fascial, and energetic understanding
+Wellness professionals, including therapists, bodyworkers, and movement practitioners, looking to integrate Yin Yoga into their work
+Yoga teachers who want to offer advanced, therapeutic, trauma-aware, and inclusive Yin Yoga classes
+Practitioners interested in applying Yin Yoga safely and intelligently across diverse bodies and experience levels
+
+No extreme flexibility or advanced physical ability is required. The program emphasizes functional movement, individual variation, and mindful practice. Curiosity, commitment, and openness to learning are the only prerequisites.
+
+Why Train Yin Yoga with Bali Yoga School
+
+At Bali Yoga School, we believe Yin Yoga is a practice that must be experienced, embodied, and lived, rather than memorized. Our approach emphasizes depth, awareness, and integration, supporting sustainable practice and authentic teaching.
+
+Our 500-Hour Yin Yoga Teacher Training is grounded in Yin Yoga philosophy while integrating functional anatomy, fascia research, mindfulness, and Traditional Chinese Medicine (TCM). Instead of rigid alignment or fixed sequencing, we encourage critical thinking, individual assessment, and adaptable teaching methods that respect anatomical diversity.
+
+What sets our training apart:
+
+Strong foundations in Yin Yoga philosophy, anatomy, and mindfulness
+
+Teaching informed by functional anatomy, skeletal variation, and TCM
+
+Small group sizes for personal guidance and mentorship
+
+Experiential learning—feel first, then teach
+
+A calm, supportive environment that allows meaningful integration
+
+Our trainings prioritize presence over performance and depth over choreography, preparing graduates to teach Yin Yoga with clarity, confidence, and professional integrity.
+
+CURRICULUM OVERVIEW
+
+Yoga in Bali Yoga School is one of the best Yoga, Healing and Transformation Centre in the island of Bali, a trustable destination for Yin Yoga in Ubud, Bali. The practices that are available to the students in our school are: Yoga, mindfulness, and sound healing Reiki and other courses Yoga teacher certification programs. As it was pointed out earlier, the Balinese calmness may benefit the students in their practice as well as start a great change in themselves.
+
+At Bali Yoga School, we are focused on the health of our students and integrate classical yoga with contemporary methods. Each of our courses is designed for students of different levels, and every student gets an individual approach, which affects a person’s personal and spiritual development. We think that yoga is not only motor activity, but the way to find the best in oneself and to recover. Our Yin Yoga in Ubud, Bali follows the same system.
+
+The school has a great community and the students are able to form relationships with their counterparts from other parts of the world. The beauty of the Indonesian island and its energy make it possible to open a new chapter in one’s life on this place. Not only do they learn yoga, but they also make a lot of friends and become closer to their own selves at Bali Yoga School.
+
+200 Hour Yin Yoga Teacher Training Syllabus
+Pranayama Syllabus
+
+What Is Yin Pranayama?
+
+Yin Postures for Pranayama Practice (Comfort, support & stillness emphasized)
+
+Foundations of Yin Breathing
+
+Yin Breath Awareness Practices
+
+Integrated Yin Yogic Breathing
+
+Yin Nadi Shodhana
+
+Kapalbhati – Yin Perspective & Contraindications
+
+Subtle Energy & Nervous System Regulation
+
+Jal Neti (Yogic Nasal Cleansing) – Yin Approach
+
+Sutra Neti (Yogic Nasal Cleansing) – Yin-Informed Approach
+
+Bhramari Pranayama
+
+Ujjayi Pranayama
+
+Śītalī Prāṇāyāma
+
+Sitkārī Prāṇāyāma
+
+Anulom Vilom Prāṇāyāma (Alternate Nostril Breathing)
+
+Sūrya Bhedana & Chandra Bhedī Prāṇāyāma (Solar & Lunar Breathing)
+
+Antar Kumbhaka & Bahir Kumbhaka (Inner & Outer Breath Retention)
+
+Clavicular Prāṇāyāma (Upper-Chest Breathing Awareness)
+
+Thoracic Prāṇāyāma (Rib-Cage Breathing Awareness)
+
+Diaphragmatic Prāṇāyāma (Abdominal Breathing)
+
+Yogic Prāṇāyāma (Complete / Full Yogic Breathing)
+Meditation Syllabus
+
+Foundations of Yin Meditation
+
+History & Philosophy
+
+Yin-Friendly Meditation Postures
+
+Yin Breath Awareness Practices
+
+Yin Sound & Mantra Meditation
+
+Yin Body Awareness & Sensation Meditation
+
+Chakra & Energy-Based Yin Meditation
+
+Emotional & Mental Landscape in Yin Meditation
+
+Sound Healing Meditation
+
+Yoga Nidra
+
+Nāda Brahma Meditation
+
+Dynamic Moving Meditation (Osho)
+
+Trāṭaka Meditation (Yogic Gazing Meditation)
+
+Kīrtan Spiritual Dancing Meditation (Devotion in Sound, Movement & Awareness)
+
+Body Awareness Meditation (Embodied Presence)
+
+Self-Surrender Meditation (Letting Go into Awareness)
+
+Laughing Meditation (Joyful Awareness)
+
+Vipassanā Meditation (Silence) (Insight Through Still Awareness)
+
+Sukhasana (Easy Pose) (Comfortable Seated Posture)
+
+Ardha Padmāsana (Half Lotus Pose) (Seated Meditation Posture)
+
+Dhyāna Mudrā (Gesture of Meditation)
+
+Chin Mudrā (Gesture of Consciousness)
+Yin Anatomy Syllabus
+
+Introduction to Yin Anatomy
+
+Body Planes, Directions & Yin Application
+
+Cells, Tissues & Yin Focus
+
+Skeletal System: Structure & Variation
+
+Joints: Yin Perspective
+
+Body Movements & Joint Actions
+
+Spine, Pelvis & Fascia (Yin Core Focus)
+
+Spine (Yin Anatomy & Functional Awareness)
+
+Muscular System (Yin Anatomy & Functional Understanding)
+
+Digestive System (Yin Anatomy & Functional Awareness)
+
+Respiratory System
+
+Lifestyle According to the Ayurveda
+
+Kati Basti – Lower Back Pain Treatment Practice
+Yin Asanas with [Alignment / Adjustment/ Methodology]
+Anahatasana (Melting Heart)
+
+Ankle Stretch
+
+Bananasana
+
+Bridge (Supported)
+
+Butterfly
+
+Camel (Supported)
+
+Cat Pulling Its Tail
+
+Caterpillar
+
+Child’s Pose
+
+Dragonfly
+
+Dangling
+
+Deer
+
+Dragon (Baby, Low, Winged)
+
+Frog
+
+Half Butterfly
+
+Happy Baby
+
+Reclining Twists
+
+Saddle
+
+Shavasana
+
+Shoelace
+
+Snail
+
+Sphinx & Seal
+
+Square
+
+Squat
+
+Swan & Sleeping Swan
+
+Toe Squat
+
+Wall Yin
+Foundations – Yang Asanas
+Joint Movements (Sukshma Vyayama)
+
+Sun Salutation (Surya Namaskar)
+
+Moon Salutation (Chandra Namaskar)
+
+Pranamasana (Prayer Pose)
+
+Hasta Uttanasana (Raised Arms Pose)
+
+Padahastasana (Hand to Foot Pose)
+
+Ashwa Sanchalanasana (Equestrian Pose)
+
+Dandasana (Plank Pose)
+
+Ashtanga Namaskar
+
+Bhujangasana (Cobra Pose)
+
+Tadasana (Mountain Pose)
+
+Tiryaka Tadasana (Swaying Palm Tree Pose)
+
+Kati Chakrasana (Standing Spinal Twist)
+
+Shashankasana (Rabbit Pose)
+
+Marjari-asana & Bitilasana (Cat–Cow Pose)
+
+Intermediate – Yang Asanas
+
+Virabhadrasana I, II, III, IV (Warrior Series)
+
+Baddha Virabhadrasana (Humble Warrior)
+
+Trikonasana (Triangle Pose)
+
+Parivrtta Trikonasana (Revolved Triangle Pose)
+
+Ushtrasana (Camel Pose)
+
+Dhanurasana (Bow Pose)
+
+Paschimottanasana (Seated Forward Bend)
+
+Janu Shirshasana (Head-to-Knee Pose)
+
+Navasana (Boat Pose)
+
+Gomukhasana (Cow Face Pose)
+
+Garudasana (Eagle Pose)
+
+Ardha Matsyendrasana (Half Lord of the Fishes Pose)
+
+Advanced – Yang Asanas
+
+Sirshasana (Headstand)
+
+Sarvangasana (Shoulder Stand)
+
+Halasana (Plow Pose)
+
+Chakrasana (Wheel Pose)
+
+Bakasana (Crow Pose)
+
+Eka Pada Baka Dhyanasana (One-Legged Crow Pose)
+
+Dwi Hasta Bhujasana (Two Hands and Arms Pose)
+
+Eka Hasta Bhujasana (One Hand and Arm Pose)
+
+Vashishthasana (Side Plank Pose)
+
+Natarajasana (Lord of the Dance Pose)
+
+Ardha Baddha Padmottanasana (Half Bound Lotus Forward Fold)
+
+Akarna Dhanurasana (Archer’s Pose)
+Philosophy Syllabus
+
+What Is Yin? Meaning, Essence & Goal
+
+Suffering & Yin Understanding of Pain
+
+History & Roots of Yin Philosophy
+
+Classical Yoga & Yin Interpretation
+
+Patanjali Yoga Sutras Through a Yin Lens
+
+Overview of the Four Chapters (Pāda) – Yin Perspective
+
+Eight Limbs of Yoga – Yin Interpretation
+
+Yin Philosophy & the Mind
+
+Understanding the Four Paths of Yoga (Integrated & Yin Perspective)
+
+Who Is the Buddha? / Meaning of “Buddha”
+
+Essence of the Buddha’s Teaching
+
+Trigunas – Sattva, Rajas, and Tamas / What Are the Trigunas?
+
+What Is Kundalinī Yoga? / Meaning of Kundalinī
+
+Teaching of Ramana Maharshi – “Who Am I?”
+
+India – The Birthplace of Yoga/ Rishikesh – The World Capital of Yoga
+Teaching Practice & Methodology
+
+Demonstration
+
+Instructions
+
+Alignment
+
+Adjustment
+Evaluation are based on
+
+Written Test
+
+Asana Practical Test
+
+Attendance
+
+Performance
+
+Behaviour
+300 Hour Yin Yoga Teacher Training Syllabus
+Yin Practice Syllabus
+
+Yin Yoga for Legs
+Yin Yoga for Spine
+Yin Yoga for Hips
+Yin Yoga for Heart
+Yin Yoga for Arms, Shoulders & Wrists
+Yin Yoga – Lung Meridian
+Yin Yoga – Spleen Meridian
+Yin Yoga – Heart Meridian
+Yin Yoga – Kidney Meridian
+Yin Yoga – Liver Meridian
+Yin Yoga – Pericardium Meridian
+Yin Yoga – Stomach Meridian
+Yin Yoga – Large Intestine Meridian
+Yin Yoga – Small Intestine Meridian
+Yin Yoga – Urinary Bladder Meridian
+Yin Yoga – Gallbladder Meridian
+Yin Yoga – San Jiao (Triple Burner) Meridian
+
+Yin, Ayurveda & Yoga Therapy Course Syllabus
+
+Introduction & Foundation
+Yin Yoga Philosophy
+Yin Yoga Anatomy: Skeletal & Fascia System
+Functional Anatomy for Yin Yoga
+Yin Yoga Asana Practice l
+Yin Yoga Asana Practice II
+Yin Yoga Sequencing & Teaching
+Yang yoga practice and impact
+Introduction to Ayurveda
+Prakriti & Vikriti
+Ayurvedic Anatomy & Physiology
+Ayurvedic Diet & Lifestyle
+Ayurveda & Yin Yoga Integration
+Introduction to Yoga Therapy
+Musculoskeletal Yoga Therapy
+Digestive System Therapy
+Respiratory System Therapy
+Nervous System & Stress Management
+Hormonal & Endocrine Balance
+Emotional & Energetic Healing
+Pranayama & Meditation Therapy
+Teaching Methodology for Therapists
+Practicum & Case Studies
+Revision & Final Teaching Practice
+Graduation & Closing Ceremony
+Final meditation & reflection
+Course review and integration
+Certification ceremony
+Closing ritual and
+
+Yin Yoga Philosophy Course Syllabus
+
+Orientation & Foundations
+Origins and development of Yin Yoga
+Yogic Philosophy & Yin Practice
+Eight Limbs of Yoga (Yin Perspective)
+Mindfulness & Awareness
+Philosophy of Stillness & Non-Attachment
+Self-Inquiry & Personal Practice
+Integration & Completion
+Connective Tissues & Fascia
+Yin Yoga & Nervous System
+Introduction to Traditional Chinese Medicine (TCM)
+Meridians & Yin Yoga
+Chakras & Subtle Body
+Pranayama for Yin Yoga
+Yin Yoga Postures (Upper Body)
+Yin Yoga Postures (Lower Body)
+Sequencing Principles
+Therapeutic Yin Yoga
+Yin Yoga & Trauma Awareness
+Teaching Methodology
+
+Yin Yoga Anatomy
+Orientation & Foundations of Yin Yoga
+Yin Yoga Philosophy & Energy Concept
+Skeletal Variation & Functional Anatomy
+Fascia Anatomy & Myofascial System
+Joint Health & Ligament Safety
+Spine Anatomy & Yin Applications
+Pelvis, Hips & Sacrum
+Knees, Ankles & Lower Body Anatomy
+Shoulders, Arms & Upper Body Anatomy
+Nervous System & Yin Yoga
+Introduction to Traditional Chinese Medicine (TCM)
+Meridian Theory & Energy Pathways
+Five Element Theory in Yin Yoga
+Yin Yoga for Emotional Release
+Breath, Pranayama & Meditation in Yin
+Props, Assists & Adjustments
+Sequencing Principles for Yin Yoga
+Therapeutic Yin Yoga Applications
+Advanced Yin Variations & Modifications
+Student Teaching Practicum I
+Student Teaching Practicum II
+Written & Practical Assessment
+Integration, Graduation & Closing
+Yin Teaching Methodology, Alignments & Adjustments
+
+Introduction to Yin Yoga Teaching
+Functional Approach vs Aesthetic Alignment
+Human Anatomy for Yin Yoga
+Skeletal Variations and Body Types
+The Three Principles of Yin Yoga
+Teaching Presence & Observation Skills
+Hip-Focused Yin Postures
+Spine-Focused Yin Postures
+Shoulder & Upper Body Yin Postures
+Knee, Ankle & Lower Limb Safety
+Use of Props in Yin Yoga
+Contraindications & Injury Awareness
+Principles of Yin Yoga Adjustments
+Hands-On Adjustments – Lower Body
+Hands-On Adjustments – Spine
+Hands-On Adjustments – Upper Body
+Energetic Adjustments & Subtle Touch
+Yin Yoga as a Therapeutic Practice
+Yin Yoga Sequencing Principles
+Yin Yoga Class Design
+Voice, Language & Teaching Cues
+Teaching Practicum – Peer Teaching
+Teaching Practicum – Advanced Practice
+Assessment, Integration & Graduation
+
+Yang Yoga Asanas
+Advanced Strength-Based Vinyasa | Biomechanics | Functional Movement Methodology
+Module 1: Foundation & Assessment
+Module 2: Standing Strength Series I
+Module 3: Standing Strength Series II
+Module 4: Hip Opening – Active Yang Approach
+Module 5: Forward Bending Practice
+Module 6: Backbending Foundations
+Module 7: Core Strength & Stability
+Module 8: Arm Balance Preparation
+Module 9: Arm Balances & Transitions
+Module 10: Inversion Foundations
+Module 11: Headstand Practice
+Module 12: Handstand Practice
+Module 13: Twisting Series
+Module 14: Advanced Backbending
+Module 15: Advanced Vinyasa Flow
+Module 16: Balance & Stability
+Module 17: Power Yoga Practice
+Module 18: Ashtanga-Based Yang Practice
+Module 19: Functional Strength Yoga
+Module 20: Creative Yang Sequencing
+Module 21: Therapeutic Strength Practice
+Module 22: Advanced Inversions & Transitions
+Module 23: Full Yang Yoga Practice
+Module 24: Integration & Mastery
+Yin Meditation
+
+History & Philosophical Roots
+Neurophysiology of Meditation
+YIN MEDITATION
+Foundations of Breath Awareness Meditation
+Somatic Body Scan Meditation
+Antar Mouna – Stage 1 (Witnessing Thoughts)
+Antar Mouna – Stage 2 (Emotional Observation)
+Yoga Nidra – Conscious Relaxation
+Bhramari Meditation for Nervous System Regulation
+Loving-Kindness (Metta) Meditation – Heart Cultivation
+Moon (Ida Nadi) Meditation Practice
+Silent Sitting – Open Awareness Practice
+Yin Trataka (Soft Candle Gazing)
+YANG MEDITATION
+Breath of Fire Meditation
+Dynamic Meditation Principles & Practice
+Walking Meditation (Mindful Movement)
+Mantra Japa Meditation (Rhythmic Repetition)
+Chakra Activation Meditation
+Solar (Pingala Nadi) Meditation Practice
+Fire Trataka (Intense Gazing Practice)
+INTEGRATED YIN–YANG MEDITATION
+Yin to Yang Progression Meditation (Stillness to Activation)
+Yang to Yin Transition Meditation (Activation to Silence)
+Element-Based Meditation (Earth, Water, Fire, Air, Space)
+Emotional Release Meditation (Catharsis to Witnessing)
+Non-Dual Awareness Meditation
+Extended Silent Immersion Practice (60–90 min Sit)
+
+Yin Pranayama & Shatkarma
+
+Introduction to Pranayama & Shatkarma
+Anatomy & Physiology for Breathwork
+Basic Pranayama Techniques
+Introduction to Shatkarma
+Practice Integration
+Pranayama Theory Deep Dive
+Self-Practice & Teaching Methodology
+Kapalabhati (Skull Shining Breath)
+Bhastrika (Bellows Breath)
+Anulom Vilom / Nadi Shodhana (Alternate Nostril Breath)
+Sheetali & Sheetkari (Cooling Breaths)
+Shatkarma Techniques
+Teaching Methodology – Intermediate Pranayama
+Self-Practice & Assessment
+Advanced Pranayama Techniques
+Advanced Shatkarma
+Integrating Pranayama with Yin Yoga
+Therapeutic Applications
+Meditation & Breath Awareness
+Teaching Methodology – Advanced
+Personal Practice & Self-Reflection
+Peer Teaching Practice
+Integration into Yin Yoga Teacher Training
+Final Assessment & Graduation
+
+Plant-Based Meals & Yogic Nutrition at Bali Yoga School
+
+At Bali Yoga School, food is considered an integral part of the yogic lifestyle and an important support for physical health, mental clarity, and overall wellbeing. During your training, we provide nutritious, plant-based meals designed to support sustained energy, digestion, and focus throughout intensive yoga practice and study.
+
+All meals are prepared with a strong emphasis on hygiene, cleanliness, and mindful preparation. Our approach reflects the yogic principle of ahimsa (non-violence), encouraging compassionate and conscious choices both on and off the mat. Following a plant-based diet during your training supports this principle while complementing the goals of yoga practice.
+
+Our meals are thoughtfully balanced, light, and nourishing, helping to maintain vitality, concentration, and comfort during long days of learning. We place equal importance on how food is prepared and the environment in which it is served, as mindful preparation and clean spaces support a calm and focused state of mind.
+
+At Bali Yoga School, food is more than nourishment—it is part of the overall training experience. Through conscious nutrition and careful preparation, we aim to support balance, harmony, and mindful living throughout your yoga journey.
+
+Meal Timings:
+
+Breakfast: 08:30 am – 09:30 am
+
+Lunch: 12:30 pm – 01:30 pm
+
+Dinner: 07:30 pm – 08:30 pm
+
+(Except for lunch and dinner on Sundays)
+
+Contact Us
+Yin Yoga Shala
+
+2026 – 2027 SCHEDULE
+500 Hour Yin Yoga Teacher Training – Dates & Fees
+
+Reserve your preferred batch early. All upcoming schedules are currently available for booking.
+
+1st Aug – 28th Sep 2026
+Available
+1st Sep – 28th Oct 2026
+Available
+1st Oct – 28th Nov 2026
+Available
+1st Nov – 28th Dec 2026
+Available
+3rd Jan – 28th Feb 2027
+Available
+1st Feb – 28th Mar 2027
+Available
+1st Mar – 28th Apr 2027
+Available
+1st Apr – 28th May 2027
+Available
+1st May – 28th Jun 2027
+Available
+1st Jun – 28th Jul 2027
+Available
+1st Jul – 28th Aug 2027
+Available
+1st Aug – 28th Sep 2027
+Available
+1st Sep – 28th Oct 2027
+Available
+1st Oct – 28th Nov 2027
+Available
+1st Nov – 28th Dec 2027
+Available
+1st Dec 2027 – 28th Jan 2028
+Available
+200 Hrs Yin Daily Schedule
+
+Daily Schedule
+
+7:00 – 8:00 am
+Meditation & Pranayama & Shatkarma
+8:00 – 9:30 am
+YIN Yoga Practice
+9:30 am
+Breakfast
+11:00 am – 1:00 pm
+Sound / Reiki Healing Class (only applicable for YTT + Sound / Reiki Healing Course participants)
+1:00 pm
+Lunch
+1:30 – 2:30 pm
+YIN theroy & Anotomy
+2:30 – 3:30 pm.
+Teaching Methodology / Alignments & Adjustments
+3:30 – 5:00 pm
+YANG yoga Practice
+5:00 pm
+Tea Break
+5:30 – 6:30 pm
+YIN Yoga Philosophy
+7:30 pm
+Dinner
+10:00 pm
+Gate Close
+300 Hrs Yin Daily Schedule
+
+Daily Schedule
+
+6:00 – 7:00 am
+Meditation
+7:00 – 8:00 am
+YIN Pranayama & Shatkarma
+8:00 – 9:30 am
+YIN Yoga Practice
+9:30 am
+Breakfast
+11:00 am – 1:00 pm
+Sound / Reiki Healing Class (only applicable for YTT + Sound / Reiki Healing Course participants)
+1:00 pm
+Lunch
+1:30 – 2:30 pm
+Ayurveda & Yoga Therapy
+2:30 – 3:30 pm
+YIN Theory & Anatomy
+3:30 – 4:30 pm
+Yoga Philosophy
+4:30 pm
+Tea Break
+5:00 – 6:30 pm
+YANG Yoga Practice
+6:30 - 7:30 pm
+Teaching Methodology / Alignments & Adjustments
+7:30 pm
+Dinner
+10:00 pm
+Gate Close
+Important Points:
+
+1- Our 50-Hour Yin Yoga Course is suitable for all levels, including beginners, intermediate practitioners, and advanced students.
+
+2- We cover only the course syllabus that is specifically mentioned on the course page.
+
+Course Options
+Original (USD)
+Discounted (USD)
+Book Now
+Twin Shared Room – Campus-I (All Inclusive)
+$5700
+$3990
+Was $5700
+Book Now
+Private Room – Campus-I (All Inclusive)
+$7035
+$4925
+Was $7035
+Book Now
+Private Room – Campus-II (All Inclusive) [New]
+$6100
+$4270
+Was $6100
+Book Now
+2 People Shared Room (Only Room, No Meals)
+$4350
+$3045
+Was $4350
+Book Now
+Private Room (Only Room, No Meals)
+$5150
+$3605
+Was $5150
+Book Now
+Course with Meals (No Room)
+$4350
+$3045
+Was $4350
+Book Now
+Course with No Rooms, No Meals
+$3050
+$2135
+Was $3050
+Book Now
+Additional Healing Courses
+✨ Additional Sound Healing Courses
+Sound Healing Levels 1, 2 & 3
+$500
+Sound Healing Levels 2 & 3
+$350
+Sound Healing Levels 1 & 2
+$350
+Sound Healing Level 1
+$200
+Sound Healing Level 2
+$200
+Sound Healing Level 3
+$200
+
+📅 Dates: Conducted during free time in your Yoga Teacher Training Course at Himalayan Yoga Association.
+
+💫 Note: These sessions help you heal yourself and embrace a holistic lifestyle — balancing the Body, Mind & Soul.
+
+🌸 Additional Reiki Healing Courses
+Reiki Healing Levels 1, 2 & 3
+$500
+Reiki Healing Levels 2 & 3
+$350
+Reiki Healing Levels 1 & 2
+$350
+Reiki Healing Level 1
+$200
+Reiki Healing Level 2
+$200
+Reiki Healing Level 3
+$200
+
+📅 Dates: Conducted during free time in your Yoga Teacher Training Course at Himalayan Yoga Association.
+
+💫 Note: These Reiki Healing sessions help you harmonize energy and achieve holistic balance of the Body, Mind & Soul.
+
+What’s Included
+Accommodation-included options include one-day before check-in
+Complimentary check-in between 10 AM – 4 PM the day before the course starts.
+All yoga, meditation & philosophy classes as mentioned.
+Course materials: 1 school bag, 1 t-shirt, Yin Yoga manual, 1 notebook & pen.
+All yoga props for class use (not for personal takeaway).
+500-hour Yin Yoga Teacher Training Certificate (Yoga Alliance certified)
+Free high-speed Wi-Fi throughout the school campus.
+2 rejuvenating Balinese massage treatment.
+Unlimited filtered hot & cold drinking water.
+Swimming pool access for all students.
+
+🕉 Important: Please check in one day before your course between 10 AM and 4 PM. Check-out on the final day is between 12 PM and 2 PM.
+
+ACCOMMODATION GALLERY
+Shared Room at Bali Yoga School
+View More Accommodation Images
+COURSE SAMPLE CERTIFICATE
+
+Founder of Bali Yoga School
+
+Himanshu Joshi
+
+Everything you experience at Bali Yoga School community has come from our great leader, Himanshu Joshi. He is the most honest, hard-working, authentic person we can ever meet. His yoga journey started from a severe injury after playing sports for a long time at the state / national level. Yoga brought him up into the light from the darkness.
+
+He contributed to the success of other yoga schools in Rishikesh, and then built his own — Himalayan Yoga Association and Bali Yoga School. He continues to expand the community, uplifting lives for the better. Feel his essence in every detail of the school and learning.
+
+Read More
+Our Yin Yoga Teachers
+Yogini Chiara
+
+Hatha / Vinyasa / Sound Healing — Chiara’s creative flow unites Vinyasa, Yin, and sound therapy, inspiring harmony in body and soul.
+
+Yogi Babloo
+
+Ashtanga / Alignment / Pranayama — A master’s graduate from Haridwar, Babloo integrates precision, strength, and spiritual focus.
+
+Yogi Chetan
+
+Hatha / Yin / Philosophy — A Rishikesh-trained teacher blending mantra, mindfulness, and movement for true inner transformation.
+
+View More
+FAQs
+Do I need prior Yin Yoga experience?
+Is this training Yoga Alliance certified?
+Is the training physically demanding?
+Can I teach Yin Yoga professionally after completing this training?
+Is this training suitable if I have injuries or limitations?
+30% OFF on 500-Hour Yin Yoga Teacher Training in Rishikesh, India.
+
+Looking for a More Affordable Yoga Teacher Training Option? Love our training but looking for a more budget-friendly option?
+
+You can also explore our yoga teacher training programs at Himalayan Yoga Association in Rishikesh, India.
+
+Experience authentic yoga training in the birthplace of yoga, with comfortable accommodation, daily meals and comprehensive teacher training programs at more affordable prices.
+
+Special Annual Course Offers Available
+
+Explore current course dates, fees and special offers directly on the Himalayan Yoga Association website.
+
+Explore Yoga Teacher Training in Rishikesh
+```

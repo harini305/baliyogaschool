@@ -1,0 +1,94 @@
+{
+  "slug": "course-registration",
+  "path": "/course-registration/",
+  "sourceFile": "content/pages/course-registration.md",
+  "title": "Course Registration",
+  "metaTitle": "Course Registration",
+  "metaDescription": "Bali Yoga School Student Registration",
+  "intro": [],
+  "steps": [
+    {
+      "heading": "Fill The Application Form",
+      "text": "Fill the form and answer a few questions so we can get an idea of your background and motivation to take this course."
+    },
+    {
+      "heading": "Pay & Reserve your spot",
+      "text": "To reserve the spot, a deposit of $250 USD, which is applied to your tuition."
+    },
+    {
+      "heading": "Get Assistance from our Team",
+      "text": "We can know you better & support you accordingly."
+    }
+  ],
+  "formTitle": "Application Form",
+  "formFields": [
+    { "label": "First Name", "required": true, "type": "text", "note": "Listed in audit 06 §3 (WPForms #6257 ‘First*’); not visible in the captured page text." },
+    { "label": "Last Name", "required": true, "type": "text", "note": "Listed in audit 06 §3 (‘Last*’); not visible in the captured page text." },
+    { "label": "Email", "required": true, "type": "email" },
+    { "label": "Mob. No.", "required": true, "type": "tel" },
+    { "label": "Gender", "required": true, "type": "select-multiple", "options": [], "note": "Audit 06 §3 records a multi-select; option values were not captured." },
+    {
+      "label": "Address",
+      "required": true,
+      "type": "address",
+      "subfields": ["Address Line 1", "City", "State / Province / Region", "Postal Code", "Country"],
+      "note": "Country is a dropdown of ~250 countries (options omitted in capture)."
+    },
+    { "label": "Accommodation Type", "required": true, "type": "select", "options": ["Private Room", "Twin Shared Room", "Triple Shared Room"] },
+    { "label": "Select Course & Location", "required": true, "type": "select", "options": [], "note": "Captured only as placeholder ‘Select Location.....’ (appears twice – probably two dependent/conditional dropdowns, course and location); real options not captured." },
+    { "label": "Select Course Month", "required": true, "type": "select", "options": [], "note": "Captured only as placeholder ‘Select .....’ (appears twice – likely conditional on the course chosen); real options not captured." },
+    { "label": "Please mention here if you have any medical or health issue!", "required": false, "type": "textarea" },
+    { "label": "How did you hear about us?", "required": false, "type": "text" }
+  ],
+  "sections": [
+    {
+      "heading": "Attendance",
+      "paragraphs": [
+        "All classes are mandatory; only in case of an emergency or illness can one take leave, with the respective teacher’s permission. Uninformed leaves won’t be accepted and this will leave a bad impression on the student’s monthly performance."
+      ],
+      "list": [],
+      "subsections": []
+    },
+    {
+      "heading": "Prerequisites",
+      "paragraphs": [
+        "A high degree of self-motivation is required for all aspects of the course. The practice and especially the teaching of yoga demand a high degree of self-discipline and purity. To ensure the success of the program, participants are required to attend all spiritual activities, meditation sessions, lectures and asana classes. Meat, fish, eggs, black tea, coffee, alcohol, tobacco, drugs and nudity are prohibited during the course as they are counterproductive to the yoga practice. Participants who do not comply with the school rules may be dismissed from the course."
+      ],
+      "list": [],
+      "subsections": []
+    },
+    {
+      "heading": "Discipline Rules for Students",
+      "paragraphs": [],
+      "list": [
+        "Smoking and alcohol are strictly prohibited in the school.",
+        "If you are fasting on any day, you have to inform the kitchen manager to avoid food waste.",
+        "Always maintain discipline, respect teachers and follow all rules.",
+        "Always be on time; if you are late you will not be permitted to join the class.",
+        "Clear your accounts before departure from Himalayan Yoga Association.",
+        "Before departure return your books, maps or any goods which you borrowed.",
+        "Himalayan Yoga Association provides accommodation for a student who joins the yoga course. Friends or relatives will not be included in the accommodation; however, they can stay in the school by renting another room.",
+        "Students have to be present in all scheduled programs of Himalayan Yoga Association."
+      ],
+      "subsections": []
+    },
+    {
+      "heading": "Refund Policy",
+      "paragraphs": [
+        "The Advance Course Fees, Complete Course Fee, Retreat Fee, Visa Fee or any other payment will not be refundable in any case. Only in the case of emergency can students join us on other schedules. If a student cancels the course after joining it, we accept the cancellation but course fees will not be refunded."
+      ],
+      "list": [],
+      "subsections": []
+    }
+  ],
+  "faqs": [],
+  "issues": [
+    "Discipline rules name ‘Himalayan Yoga Association’ (three times) – text copied from the sister India (Rishikesh) organisation; should read Bali Yoga School if republished (owner to confirm).",
+    "The whole policy block is headed ‘Refund Policy’ on the original but contains attendance, prerequisites and discipline rules; split into separate sections here using the inline labels from the original text (‘Prerequisites –’, ‘Discipline Rules for Students –’, ‘Refund Policy –’). The first paragraph had no label; ‘Attendance’ is an editorial heading.",
+    "Refund wording conflicts with /terms-conditions/ clause 8 (‘Students can reschedule their program within 6 months or join any online program instead’) – this page allows rescheduling only ‘in the case of emergency’ and adds ‘Visa Fee’ as non-refundable.",
+    "Prohibited list (‘black tea, coffee… nudity’) is stricter than Terms §12 (which bans smoking, illegal drugs, excessive alcohol) – inconsistent rules.",
+    "Deposit stated as $250 USD here; /course-payment/ does not state an amount and adds a 3% surcharge; confirm current deposit.",
+    "Form: First/Last name fields come from audit 06 §3 only (not in captured text). Course/location/month dropdown options were not captured (placeholders only). Gender options not captured. Form delivery (WPForms #6257) is unverified.",
+    "Typos corrected: ‘tutions’ → ‘tuition’, ‘respected teacher permission’ → ‘respective teacher’s permission’, ‘having a fast’ → ‘fasting’, ‘Clear your books of account’ → ‘Clear your accounts’."
+  ]
+}

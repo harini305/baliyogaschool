@@ -1,0 +1,59 @@
+{
+  "path": "/online-sound-healing-courses/",
+  "title": "Online Sound Healing Courses from Bali",
+  "metaTitle": "Online Sound Healing Courses",
+  "metaDescription": "Online Sound Healing Courses with live classes and high-quality videos. Become a certified sound healer with top-leading yoga school in Bali.",
+  "intro": [
+    "Discover the healing potential of sound with our online sound healing courses with Bali Yoga School! We provide a variety of courses, both certified and uncertified, to cater to different educational needs and preferences. Our certified courses are accredited by the Himalayan Yoga Association Yoga Society, and include structured learning with live sessions conducted by experienced instructors.",
+    "Each course, whether certified or uncertified, includes a one-month membership that allows ongoing access to all course videos even after completion. Our courses include high-quality, pre-recorded videos on various sound healing techniques and theories."
+  ],
+  "listedItems": [
+    {
+      "title": "Level 1/2/3 Certified Online Sound Healing Course",
+      "path": null,
+      "stated": "high-quality pre-recorded videos"
+    },
+    {
+      "title": "Level 1/2 Online Certified Sound Healing Course",
+      "path": null,
+      "stated": "detailed pre-recorded videos"
+    },
+    {
+      "title": "Level 2/3 Certified Online Sound Healing Course",
+      "path": null,
+      "stated": "detailed pre-recorded videos"
+    },
+    {
+      "title": "Level 1 Certified Online Sound Healing Course",
+      "path": null,
+      "stated": "curriculum featuring live classes ... pre-recorded videos; certificate recognized by the Himalayan Yoga Association Society"
+    },
+    {
+      "title": "Level 2 Certified Online Sound Healing Course",
+      "path": null,
+      "stated": "intensive live sessions and high-quality, pre-recorded videos; certificate accredited by Himalayan Yoga Association Society in India"
+    },
+    {
+      "title": "Level 3 Certified Online Sound Healing Course",
+      "path": null,
+      "stated": "expert-led live sessions and detailed pre-recorded videos; certification from the Himalayan Yoga Association Yoga Society"
+    }
+  ],
+  "extraSections": [
+    {
+      "heading": "Certified Online Sound Healing Courses",
+      "paragraphs": [
+        "The list of our Himalayan Yoga Association Society Certified Online Sound Healing Courses. Click the photos below to learn more."
+      ]
+    }
+  ],
+  "mapLabel": "Bali Yoga School Location (map embed labelled 'Bali Yoga School', Ubud)",
+  "issues": [
+    "No online sound healing course pages exist under baliyogaschool.com/courses/ in the crawl; card links are not captured (likely external, e.g. himalayanonlineyogacourses.com) — paths null.",
+    "Intro mentions 'uncertified' courses but only certified courses are listed.",
+    "Certifying body named inconsistently: 'Himalayan Yoga Association Yoga Society' vs 'Himalayan Yoga Association Society'.",
+    "Level 2 card says the course is 'based in the world capital of yoga' (Rishikesh) while hosted by Bali Yoga School.",
+    "No durations or prices shown.",
+    "Unverified claims not used: 'top-leading yoga school in Bali', 'leading yoga institution in Bali', 'premier yoga school in Bali', 'the most celebrated sound healing tool'."
+  ]
+}

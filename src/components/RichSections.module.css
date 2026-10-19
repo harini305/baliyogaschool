@@ -1,0 +1,18 @@
+.accordion { border-top: 1px solid var(--line); }
+.item { border-bottom: 1px solid var(--line); }
+.item > summary {
+  list-style: none; cursor: pointer;
+  display: flex; justify-content: space-between; align-items: center; gap: var(--space-3);
+  min-height: 52px; padding: var(--space-3) 0;
+  font-family: var(--font-head); font-weight: 700; color: var(--brown);
+}
+.item > summary::-webkit-details-marker { display: none; }
+.item > summary::after { content: '+'; font-size: 1.3rem; color: var(--burnt); line-height: 1; flex-shrink: 0; }
+.item[open] > summary::after { content: '–'; }
+.item > summary:hover { color: var(--burnt); }
+.body { padding-bottom: var(--space-5); max-width: 72ch; font-size: var(--fs-sm); }
+.body h3, .body h4 { font-size: 1rem; margin: var(--space-4) 0 var(--space-2); }
+.sub { margin-top: var(--space-3); }
+.prose { max-width: 70ch; }
+.prose section + section { margin-top: var(--space-5); }
+.prose h3 { font-size: var(--fs-h4); }

@@ -1,0 +1,79 @@
+{
+  "path": "/courses_group/online-yoga-course/",
+  "title": "Online Yoga Course Archives",
+  "metaTitle": "Online Yoga Course Archives",
+  "metaDescription": null,
+  "intro": [],
+  "listedItems": [
+    {
+      "title": "15 Days Online Yoga Therapy Course",
+      "path": "/courses/15-days-online-yoga-therapy-course/",
+      "stated": "15 / $240",
+      "pathInferred": false
+    },
+    {
+      "title": "15 Days Online Yoga Anatomy Course",
+      "path": "/courses/15-days-online-yoga-anatomy-course/",
+      "stated": "15 / $240",
+      "pathInferred": false
+    },
+    {
+      "title": "15 Days Online Yoga Philosophy Course",
+      "path": "/courses/15-days-online-yoga-philosophy-course/",
+      "stated": "15 / $240",
+      "pathInferred": false
+    },
+    {
+      "title": "15 Days Online Pranayama Course",
+      "path": "/courses/15-days-online-pranayama-course/",
+      "stated": "15 / $240",
+      "pathInferred": false
+    },
+    {
+      "title": "15 Days Online Meditation Course",
+      "path": "/courses/15-days-online-meditation-course/",
+      "stated": "15 / $240",
+      "pathInferred": false
+    },
+    {
+      "title": "15 Days Online Ashtanga Vinyasa Course",
+      "path": "/courses/15-days-online-ashtanga-vinyasa-course/",
+      "stated": "15 / $240",
+      "pathInferred": false
+    },
+    {
+      "title": "15 Days Online Hatha Vinyasa Yoga Course",
+      "path": "/courses/15-days-online-hatha-vinyasa-yoga-course/",
+      "stated": "15 / $240",
+      "pathInferred": false
+    },
+    {
+      "title": "200 Hour Online Yoga Teacher Training Certification Course",
+      "path": "/courses/200-hour-online-yoga-teacher-training-certification-course/",
+      "stated": "28 / $400",
+      "pathInferred": false
+    },
+    {
+      "title": "500 hour Online Yoga Certification Course in Bali",
+      "path": "/courses/500-hour-online-yoga-certification-course-in-bali/",
+      "stated": "60 / 450",
+      "pathInferred": false
+    },
+    {
+      "title": "100 Hour Online Yoga Certification Course in Bali",
+      "path": "/courses/online-100-hour-yoga-certification-course-in-bali/",
+      "stated": "15 / $240",
+      "pathInferred": false
+    }
+  ],
+  "extraSections": [],
+  "mapLabel": null,
+  "issues": [
+    "Paths matched by exact course title to existing /courses/ URLs (archive card hrefs themselves not captured).",
+    "PRICE CONFLICTS: all seven 15-day courses listed at '$240' — each course page says $500. 500 h listed at '450' — course page heading says $1500/$1200 (body says 450 USD).",
+    "Unlabelled numbers '15', '28', '60' shown under each title (probably days): 100 h online '15' vs its page '30 days to 3 months'; 200 h certification course '28' vs its page '30 days to 3 months'; 500 h '60' vs no duration on its page.",
+    "Archive omits /courses/200-hour-online-yoga-teacher-training-in-bali/ and /courses/300-hours-online-yoga-teacher-training-in-bali/.",
+    "Archive page shows the footer 30% OFF banner ('Offer valid until 30th / Oct /2026') — not extracted.",
+    "No meta description."
+  ]
+}

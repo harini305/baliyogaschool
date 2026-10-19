@@ -1,0 +1,8 @@
+.list { display: grid; gap: var(--space-6); max-width: 960px; }
+.post { display: grid; gap: var(--space-4); padding-bottom: var(--space-6); border-bottom: 1px solid var(--line); }
+.post:last-child { border-bottom: 0; }
+.image { aspect-ratio: 16 / 10; }
+.title { font-size: var(--fs-h3); }
+.title a { color: var(--brown); text-decoration: none; }
+.title a:hover { color: var(--burnt); text-decoration: underline; }
+@media (min-width: 768px) { .post { grid-template-columns: 320px minmax(0, 1fr); gap: var(--space-6); align-items: center; } }

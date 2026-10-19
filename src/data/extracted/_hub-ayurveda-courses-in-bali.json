@@ -1,0 +1,38 @@
+{
+  "path": "/ayurveda-courses-in-bali/",
+  "title": "Ayurveda Courses in Bali Yoga School",
+  "metaTitle": "Ayurveda Courses in Bali",
+  "metaDescription": "Ayurveda Courses in Bali / Learn Ayurveda theoretically and practical massage treatment techniques from a qualified professional.",
+  "intro": [
+    "Learn Ayurveda theoretically and practical massage treatment techniques from a qualified professional."
+  ],
+  "listedItems": [
+    {
+      "title": "7-day Ayurvedic Massage Course (ABW) in Bali, Indonesia",
+      "path": "/courses/ayurvedic-massage-course-in-bali-indonesia/",
+      "stated": "7-day",
+      "pathInferred": true
+    },
+    {
+      "title": "13 Days Ayurvedic Massages and Panchakarma Therapy Course",
+      "path": "/courses/ayurvedic-panchakarma-therapy-course-in-bali-indonesia/",
+      "stated": "journey of 13 days",
+      "pathInferred": true
+    }
+  ],
+  "extraSections": [
+    {
+      "heading": "Certified Ayurveda Courses in Bali",
+      "paragraphs": [
+        "Our comprehensive program will equip you with a deep understanding of Ayurveda’s origins, fundamental principles, and how to incorporate the teachings into your daily life in the theory classes, and hands-on practices in various types of Ayurvedic massages from the head to the toes such as full-body massages, head massage, face massage, as well as target-specific massage techniques."
+      ]
+    }
+  ],
+  "mapLabel": "Bali Yoga School Location (map embed labelled 'Bali Yoga School', Ubud)",
+  "issues": [
+    "Card link targets (hrefs) were not captured in the source audit; listedItems[].path values marked pathInferred=true were matched by card wording (hours/level/campus) to existing course URLs in pages-index.csv — verify against the live site.",
+    "Uluwatu has a separate 7-day Ayurvedic massage page (/courses/7-days-ayurvedic-massage-course-bali-uluwatu/) not listed here.",
+    "Panchakarma card claims it 'facilitates the removal of toxins from the body' — health claim, not extracted.",
+    "Certified by whom is not stated on this hub (healing hub says 'Himalayan Yoga Association Society Certified Ayurveda Courses')."
+  ]
+}

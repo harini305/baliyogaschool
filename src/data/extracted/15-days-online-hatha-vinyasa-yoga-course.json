@@ -1,0 +1,142 @@
+{
+  "slug": "15-days-online-hatha-vinyasa-yoga-course",
+  "path": "/courses/15-days-online-hatha-vinyasa-yoga-course/",
+  "sourceFile": "content/pages/courses__15-days-online-hatha-vinyasa-yoga-course.md",
+  "kind": "online",
+  "location": "online",
+  "title": "15 Days Online Hatha Vinyasa Yoga Course",
+  "displayTitle": "15-Day Online Hatha Vinyasa Yoga Course",
+  "hours": null,
+  "level": null,
+  "metaTitle": "15 Days Online Hatha Vinyasa Yoga Course",
+  "metaDescription": "Bali yoga school are offering Online Yoga Teacher Training course for 15 Days Online Hatha Vinyasa Yoga Course based yoga teacher training.",
+  "summary": "This 15 day online yoga course mixes easy-to-watch videos with live Zoom classes every day.",
+  "intro": [
+    "This 15 day online yoga course mixes easy-to-watch videos with live Zoom classes every day. Teachers from Rishikesh, India will guide you. You'll learn two types of yoga: Hatha (slow, steady poses) and Vinyasa (flowing movements).",
+    "Every live class (1.5 hours) also lets you practice teaching yoga to friends or family. If you're confused or have questions, you can ask the teachers directly during the live sessions. Everything is online, so you can join from home!"
+  ],
+  "duration": "15 days",
+  "durationStatements": [
+    "15 Days Duration",
+    "This 15 day online yoga course mixes easy-to-watch videos with live Zoom classes every day.",
+    "Daily (15 days) online 1.5 Hours live zoom Hatha vinyasa yoga classes"
+  ],
+  "keyFacts": [
+    {
+      "label": "Format",
+      "value": "Pre-recorded videos + daily live Zoom classes"
+    },
+    {
+      "label": "Certification",
+      "value": "Himalayan Yoga Association certified certification"
+    },
+    {
+      "label": "Video access",
+      "value": "One month access to all pre-recorded sessions"
+    }
+  ],
+  "hourCalculation": [],
+  "styles": [],
+  "curriculum": [
+    {
+      "title": "Course Outline",
+      "summary": null,
+      "items": [
+        "Philosophy of Hatha Yoga",
+        "Ancient Scriptures of Hatha",
+        "Yoga Aim and Objectives of Hatha Yoga",
+        "Pavan Muktasana series 1",
+        "Pavanamuktasana series – 2",
+        "Pavanamuktasana series – 3",
+        "Centering postures series",
+        "Surya Namaskara",
+        "Chandra Namaskara",
+        "Padmasana Group of Asanas",
+        "Backward Bending Asanas",
+        "Forward Bending Asanas",
+        "Spinal Twisting Asanas",
+        "Inverted Asanas",
+        "Balancing Asanas"
+      ]
+    }
+  ],
+  "schedule": {
+    "heading": null,
+    "note": null,
+    "batches": []
+  },
+  "fees": {
+    "currency": "USD",
+    "discountLabelAsPublished": null,
+    "note": null,
+    "options": [
+      {
+        "group": "Online course",
+        "label": "15-Day Online Hatha Vinyasa Yoga Course",
+        "detail": "$500",
+        "original": 500,
+        "offer": null
+      }
+    ],
+    "extras": [
+      {
+        "label": "Other courses",
+        "price": null,
+        "detail": "You will be eligible for a 10% discount on our all online and offline courses."
+      }
+    ]
+  },
+  "addOnHealing": [],
+  "addOnNote": null,
+  "inclusions": [
+    "Access to our pre-recorded Hatha vinyasa yoga session videos, recorded in Rishikesh India by great teachers.",
+    "Himalayan Yoga Association certified certification.",
+    "One month access to the all pre-recorded Hatha vinyasa yoga sessions.",
+    "Digital course manual PDF",
+    "Daily (15 days) online 1.5 Hours live zoom Hatha vinyasa yoga classes"
+  ],
+  "exclusions": [],
+  "dailySchedule": [],
+  "dining": {
+    "text": null,
+    "mealTimes": []
+  },
+  "arrival": [],
+  "prerequisites": [],
+  "policies": [],
+  "faqs": [],
+  "teachersNamed": [
+    "Yogi Himanshu",
+    "Yogi Deepak",
+    "Yogi Pramod",
+    "Yogini Stuti"
+  ],
+  "relatedLinks": [],
+  "youtube": [],
+  "online": {
+    "platform": "Zoom (live classes)",
+    "liveClasses": [
+      "This 15 day online yoga course mixes easy-to-watch videos with live Zoom classes every day.",
+      "Every live class (1.5 hours)",
+      "Daily (15 days) online 1.5 Hours live zoom Hatha vinyasa yoga classes"
+    ],
+    "recordings": [
+      "Access to our pre-recorded Hatha vinyasa yoga session videos, recorded in Rishikesh India by great teachers."
+    ],
+    "access": [
+      "One month access to the all pre-recorded Hatha vinyasa yoga sessions."
+    ],
+    "support": []
+  },
+  "issues": [
+    "Unverified marketing stats on page not used: '★★★★★ (167 Ratings)', '4.8 Rating', '5500+ Students', '10+ Yoga Teachers', '10+ Lessons'.",
+    "Price conflict: this page shows $500; the listing /courses_group/online-yoga-course/ shows '$240' for the same course.",
+    "Hub /online-specialized-yoga-courses/ describes the corresponding course as '6 Days' (not 15 days).",
+    "Meta description calls this an 'Online Yoga Teacher Training course' — it is a 15-day specialised course, not a YTT.",
+    "Certification is from Himalayan Yoga Association (Rishikesh), not Bali Yoga School or Yoga Alliance.",
+    "Teacher bios on page are generic and shared across all 15-day online courses (Yogi Himanshu, Yogi Deepak, Yogi Pramod, Yogini Stuti) — names only extracted.",
+    "'Benefits of ...' list (Benefits of Hatha Vinyasa Yoga) not extracted — generic benefits copy.",
+    "No promo video on this page (the other six 15-day pages embed YouTube K7CncXsq4Y0).",
+    "Stray '|' character after intro text on page."
+  ]
+}

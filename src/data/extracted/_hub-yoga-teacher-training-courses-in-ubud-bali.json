@@ -1,0 +1,91 @@
+{
+  "path": "/yoga-teacher-training-courses-in-ubud-bali/",
+  "title": "Yoga Teacher Training Courses in Ubud Bali",
+  "metaTitle": "Yoga Teacher Training Courses in Ubud Bali",
+  "metaDescription": "Embark on your yoga teaching journey in Ubud, Bali. Choose from 50–300 hour Yoga Alliance-certified courses. Deepen your practice amid Bali’s spiritual landscape.",
+  "intro": [
+    "Ubud offers a deeply enriching yoga experience as it possesses a wonderful combination of the nature, spirituality, Hindu culture, making it the perfect place to participate in yoga teacher training courses. Bali Yoga School campus is peacefully located just a short 10-minute ride from the center of Ubud, providing a peaceful environment for you to concentrate on your yoga teacher training yet a very easy access to the town’s vibrant heart.",
+    "Our curriculum of the yoga teacher training courses in Ubud, Bali mirrors the deep-rooted traditional practices of the Himalayan Yoga Association in Rishikesh, India, all while being enriched by Ubud’s spiritual and vibrant environment which promotes a balanced lifestyle.",
+    "Crafted under the guidance of Yogi Himanshu, our yoga teacher trainings in Ubud, Bali include intense daily yoga practices that include many different core practices of yoga, alongside unique experiences such as kirtan nights, partner stretching session, 108 sun salutations session, vegan cooking classes, beach yoga excursion, and participating in Balinese temple rituals."
+  ],
+  "listedItems": [
+    {
+      "title": "50 Hour Yoga Teacher Training in Bali (Ubud)",
+      "path": "/courses/50-hour-yoga-teacher-training-in-bali/",
+      "stated": "6 days, 50 Hour Yoga Teacher Training in Bali — first half of our 100 hour yoga teacher training",
+      "pathInferred": true
+    },
+    {
+      "title": "100 Hour Yoga Teacher Training in Ubud Bali",
+      "path": "/courses/100-hour-yoga-teacher-training-in-bali/",
+      "stated": "12 days, 100 Hour Yoga Teacher Training in Ubud Bali — first half of our 200 hour yoga teacher training",
+      "pathInferred": true
+    },
+    {
+      "title": "200 Hour Yoga Teacher Training in Ubud, Bali",
+      "path": "/courses/200-hour-yoga-teacher-training-in-bali/",
+      "stated": "This is a 24-day course",
+      "pathInferred": true
+    },
+    {
+      "title": "300 Hour Yoga Teacher Training in Ubud, Bali",
+      "path": "/courses/300-hour-yoga-teacher-training-in-bali/",
+      "stated": "28 days, advanced level of yoga teacher training course",
+      "pathInferred": true
+    },
+    {
+      "title": "500 Hour Yoga Teacher Training in Ubud, Bali",
+      "path": "/courses/500-hour-yoga-teacher-training-in-bali/",
+      "stated": "58 days, 500 Hour Yoga Teacher Training in Ubud, Bali (200 h first month + 300 h second month)",
+      "pathInferred": true
+    },
+    {
+      "title": "50 Hour Yin Yoga Teacher Training Course in Ubud, Bali",
+      "path": "/courses/yin-yoga-teacher-training-in-bali/",
+      "stated": "6 days, 50 Hour Yin Yoga Teacher Training Course — first half part of our 100 Hour Yin YTT",
+      "pathInferred": true
+    },
+    {
+      "title": "100 Hour Yin Yoga Teacher Training Course in Ubud, Bali",
+      "path": "/courses/100-hour-yin-yoga-teacher-training-in-bali/",
+      "stated": "12 days, 100 Hour Yin Yoga Teacher Training Course",
+      "pathInferred": true
+    },
+    {
+      "title": "200 Hour Yin Yoga Teacher Training in Ubud, Bali",
+      "path": "/courses/200-hour-yin-yoga-teacher-training-in-bali/",
+      "stated": "24 days, 200 Hour Yin Yoga Teacher Training",
+      "pathInferred": true
+    }
+  ],
+  "extraSections": [
+    {
+      "heading": "Classic Yoga Teacher Training Courses in Ubud, Bali",
+      "paragraphs": [
+        "Click the photos below to learn more"
+      ]
+    },
+    {
+      "heading": "Yin Yoga Teacher Training Courses in Ubud, Bali",
+      "paragraphs": [
+        "Click the photos below to learn more"
+      ]
+    },
+    {
+      "heading": "Yoga Teacher Training Courses in Rishikesh India",
+      "paragraphs": [
+        "Click the photos to learn more (image-only cards; titles/links not captured)"
+      ]
+    }
+  ],
+  "mapLabel": "Bali Yoga School Location",
+  "issues": [
+    "Card link targets (hrefs) were not captured in the source audit; listedItems[].path values marked pathInferred=true were matched by card wording (hours/level/campus) to existing course URLs in pages-index.csv — verify against the live site.",
+    "Duration conflicts (hub vs course pages): 50 h listed as '6 days' — /courses/50-hour-yoga-teacher-training-in-bali/ text mentions '8 days' (and 'Course length ... 8 days (7 nights)'); 100 h listed as '12 days' — /courses/100-hour-yoga-teacher-training-in-bali/ mentions '15 days' and '11 days'; 200 h listed as 'a 24-day course' — /courses/200-hour-yoga-teacher-training-in-bali/ says '25 days'; Yin 50 h '6 days' vs Yin 50 h page '8 days'; Yin 100 h '12 days' vs Yin 100 h page '15 days'; Yin 200 h '24 days' vs Yin 200 h page '25 days'/'20 days'. Home cards (per audit A2) say 100 h = 15 days, 200 h = 25 days.",
+    "Meta description says '50–300 hour' courses but the page also lists a 500 hour course.",
+    "50 h Yin card says the second half can be completed 'at any campus of Bali Yoga School branches, such as Himalayan Yoga Association' — verify.",
+    "Google Maps embed not recorded for this page in video-and-map-embeds.csv; only the heading 'Bali Yoga School Location' is captured.",
+    "Unverified marketing claims not used: 'providing authentic Yoga Teacher Training Courses in Ubud, Bali even before this massive yoga teacher training boom', 'We have made the best 200 Hour Yoga Teacher Training in Ubud', 'there is no other yoga course better than this' (500 h), 'the best Yin Yoga Teacher Training in Ubud'.",
+    "Spelling on page: 'Aquire', 'throughly', 'knowledgable'."
+  ]
+}

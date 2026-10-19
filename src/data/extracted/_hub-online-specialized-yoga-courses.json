@@ -1,0 +1,67 @@
+{
+  "path": "/online-specialized-yoga-courses/",
+  "title": "Online Specialized Yoga Courses",
+  "metaTitle": "Online Specialized Yoga Courses",
+  "metaDescription": null,
+  "intro": [],
+  "listedItems": [
+    {
+      "title": "Online Meditation Course",
+      "path": null,
+      "stated": "our Pranayama online 6 days course",
+      "note": "Card text describes the Pranayama course (copy-paste). Candidate: /courses/15-days-online-meditation-course/."
+    },
+    {
+      "title": "Online Hatha / Vinyasa Flow Course",
+      "path": null,
+      "stated": "6 Days Online Hatha / Vinyasa Flow Course",
+      "note": "Candidate: /courses/15-days-online-hatha-vinyasa-yoga-course/."
+    },
+    {
+      "title": "Online Ashtanga Vinyasa Course",
+      "path": null,
+      "stated": "6 Days Online Ashtanga Vinyasa Course",
+      "note": "Candidate: /courses/15-days-online-ashtanga-vinyasa-course/."
+    },
+    {
+      "title": "Online Pranayama Course",
+      "path": null,
+      "stated": "6 Days Online Pranayama Course ... Over six days",
+      "note": "Candidate: /courses/15-days-online-pranayama-course/."
+    },
+    {
+      "title": "Online Yoga Philosophy Course",
+      "path": null,
+      "stated": "6 Days Online Yoga Philosophy Course",
+      "note": "Candidate: /courses/15-days-online-yoga-philosophy-course/."
+    },
+    {
+      "title": "Online Yoga Anatomy Course",
+      "path": null,
+      "stated": "6 Days Online Yoga Anatomy Course ... Over six days",
+      "note": "Candidate: /courses/15-days-online-yoga-anatomy-course/."
+    },
+    {
+      "title": "Advanced Online Meditation Course",
+      "path": null,
+      "stated": "6 Days Advanced Online Meditation Course ... in just six days; With daily live sessions",
+      "note": "No advanced meditation course page exists in the crawl."
+    }
+  ],
+  "extraSections": [
+    {
+      "heading": "Online Specialized Advanced Yoga Course",
+      "paragraphs": [
+        "Elevate your inner journey with our 6 Days Advanced Online Meditation Course. Designed for experienced practitioners, this program delves deep into advanced techniques, blending breathwork, mindfulness, and guided meditations. Each session combines advanced yoga breathing exercises (pranayama) with meditation practices."
+      ]
+    }
+  ],
+  "mapLabel": null,
+  "issues": [
+    "Card links not captured and no '6 days' course pages exist in the crawl; paths left null with candidate 15-day pages noted.",
+    "DURATION CONFLICT: every card here says '6 Days'; the course pages are all '15 Days Online ... Course' (15 Days Duration). The Yoga Therapy 15-day course is not listed here.",
+    "COPY-PASTE: the 'Online Meditation Course' card text is about Pranayama ('our Pranayama online 6 days course').",
+    "No prices shown here; course pages say $500, the /courses_group/online-yoga-course/ listing says $240.",
+    "No meta description; no intro paragraph; no location/map."
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "path": "/courses_group/yoga-teacher-training-course-india/",
+  "title": "yoga teacher training course Archives",
+  "metaTitle": "yoga teacher training course Archives",
+  "metaDescription": null,
+  "intro": [],
+  "listedItems": [
+    {
+      "title": "300 Hour Yin Yoga Teacher Training in Bali Uluwatu",
+      "path": "/courses/300-hour-yin-yoga-teacher-training-in-bali-uluwatu/",
+      "stated": null,
+      "pathInferred": true,
+      "note": "Excerpt: 'Bali Yoga School was started with a sole purpose of propagating the higher teachings of yoga and the practice of the traditional forms of yoga.'"
+    },
+    {
+      "title": "500 Hour Yin Yoga Teacher Training in Bali Uluwatu",
+      "path": null,
+      "stated": null,
+      "note": "No matching course URL in the crawl. Excerpt: 'Yoga Alliance USA 500 hour yoga teacher training in Bali. Our yoga course was designed for beginner, intermediate and advanced level yoga students.'"
+    },
+    {
+      "title": "500 Hour Yoga Teacher Training in Rishikesh India",
+      "path": null,
+      "stated": null,
+      "note": "Two candidate URLs exist: /courses/500-hour-yoga-teacher-training-in-rishikesh-india/ and /courses/500-hour-yoga-teacher-training-in-india/."
+    },
+    {
+      "title": "50 Hour Yoga Teacher Training in Rishikesh India",
+      "path": null,
+      "stated": "one-week long yoga teacher training course",
+      "note": "Two candidate URLs exist: /courses/50-hour-yoga-teacher-training-in-rishikesh-india/ and /courses/50-hour-yoga-teacher-training-in-india/ (legacy)."
+    },
+    {
+      "title": "300 Hour Yoga Teacher Training in Rishikesh India",
+      "path": "/courses/300-hour-yoga-teacher-training-in-india/",
+      "stated": null,
+      "pathInferred": true
+    },
+    {
+      "title": "100 Hour Yoga Teacher Training in Rishikesh India",
+      "path": "/courses/100-hour-yoga-teacher-training-in-rishikesh-india/",
+      "stated": null,
+      "pathInferred": true
+    },
+    {
+      "title": "200 Hour Yoga Teacher Training in Rishikesh India",
+      "path": "/courses/200-hour-yoga-teacher-training-in-rishikesh-india/",
+      "stated": null,
+      "pathInferred": true
+    },
+    {
+      "title": "500 Hour Yoga Teacher Training in Spain",
+      "path": null,
+      "stated": null,
+      "note": "No matching course URL in the crawl."
+    },
+    {
+      "title": "300 Hour Yoga Teacher Training in Spain",
+      "path": "/courses/300-hour-yoga-teacher-training-in-spain/",
+      "stated": null,
+      "pathInferred": true
+    },
+    {
+      "title": "200 Hour Yoga Teacher Training in Spain",
+      "path": "/courses/200-hour-yoga-teacher-training-in-spain/",
+      "stated": null,
+      "pathInferred": true
+    }
+  ],
+  "extraSections": [],
+  "mapLabel": null,
+  "issues": [
+    "Only page 1 of 6 of this paginated archive was captured ('Page 1 … Page 6 >'); the full list is incomplete.",
+    "Group named 'yoga teacher training course india' but contains Bali Uluwatu Yin and Spain courses.",
+    "Paths matched by title to existing /courses/ URLs where unambiguous (pathInferred=true); null where no or multiple candidates.",
+    "Excerpts contain unverified claims ('The best 200 Hour Yoga Teacher Training in Rishikesh', 'Yoga Alliance USA 500 hour') — not used.",
+    "No meta description."
+  ]
+}

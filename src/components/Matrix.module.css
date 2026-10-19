@@ -1,0 +1,22 @@
+.tableWrap { display: none; }
+.stacked { display: grid; gap: var(--space-5); }
+.stackTitle { font-size: 1.05rem; margin-bottom: var(--space-2); }
+@media (min-width: 768px) {
+  .tableWrap { display: block; }
+  .stacked { display: none; }
+}
+.matrix { background: var(--white); border: 1px solid var(--line); border-radius: var(--radius-lg); overflow: hidden; table-layout: fixed; border-collapse: separate; border-spacing: 0; }
+.matrix th, .matrix td { border-bottom: 1px solid var(--line); border-right: 1px solid var(--line); padding: 0; text-align: left; vertical-align: top; }
+.matrix tr > *:last-child { border-right: 0; }
+.matrix tbody tr:last-child > * { border-bottom: 0; }
+.matrix thead th { padding: 12px 14px; background: var(--cream); font-family: var(--font-head); font-size: var(--fs-sm); }
+.matrix thead th a { color: var(--brown); text-decoration: none; }
+.matrix thead th a:hover { color: var(--burnt); text-decoration: underline; }
+.matrix thead th:first-child, .matrix tbody th { width: 104px; }
+.matrix tbody th { padding: 14px; font-family: var(--font-head); font-weight: 700; color: var(--brown); background: var(--cream); font-size: var(--fs-sm); }
+.cellLink { display: grid; gap: 2px; padding: 12px 14px; text-decoration: none; transition: background-color 0.2s ease; }
+.cellLink:hover { background: var(--saffron-wash); }
+.cellTitle { font-family: var(--font-head); font-weight: 700; color: var(--brown); font-size: var(--fs-sm); }
+.cellLink:hover .cellTitle { color: var(--burnt); text-decoration: underline; }
+.cellMeta { font-size: var(--fs-xs); color: var(--brown-2); }
+.none { display: block; padding: 12px 14px; font-size: var(--fs-xs); color: var(--brown-2); }

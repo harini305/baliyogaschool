@@ -1,0 +1,127 @@
+{
+  "slug": "water-purification-session-in-ubud-bali",
+  "path": "/water-purification-session-in-ubud-bali/",
+  "sourceFile": "content/pages/water-purification-session-in-ubud-bali.md",
+  "kind": "session",
+  "location": "ubud",
+  "title": "Water Purification Ceremony with Sound Healing in Bali",
+  "displayTitle": "Water Purification Ceremony with Sound Healing",
+  "hours": null,
+  "level": null,
+  "metaTitle": "Water Purification Session in Ubud Bali",
+  "metaDescription": "90-min water purification ceremony with sound healing for a profound experience of this spiritual journey.",
+  "summary": "Come to Bali Yoga School and join the water purification ceremony with sound healing for a profound experience of this spiritual journey.",
+  "intro": [
+    "Come to Bali Yoga School and join the water purification ceremony with sound healing for a profound experience of this spiritual journey. This ancient, sacred practice is combined into two techniques: the cleansing rituals of water and the healing by sounds, both meant to purify the body, mind, and soul while connecting you more deeply with nature and yourself.",
+    "Water cleansing, which is referred to as Tirta Empul purification in Bali, is one of the oldest rituals conducted according to the Hindu tradition. Water has been long regarded as a sacred thing that embodies life, healing, and spiritual renewal.",
+    "Sound healing has become an integral part of spiritual practices in Bali, often performed in conjunction with water purification rituals."
+  ],
+  "duration": "90 minutes",
+  "durationStatements": [
+    "90-min water purification ceremony",
+    "Session Length – 90 minutes",
+    "35-Minute Body Energy Cleaning with Water Cleansing",
+    "35-Minute Sound Healing",
+    "20-Minute Mala & Mantra Initiation"
+  ],
+  "keyFacts": [
+    {
+      "label": "Session length",
+      "value": "90 minutes"
+    },
+    {
+      "label": "Format",
+      "value": "One-to-one"
+    },
+    {
+      "label": "Fee",
+      "value": "200 USD"
+    },
+    {
+      "label": "Availability",
+      "value": "Throughout the year, on request"
+    }
+  ],
+  "hourCalculation": [],
+  "styles": [],
+  "curriculum": [
+    {
+      "title": "One-to-One Healing Experience",
+      "summary": "During the healing session, each participant gets attention to their needs because of the one-on-one session.",
+      "items": []
+    },
+    {
+      "title": "35-Minute Body Energy Cleaning with Water Cleansing",
+      "summary": "Water Cleansing involves using purified water prepared in various forms and temperatures to promote health and healing.",
+      "items": []
+    },
+    {
+      "title": "35-Minute Sound Healing",
+      "summary": "Healing instruments such as singing bowls, gong and other instruments are applied to bring balance within the body. It serves as the counterpart of the Water Cleansing in order to enhance the process of purification.",
+      "items": []
+    },
+    {
+      "title": "20-Minute Mala & Mantra Initiation",
+      "summary": "During the healing process, people are encouraged to chant mantras and to use mala – a string of beads used in meditating. This practice assists in concentration and brings about peace within a person.",
+      "items": []
+    }
+  ],
+  "schedule": {
+    "heading": "Course Dates / Price",
+    "note": "We offer Water Purification Session throughout the year. Please contact us to check availabilities of your desired dates.",
+    "batches": []
+  },
+  "fees": {
+    "currency": "USD",
+    "discountLabelAsPublished": null,
+    "note": null,
+    "options": [
+      {
+        "group": "Session",
+        "label": "Water Purification Ceremony with Sound Healing",
+        "detail": "Session Length – 90 minutes",
+        "original": null,
+        "offer": 200
+      }
+    ],
+    "extras": []
+  },
+  "addOnHealing": [],
+  "addOnNote": null,
+  "inclusions": [],
+  "exclusions": [],
+  "dailySchedule": [],
+  "dining": {
+    "text": null,
+    "mealTimes": []
+  },
+  "arrival": [],
+  "prerequisites": [],
+  "policies": [
+    {
+      "title": "Terms & Condition",
+      "items": [
+        "Discipline Rules for Students – Smoking and alcohol are strictly prohibited in the school.",
+        "Refund Policy – The Advanced Course Fees, Complete Course Fee, Retreat Fee, Visa Fee or Any Other Payment will not be refundable in any case. Only in the case of emergency students can join us on other schedules. If a student cancels the course after joining it, we accept cancellation but course fees will not be refunded in cancellation."
+      ]
+    }
+  ],
+  "faqs": [],
+  "teachersNamed": [
+    "Yogini Ida"
+  ],
+  "relatedLinks": [],
+  "youtube": [],
+  "issues": [
+    "Session components (35 + 35 + 20 minutes) add up to the stated 90 minutes (consistent).",
+    "Body text never says Ubud ('takes place in the heart of Bali'); Ubud appears only in the page title/URL.",
+    "Text describes Tirta Empul temple immersion rituals, but the session itself is described as water cleansing with purified water at the school — readers may assume a temple visit; clarify.",
+    "Heading 'Advantages of Water Filtration and Sound Therapy' uses 'filtration' (likely 'purification').",
+    "Page says the session is guided by 'our expert teacher, under the guidance of the great Yogi Himanshu'; only Yogini Ida is named as teacher.",
+    "Unverified/medical claims (not used): 'Detoxification: Water’s purifying qualities aid in removing toxins', water application 'can help cleanse the body both internally and externally', 'Amongst some of the top yoga schools in Bali', 'global yoga teacher'.",
+    "Typo in teacher bio on page: 'typrs' (types).",
+    "Audit classifies page as 'Course hub / location landing'; it is a single-session product page.",
+    "Refund policy is the generic course template (mentions 'Advanced Course Fees', 'Retreat Fee', 'Visa Fee') applied to a single session.",
+    "Price is labelled 'Course Fee' and section 'COURSE DATES / PRICE' for a one-off session."
+  ]
+}

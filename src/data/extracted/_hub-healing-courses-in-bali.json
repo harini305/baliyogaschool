@@ -1,0 +1,89 @@
+{
+  "path": "/healing-courses-in-bali/",
+  "title": "Healing Courses in Bali Yoga School",
+  "metaTitle": "Healing Courses in Bali",
+  "metaDescription": "Healing Courses in Bali / Become a Himalayan Yoga Association Society certified professional sound healer in Bali.",
+  "intro": [
+    "Combine Yoga and Healing in the heart of Bali, Ubud. Become a Himalayan Yoga Association Society certified professional healer at Bali Yoga School. We have 3 levels of Sound Healing Courses, 3 Levels of Reiki Healing Courses, and 2 Ayurveda Courses.",
+    "During our healing courses in Bali, you will also have daily yoga class (ex. Hatha vinyasa / Meditation) to enhance your experiences."
+  ],
+  "listedItems": [
+    {
+      "title": "Sound Healing Course – Level 1/2/3 (Best Sound Healing Course)",
+      "path": "/courses/best-sound-healing-course-in-bali/",
+      "stated": "contains all the syllabuses of our Level 1/2/3 Sound Healing Course",
+      "pathInferred": true
+    },
+    {
+      "title": "Sound Healing Course – Level 2/3",
+      "path": "/courses/level-2-3-sound-healing-course-in-bali-indonesia/",
+      "stated": "contains all the syllabuses of our Level 2/3 Sound Healing Course",
+      "pathInferred": true
+    },
+    {
+      "title": "Level 1/2 Sound Healing Course",
+      "path": "/courses/level-1-2-sound-healing-course-in-bali-indonesia/",
+      "stated": null,
+      "pathInferred": true
+    },
+    {
+      "title": "Best Reiki Healing Course in Bali",
+      "path": "/courses/best-reiki-healing-course-in-bali-indonesia/",
+      "stated": null,
+      "pathInferred": true
+    },
+    {
+      "title": "Level 1/2 Reiki Healing Course",
+      "path": "/courses/level-1-2-reiki-healing-course-in-bali-indonesia/",
+      "stated": null,
+      "pathInferred": true
+    },
+    {
+      "title": "13 Days Ayurvedic Massages and Panchakarma Therapy Course",
+      "path": "/courses/ayurvedic-panchakarma-therapy-course-in-bali-indonesia/",
+      "stated": "13 Days",
+      "pathInferred": true
+    },
+    {
+      "title": "7 Days Ayurvedic Massage Course (ABW) in Bali, Indonesia",
+      "path": "/courses/ayurvedic-massage-course-in-bali-indonesia/",
+      "stated": "7 Days",
+      "pathInferred": true
+    }
+  ],
+  "extraSections": [
+    {
+      "heading": "Himalayan Yoga Association Society Certified Sound Healing Courses in Bali",
+      "paragraphs": [
+        "You will learn to harness the power of various sound tools, including Tibetan singing bowls, gongs, happy drum, ocean drum, rain sticks, and your own voice."
+      ]
+    },
+    {
+      "heading": "Himalayan Yoga Association Society Certified Reiki Healing Courses in Bali",
+      "paragraphs": []
+    },
+    {
+      "heading": "Himalayan Yoga Association Society Certified Ayurveda Courses in Bali",
+      "paragraphs": []
+    },
+    {
+      "heading": "Bali Yoga School – Second Campus Location",
+      "paragraphs": []
+    },
+    {
+      "heading": "Healing Courses in Rishikesh, India",
+      "paragraphs": [
+        "Click the photos to learn more (image-only cards; titles/links not captured)"
+      ]
+    }
+  ],
+  "mapLabel": "Bali Yoga School Location; Bali Yoga School – Second Campus Location (two map embeds, both labelled 'Bali Yoga School', near Ubud)",
+  "issues": [
+    "Card link targets (hrefs) were not captured in the source audit; listedItems[].path values marked pathInferred=true were matched by card wording (hours/level/campus) to existing course URLs in pages-index.csv — verify against the live site.",
+    "Intro says '3 levels of Sound Healing Courses, 3 Levels of Reiki Healing Courses' but this hub lists only 3 sound and 2 reiki cards (combined-level courses); single-level courses appear only on /sound-healing-courses-in-bali/ and /reiki-healing-courses-in-bali/. Sound healing pages for Level 4 and Level 5 also exist.",
+    "Meta description mentions only sound healers although the hub covers sound, reiki and Ayurveda.",
+    "Certification body named as 'Himalayan Yoga Association Society' — verify exact name (other pages say 'Himalayan Yoga Association Yoga Society').",
+    "Ayurveda card claims Panchakarma 'facilitates the removal of toxins from the body' — health claim, not extracted.",
+    "Unverified claims not used: 'leading the yoga scene in Bali as one of the very first authentic yoga school', 'This best sound healing course', 'Best Reiki Healing Course'."
+  ]
+}

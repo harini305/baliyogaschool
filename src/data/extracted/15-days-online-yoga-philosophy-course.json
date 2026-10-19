@@ -1,0 +1,140 @@
+{
+  "slug": "15-days-online-yoga-philosophy-course",
+  "path": "/courses/15-days-online-yoga-philosophy-course/",
+  "sourceFile": "content/pages/courses__15-days-online-yoga-philosophy-course.md",
+  "kind": "online",
+  "location": "online",
+  "title": "15 Days Online Yoga Philosophy Course",
+  "displayTitle": "15-Day Online Yoga Philosophy Course",
+  "hours": null,
+  "level": null,
+  "metaTitle": "Online Yoga Philosophy Course",
+  "metaDescription": "Discover ancient yoga philosophy in 15 days. Explore mindfulness, self-discovery & timeless teachings online. Perfect for all levels.",
+  "summary": "This 15-day online yoga philosophy course mixes prerecorded videos and daily 1-hour live Zoom classes with teachers from Rishikesh, India.",
+  "intro": [
+    "This 15-day online yoga philosophy course mixes prerecorded videos and daily 1-hour live Zoom classes with teachers from Rishikesh, India. You'll learn the true meaning of yoga—not just poses, but the deeper ideas behind it, like why yoga practices work and how they can improve your daily life.",
+    "During live classes, ask questions, dive deeper into topics, and even practice sharing what you learn with others."
+  ],
+  "duration": "15 days",
+  "durationStatements": [
+    "15 Days Duration",
+    "This 15-day online yoga philosophy course mixes prerecorded videos and daily 1-hour live Zoom classes",
+    "Daily (15 days) online 1 hour live zoom pranayama classes"
+  ],
+  "keyFacts": [
+    {
+      "label": "Format",
+      "value": "Pre-recorded videos + daily live Zoom classes"
+    },
+    {
+      "label": "Certification",
+      "value": "Himalayan Yoga Association certified certification"
+    },
+    {
+      "label": "Video access",
+      "value": "One month access to all pre-recorded sessions"
+    }
+  ],
+  "hourCalculation": [],
+  "styles": [],
+  "curriculum": [
+    {
+      "title": "Course Outline",
+      "summary": null,
+      "items": [
+        "What is Yoga & Its history ?",
+        "Eight Limbs of Yoga",
+        "Understanding all 4 paths of yoga- Karma Yoga, Bhakti Yoga, Gyan Yoga, Dhyana Yoga",
+        "Teaching of The Buddha",
+        "(Trigunas) Sattva, Rajas & Tamas",
+        "What is Bhagavad Geeta & Upanishad",
+        "An Overview on Patanjali Yoga Sutras all chapters",
+        "What is Kundalini Yoga",
+        "What are the Pancha-Kosha In yoga",
+        "What are the chakras in yoga",
+        "The Nadi in Yoga",
+        "Three kinds of pain or Three-fold misery",
+        "Teaching of Ramana Maharshi (Who am I)"
+      ]
+    }
+  ],
+  "schedule": {
+    "heading": null,
+    "note": null,
+    "batches": []
+  },
+  "fees": {
+    "currency": "USD",
+    "discountLabelAsPublished": null,
+    "note": null,
+    "options": [
+      {
+        "group": "Online course",
+        "label": "15-Day Online Yoga Philosophy Course",
+        "detail": "$500",
+        "original": 500,
+        "offer": null
+      }
+    ],
+    "extras": [
+      {
+        "label": "Other courses",
+        "price": null,
+        "detail": "You will be eligible for a 10% discount on our all online and offline courses."
+      }
+    ]
+  },
+  "addOnHealing": [],
+  "addOnNote": null,
+  "inclusions": [
+    "Access to our pre-recorded yoga philosophy session videos, recorded in Rishikesh India by great teachers.",
+    "Himalayan Yoga Association certified certification.",
+    "One month access to the all pre-recorded yoga philosophy sessions.",
+    "Digital course manual PDF",
+    "Daily (15 days) online 1 hour live zoom pranayama classes"
+  ],
+  "exclusions": [],
+  "dailySchedule": [],
+  "dining": {
+    "text": null,
+    "mealTimes": []
+  },
+  "arrival": [],
+  "prerequisites": [],
+  "policies": [],
+  "faqs": [],
+  "teachersNamed": [
+    "Yogi Himanshu",
+    "Yogi Deepak",
+    "Yogi Pramod",
+    "Yogini Stuti"
+  ],
+  "relatedLinks": [],
+  "youtube": [
+    "https://www.youtube.com/watch?v=K7CncXsq4Y0"
+  ],
+  "online": {
+    "platform": "Zoom (live classes)",
+    "liveClasses": [
+      "This 15-day online yoga philosophy course mixes prerecorded videos and daily 1-hour live Zoom classes",
+      "Daily (15 days) online 1 hour live zoom pranayama classes"
+    ],
+    "recordings": [
+      "Access to our pre-recorded yoga philosophy session videos, recorded in Rishikesh India by great teachers."
+    ],
+    "access": [
+      "One month access to the all pre-recorded yoga philosophy sessions."
+    ],
+    "support": []
+  },
+  "issues": [
+    "Unverified marketing stats on page not used: '★★★★★ (321 Ratings)', '4.8 Rating', '4500+ Students', '10+ Yoga Teachers', '10+ Lessons'.",
+    "Price conflict: this page shows $500; the listing /courses_group/online-yoga-course/ shows '$240' for the same course.",
+    "Hub /online-specialized-yoga-courses/ describes the corresponding course as '6 Days' (not 15 days).",
+    "Certification is from Himalayan Yoga Association (Rishikesh), not Bali Yoga School or Yoga Alliance.",
+    "Teacher bios on page are generic and shared across all 15-day online courses (Yogi Himanshu, Yogi Deepak, Yogi Pramod, Yogini Stuti) — names only extracted.",
+    "'Benefits of ...' list (Benefits of Yoga Philosophy) not extracted — generic benefits copy.",
+    "Inclusions say 'live zoom pranayama classes' on a philosophy course (copy-paste).",
+    "Page <title> is 'Online Yoga Philosophy Course' while H1 is '15 Days Online Yoga Philosophy Course'."
+  ]
+}

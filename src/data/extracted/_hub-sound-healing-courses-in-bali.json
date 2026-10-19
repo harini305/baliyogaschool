@@ -1,0 +1,57 @@
+{
+  "path": "/sound-healing-courses-in-bali/",
+  "title": "Sound Healing Courses in Bali Yoga School",
+  "metaTitle": "Sound Healing Courses in Bali",
+  "metaDescription": "Sound Healing Courses in Bali / Become a Himalayan Yoga Association Society certified professional sound healer in Bali.",
+  "intro": [
+    "Become a Himalayan Yoga Association Society certified professional sound healer in Bali."
+  ],
+  "listedItems": [
+    {
+      "title": "Level 1 Sound Healing Course in Bali",
+      "path": "/courses/level-1-sound-healing-course-in-bali-indonesia/",
+      "stated": "entry level course ... mainly focused on mastering the basics of Tibetan singing bowls",
+      "pathInferred": true
+    },
+    {
+      "title": "Level 2 Sound Healing Course in Bali Indonesia",
+      "path": "/courses/level-2-sound-healing-course-in-bali-indonesia/",
+      "stated": null,
+      "pathInferred": true
+    },
+    {
+      "title": "Level 3 Sound Healing Course in Bali Indonesia",
+      "path": "/courses/level-3-sound-healing-course-in-bali-indonesia/",
+      "stated": null,
+      "pathInferred": true
+    },
+    {
+      "title": "Level 1/2 Sound Healing Course",
+      "path": "/courses/level-1-2-sound-healing-course-in-bali-indonesia/",
+      "stated": "master 2 levels at the same time",
+      "pathInferred": true
+    },
+    {
+      "title": "Level 1/2/3 Sound Healing Course",
+      "path": "/courses/best-sound-healing-course-in-bali/",
+      "stated": "contains all the syllabuses of our Level 1/2/3 Sound Healing Courses",
+      "pathInferred": true
+    }
+  ],
+  "extraSections": [
+    {
+      "heading": "Certified Sound Healing Courses in Bali",
+      "paragraphs": [
+        "Click the photos below to learn more"
+      ]
+    }
+  ],
+  "mapLabel": "Bali Yoga School Location (map embed labelled 'Bali Yoga School', Ubud)",
+  "issues": [
+    "Card link targets (hrefs) were not captured in the source audit; listedItems[].path values marked pathInferred=true were matched by card wording (hours/level/campus) to existing course URLs in pages-index.csv — verify against the live site.",
+    "No durations or prices are shown on this hub.",
+    "Level 4 and Level 5 sound healing course pages exist (/courses/level-4-…, /courses/level-5-…) but are not listed here; Level 2/3 combined course is also not listed (it is listed on /healing-courses-in-bali/).",
+    "Duplicate-looking course URLs exist (/courses/level-2-sound-healing-course-in-bali-indonesia-2/ and /courses/level-3-sound-healing-course-bali-indonesia-2/ both titled 'Level 1&2 Sound Healing Course') — confirm which the cards link to.",
+    "Health claims not extracted: Level 1 card says sound vibration therapy 'relieving mental stress and restoring a person’s nervous system and energy structure'; Level 2 card 'synchronisation between the vibrations of our brains and the planet'."
+  ]
+}

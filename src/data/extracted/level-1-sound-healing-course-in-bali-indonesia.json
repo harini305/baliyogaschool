@@ -1,0 +1,148 @@
+{
+  "slug": "level-1-sound-healing-course-in-bali-indonesia",
+  "path": "/courses/level-1-sound-healing-course-in-bali-indonesia/",
+  "sourceFile": "content/pages/courses__level-1-sound-healing-course-in-bali-indonesia.md",
+  "kind": "healing",
+  "location": "ubud",
+  "title": "Level 1 Sound Healing Course in Bali",
+  "displayTitle": "Level 1 Sound Healing Course",
+  "hours": null,
+  "level": "Level 1",
+  "metaTitle": "Level 1 Sound Healing Course in Bali Indonesia",
+  "metaDescription": "Level 1 Sound Healing Course in Bali Indonesia - This course is ideal for people who want to understand basic sound healing techniques.",
+  "summary": "This workshop is designed to teach traditional Himalayan methods of working with Tibetan bowls.",
+  "intro": [
+    "Sound vibration therapy with Tibetan singing bowls is a unique method of relieving mental stress and restoring a person’s nervous system and energy structure. Connecting with nature through this ancient technique can help heal ourselves and bring our attention toward our well-being.",
+    "Sound healing is a therapeutic process that uses various sounds and vibrations to promote healing and wellness. It is said that everything in this universe has its sound and vibration. When the energy levels in the body become imbalanced, it has a detrimental impact on our physical and mental health. Thus, the Tibetan sound healing technique balances this energy in the body.",
+    "This course is ideal for people who want to understand healing techniques through Tibetan singing bowls and want to teach others as a teacher. People who wish to unlock its benefits for their well-being can join this course. This workshop is designed to teach traditional Himalayan methods of working with Tibetan bowls. Moreover, you will also learn how to use this healing method in your day-to-day life and can also share this knowledge with your loved ones."
+  ],
+  "duration": null,
+  "durationStatements": [],
+  "keyFacts": [
+    {"label": "Certification", "value": "Sound Healing Level 1 Certification upon the successful completion of the course"},
+    {"label": "Certifying body (as published)", "value": "Himalayan Yoga Association Yoga Society"},
+    {"label": "Massages", "value": "1 Balinese Massage Treatment"},
+    {"label": "Dates", "value": "Offered throughout 2026; contact to check availability"}
+  ],
+  "hourCalculation": [],
+  "styles": [],
+  "curriculum": [
+    {
+      "title": "Level 1 Syllabus",
+      "summary": null,
+      "items": [
+        "Introduction to Tibetan sound healing therapy and its benefits",
+        "Concept and types of singing bowls",
+        "How to select the singing bowls",
+        "Technique to hold the bowls",
+        "Technique to rub and hit the bowls",
+        "Introduction to the concept of Aura, how to clean the Aura and how to seal the Aura",
+        "Aura protection for yourself",
+        "Mind relaxing technique",
+        "Therapy for digestive system",
+        "Water charging technique and its benefits in drinking",
+        "How to facilitate a professional healing",
+        "Detailed introduction about the safety rules for conducting the session"
+      ]
+    },
+    {
+      "title": "Learning Outcomes",
+      "summary": null,
+      "items": [
+        "Working with Tibetan singing bowls and helping others",
+        "Learning to release negative emotions like frustration, irritation, anxious thoughts and improve emotional well-being",
+        "Selecting a proper Tibetan singing bowl for your practice",
+        "Technique of performing massage with Tibetan bowls",
+        "Mastering contact method",
+        "Learning how to utilise the method for healing various issues",
+        "Ways to purify energy channels",
+        "Method to cleanse crystals and structure water through the ancient practice"
+      ]
+    }
+  ],
+  "schedule": {
+    "heading": "Dates 2026",
+    "note": "We offer Sound Healing Course throughout the year of 2026. Please contact us to check the availability of your desired dates.",
+    "batches": []
+  },
+  "fees": {
+    "currency": "USD",
+    "discountLabelAsPublished": "New Fee After 20% Discount",
+    "note": null,
+    "options": [
+      {"group": "Accommodation + meals", "label": "Twin Shared", "detail": "All-inclusive stay option", "original": 440, "offer": 350},
+      {"group": "Accommodation + meals", "label": "Private Campus-I", "detail": "Private accommodation option", "original": 625, "offer": 500},
+      {"group": "Accommodation + meals", "label": "Private Campus-II", "detail": "Private accommodation option", "original": 565, "offer": 450},
+      {"group": "Course only", "label": "Only Course", "detail": "No food, no accommodation, no massages", "original": 350, "offer": 280}
+    ],
+    "extras": [
+      {"label": "Booking deposit", "price": "100 USD", "detail": "In order to book for the course, deposit the Complete course fees of 100 USD. An official confirmation letter of your program will be sent to you shortly after successful deposit for the yoga retreat fees."}
+    ]
+  },
+  "addOnHealing": [],
+  "addOnNote": null,
+  "inclusions": [
+    "Private accommodation with 24h hot water availability",
+    "Mentioned sound healing classes / yoga asanas / meditation classes",
+    "Course materials: 1 School Bag / 1 School T-Shirt / 1 Sound Healing Manual / 1 Notebook / 1 Pen",
+    "All the other materials for all activities are available at the school",
+    "Sound Healing Level 1 Certification upon the successful completion of the course",
+    "This course is certified by Himalayan Yoga Association Yoga Society",
+    "Free high-speed WiFi throughout the school campus",
+    "3 daily vegetarian / vegan meals and teas",
+    "1 Balinese Massage Treatment",
+    "Unlimited filtered hot & cold drinking water",
+    "Swimming pool access"
+  ],
+  "exclusions": [],
+  "dailySchedule": [
+    {"day": "Day 1", "time": "12:00 pm", "activity": "Check in"},
+    {"day": "Day 1", "time": "12:30 pm", "activity": "Lunch"},
+    {"day": "Day 1", "time": "1:30 pm to 3:30 pm", "activity": "Sound Healing Theory & Practical Class"},
+    {"day": "Day 1", "time": "7:00 pm", "activity": "Dinner"},
+    {"day": "Day 1", "time": "10:00 pm", "activity": "Gates close"},
+    {"day": "Day 2", "time": "6:00 am to 7:00 am", "activity": "Hatha Vinyasa Yoga & Meditation"},
+    {"day": "Day 2", "time": "7:00 am to 8:00 am", "activity": "Balinese Massage Treatment"},
+    {"day": "Day 2", "time": "8:30 am", "activity": "Breakfast"},
+    {"day": "Day 2", "time": "10:00 am to 12:00 pm", "activity": "Sound Healing Theory & Practical Class"},
+    {"day": "Day 2", "time": "12:00 pm", "activity": "Check out"}
+  ],
+  "dining": {"text": null, "mealTimes": []},
+  "arrival": [
+    "Check In – On the Day 1st after 12:00 PM",
+    "Check Out – On the last day before 12:00 PM"
+  ],
+  "prerequisites": [
+    "This course is designed for individuals wanting to learn more about sound therapy or become a sound therapist.",
+    "Professionals who wish to incorporate Tibetan sound healing into their therapeutic work",
+    "For self-improvement",
+    "For those who want to enhance their knowledge about self-improvement",
+    "Professional yoga instructors, psychologists, and healing therapists",
+    "For those practising yoga",
+    "Individuals with experience or at a beginner level in meditation",
+    "To achieve inner peace",
+    "People interested in music and how this technique promotes healing",
+    "Individuals with an interest in Tibetan healing bowls",
+    "Working professionals looking for a refreshing experience",
+    "Apart from this, anyone can join this workshop, from homemakers to professionals."
+  ],
+  "policies": [
+    {"title": "Schedule changes", "items": ["Management team is authorised to make the necessary changes in the daily schedule if needed."]},
+    {"title": "Booking", "items": ["In order to book for the course, deposit the Complete course fees of 100 USD. An official confirmation letter of your program will be sent to you shortly after successful deposit for the yoga retreat fees."]}
+  ],
+  "faqs": [],
+  "teachersNamed": ["Yogi Himanshu Joshi", "Yogini Chiara", "Yogini Shanti", "Yogini Idatrini", "Yogi Pandu"],
+  "relatedLinks": [],
+  "youtube": [],
+  "issues": [
+    "No course length is stated anywhere on the page (no 'Length of the Course' line, unlike Level 2–5 pages). The daily schedule shows Day 1 (check-in 12:00 pm) and Day 2 (check-out 12:00 pm), implying 2 days / 1 night, but this is not stated — duration set to null. CSV helper elsewhere lists Level 1 Reiki as '2 days & 1 Night', not this page.",
+    "Course hours are not stated (hours = null).",
+    "Inclusions list 'Private accommodation with 24h hot water availability' for all options, including Twin Shared and Only Course (no accommodation).",
+    "Booking text is self-contradictory: 'deposit the Complete course fees of 100 USD' and refers to 'yoga retreat fees' on a sound healing page.",
+    "Certifying body differs from the combined Level 1/2/3 page (this page: only 'Himalayan Yoga Association Yoga Society'; combined page adds International Yoga Organisation).",
+    "Only Course original price (350 USD) equals the Twin Shared offer price (350 USD) — coincidental but worth confirming.",
+    "Page contains 'Benefits Of Tibetan Singing Bowl Meditation/Massage' list with unverified health claims (e.g. alleviates symptoms of mild depression, detoxifies the body, improves neurological health) and the claim 'massaging your body with this method can help stimulate trillions of cells' and 'other musical instruments are less powerful than the Tibetan singing bowl technique' — not extracted; unverified.",
+    "Typos in original: 'Tibetian' (corrected to 'Tibetan'), 'existance', 'typrs'.",
+    "Meta description says 'basic sound healing techniques'; page body describes the course as also for those who want to teach as a teacher to others — ensure positioning is not overstated."
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "path": "/yoga-teacher-trainings-in-canggu-bali/",
+  "title": "Yoga Teacher Trainings in Canggu Bali",
+  "metaTitle": "Yoga Teacher Trainings in Canggu Bali",
+  "metaDescription": "Yoga Teacher Training Courses in Ubud Bali / Why Yoga Teacher Training Courses in Ubud, Bali? Ubud offers a deeply enriching yoga experience.",
+  "intro": [
+    "Canggu is a beach town in Bali with sunsets, green rice fields, and beaches perfect for surfing. At Bali Yoga School, we’ve made simple yoga courses that combine traditional yoga wisdom with Canggu’s chill, friendly vibe. No matter if you’re new to teaching or already have experience, our programs meet you where you are.",
+    "Bali Yoga School offers yoga teacher training in Canggu, Bali. We teach the traditional way, like meditation, breathing practices, and yoga philosophy. We’re part of the Himalayan Yoga Association, a yoga school from Rishikesh, India. They started Bali Yoga School to share their knowledge in Bali’s peaceful, natural setting.",
+    "Yogi Himanshu personally designed all our courses in Canggu Bali."
+  ],
+  "listedItems": [
+    {
+      "title": "100 Hour Yoga Teacher Training (YTT) in Canggu, Bali",
+      "path": "/courses/100-hours-yoga-teacher-training-in-canggu-bali/",
+      "stated": "Start Your Yoga Journey in Just 12 Days! — Part 1 of our full 200 hour program",
+      "pathInferred": true
+    },
+    {
+      "title": "200 Hour Yoga Teacher Training Course (Canggu)",
+      "path": "/courses/200-hour-yoga-teacher-training-in-canggu-bali/",
+      "stated": null,
+      "pathInferred": true
+    },
+    {
+      "title": "300 Hour Advanced Course in Canggu, Bali",
+      "path": "/courses/300-hours-yoga-teacher-training-in-canggu-bali/",
+      "stated": "28 day, 300 hour advanced course",
+      "pathInferred": true,
+      "note": "A separate hub page /300-hours-yoga-teacher-training-in-canggu-bali/ also exists; card may link there."
+    },
+    {
+      "title": "500 Hour Teacher Training in Canggu, Bali",
+      "path": "/courses/500-hours-yoga-teacher-training-in-canggu-bali/",
+      "stated": "58 day, 500 hour teacher training (200 hour course Month 1 + 300 hour advanced training Month 2)",
+      "pathInferred": true,
+      "note": "A separate hub page /500-hours-yoga-teacher-training-in-canggu-bali/ also exists; card may link there."
+    },
+    {
+      "title": "50 Hour Yin Yoga Course in Canggu, Bali",
+      "path": "/courses/50-hour-yin-yoga-teacher-training-in-canggu-bali/",
+      "stated": "in just 6 days",
+      "pathInferred": true
+    },
+    {
+      "title": "100 Hour Yin Yoga Course in Canggu, Bali",
+      "path": "/courses/100-hour-yin-yoga-teacher-training-in-canggu-bali/",
+      "stated": "12 day, 100 Hour Yin Yoga Course",
+      "pathInferred": true
+    },
+    {
+      "title": "200 Hour Yin Yoga Training in Canggu, Bali",
+      "path": "/courses/200-hour-yin-yoga-teacher-training-in-canggu-bali/",
+      "stated": "24 day, 200 Hour Yin Yoga Training",
+      "pathInferred": true
+    }
+  ],
+  "extraSections": [
+    {
+      "heading": "Key Highlights of Yoga Teacher Training Courses in Canggu, Bali",
+      "paragraphs": [
+        "Learn yoga the authentic way (no shortcuts!).",
+        "Small classes for personal attention.",
+        "Join a friendly global community of yoga lovers."
+      ]
+    },
+    {
+      "heading": "Classic Yoga Teacher Training Courses in Canggu, Bali",
+      "paragraphs": [
+        "Click the photos below to learn more"
+      ]
+    },
+    {
+      "heading": "Yin Yoga Teacher Training Courses in Canggu, Bali",
+      "paragraphs": [
+        "Click the photos below to learn more"
+      ]
+    },
+    {
+      "heading": "Yoga Teacher Training Courses in Rishikesh India",
+      "paragraphs": [
+        "Click the photos to learn more (image-only cards; titles/links not captured)"
+      ]
+    }
+  ],
+  "mapLabel": "Bali Yoga School Location",
+  "issues": [
+    "Card link targets (hrefs) were not captured in the source audit; listedItems[].path values marked pathInferred=true were matched by card wording (hours/level/campus) to existing course URLs in pages-index.csv — verify against the live site.",
+    "No 50 hour classic card on this hub, although /courses/50-hour-yoga-teacher-training-in-canggu-bali/ exists.",
+    "200 h card states no duration and its first paragraph ('deepen your understanding of holistic healing') reads like healing-course copy.",
+    "Duration conflicts (hub vs course pages): Yin 100 h listed as '12 day' — /courses/100-hour-yin-yoga-teacher-training-in-canggu-bali/ hour calculation uses '6 days × 7 hours per day' (looks copied from the 50 h page). 100 h classic '12 Days' matches its page. Canggu 200/300/500 course pages state no day counts in a form that could be cross-checked.",
+    "Meta description is copied from the Ubud hub (mentions Ubud, not Canggu).",
+    "'Yogi Himanshu ... personally designed all our courses ... You’ll learn step-by-step:' is followed by no list (broken copy).",
+    "Typo on page: 'Canguu'. Sentence 'Many people feeling healthier...' is ungrammatical (dropped).",
+    "Google Maps embed not recorded for this page in video-and-map-embeds.csv; heading 'Bali Yoga School Location' gives no Canggu address — verify whether the map shows the Ubud campus.",
+    "Unverified claims not used: 'Our teachers are experts with years of experience', 'yoga was taught for thousands of years in the Himalayas', 'trusted yoga school', 'golden ticket', 'recognized globally by Yoga Alliance the gold standard', 'Small classes' (no class size stated)."
+  ]
+}

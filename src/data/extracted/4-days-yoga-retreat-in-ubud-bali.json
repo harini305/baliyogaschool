@@ -1,0 +1,426 @@
+{
+  "slug": "4-days-yoga-retreat-in-ubud-bali",
+  "path": "/4-days-yoga-retreat-in-ubud-bali/",
+  "sourceFile": "content/pages/4-days-yoga-retreat-in-ubud-bali.md",
+  "kind": "retreat",
+  "location": "ubud",
+  "title": "4 Days Yoga, Meditation & Sound Healing Retreat in Ubud, Bali",
+  "displayTitle": "4-Day Yoga, Meditation & Sound Healing Retreat",
+  "hours": null,
+  "days": 4,
+  "nights": 3,
+  "level": null,
+  "metaTitle": "4-Day Yoga Retreat in Ubud, Bali | Sound Healing",
+  "metaDescription": "Join a 4-day yoga retreat in Ubud, Bali with daily asana, meditation and sound healing, accommodation and vegetarian meals. Beginner-friendly.",
+  "summary": "A four-day immersive retreat combining mindful yoga practice, meditation and restorative sound experiences in the peaceful tropical surroundings of Ubud.",
+  "intro": [
+    "This 4-day yoga retreat in Ubud, Bali is designed as a clear journey—not a crowded wellness package and not an intensive Yoga Teacher Training. Each day connects mindful movement, meditation and conscious sound so you have time to practise, pause and absorb the experience.",
+    "Arrive and ground on Day 1, build awareness through movement and breath on Day 2, receive the signature sound experience on Day 3, then integrate your practice before departure on Day 4. Spacious breaks for swimming, journaling and rest keep the rhythm supportive rather than demanding.",
+    "Asana creates embodied awareness, meditation develops quiet attention, and sound invites receptive rest. Together, they shape a balanced yoga, meditation and sound healing retreat in Bali."
+  ],
+  "duration": "4 days / 3 nights",
+  "durationStatements": [
+    "4 DAYS / 3 NIGHTS · UBUD, BALI",
+    "DURATION 4 Days / 3 Nights",
+    "4 days / 3 nights accommodation"
+  ],
+  "keyFacts": [
+    {
+      "label": "Duration",
+      "value": "4 Days / 3 Nights"
+    },
+    {
+      "label": "Practice",
+      "value": "Daily Yoga & Meditation"
+    },
+    {
+      "label": "Stay",
+      "value": "Accommodation Included"
+    },
+    {
+      "label": "Meals",
+      "value": "Vegetarian / Vegan"
+    },
+    {
+      "label": "Check-in / Check-out",
+      "value": "Check-in 12:00 PM · Check-out 12:00 PM"
+    }
+  ],
+  "hourCalculation": [],
+  "styles": [
+    "Hatha Yoga",
+    "Mindful Vinyasa"
+  ],
+  "curriculum": [
+    {
+      "title": "Asana",
+      "summary": "Daily guided yoga sessions adapt Hatha and mindful Vinyasa to the group, helping every guest move with more attention and ease.",
+      "items": [
+        "Mindful movement",
+        "Mobility and flexibility",
+        "Strength and stability",
+        "Breath–movement coordination",
+        "Body awareness and relaxation"
+      ]
+    },
+    {
+      "title": "Meditation",
+      "summary": "Morning and evening practices give meditation a central place in the retreat, with simple guidance suitable for complete beginners.",
+      "items": [
+        "Breath awareness",
+        "Mindfulness",
+        "Guided meditation",
+        "Concentration and observation",
+        "Stillness and relaxation"
+      ]
+    },
+    {
+      "title": "Sound Healing",
+      "summary": "Dedicated sound sessions encourage conscious listening and unhurried rest, followed by quiet time to notice and integrate the experience.",
+      "items": [
+        "Introduction to sound and conscious listening",
+        "Guided sound healing experience",
+        "Evening sound relaxation and stillness",
+        "Quiet time to journal, notice and absorb"
+      ]
+    }
+  ],
+  "schedule": {
+    "heading": "Choose the room that fits your stay",
+    "note": "Retreats are offered year-round, subject to room and teacher availability. Contact Bali Yoga School with your preferred arrival date before booking travel.",
+    "batches": []
+  },
+  "fees": {
+    "currency": "USD",
+    "discountLabelAsPublished": null,
+    "note": "Price transparency: These are the rates published on Bali Yoga School’s existing 4-day Ubud retreat page when this redesign was prepared. Confirm the current price, room, inclusions, add-on costs and payment terms directly with the school before paying.",
+    "options": [
+      {
+        "group": "Accommodation + meals",
+        "label": "Twin Shared Room",
+        "detail": "Campus I twin-shared accommodation",
+        "original": 437.5,
+        "offer": 350
+      },
+      {
+        "group": "Accommodation + meals",
+        "label": "Private Room · Campus I",
+        "detail": "Campus I private accommodation",
+        "original": 625,
+        "offer": 500
+      },
+      {
+        "group": "Accommodation + meals",
+        "label": "Private Room · Campus II",
+        "detail": "Campus II private accommodation",
+        "original": 500,
+        "offer": 400
+      }
+    ],
+    "extras": []
+  },
+  "addOnHealing": [
+    {
+      "label": "Balinese Massage",
+      "price": null
+    },
+    {
+      "label": "Ayurvedic Massage",
+      "price": null
+    },
+    {
+      "label": "Additional Sound Healing",
+      "price": null
+    },
+    {
+      "label": "Reiki Session",
+      "price": null
+    }
+  ],
+  "addOnNote": "Add-ons require advance confirmation and are subject to practitioner availability and additional fees.",
+  "inclusions": [
+    "4 days / 3 nights accommodation",
+    "Daily guided asana practices",
+    "Daily meditation sessions",
+    "Sound Healing experiences",
+    "Vegetarian meals and vegan options",
+    "Yoga mats and practice equipment",
+    "Retreat materials",
+    "Wi-Fi across the campus",
+    "Swimming pool access during campus hours"
+  ],
+  "exclusions": [],
+  "dailySchedule": [
+    {
+      "day": "Day 1",
+      "time": "12:00 PM",
+      "activity": "Check-in"
+    },
+    {
+      "day": "Day 1",
+      "time": "12:30 PM",
+      "activity": "Welcome lunch"
+    },
+    {
+      "day": "Day 1",
+      "time": "2:00 PM",
+      "activity": "Rest, pool time and settle in"
+    },
+    {
+      "day": "Day 1",
+      "time": "4:30 PM",
+      "activity": "Gentle grounding asana practice"
+    },
+    {
+      "day": "Day 1",
+      "time": "5:45 PM",
+      "activity": "Welcome meditation"
+    },
+    {
+      "day": "Day 1",
+      "time": "7:00 PM",
+      "activity": "Dinner"
+    },
+    {
+      "day": "Day 1",
+      "time": "Evening",
+      "activity": "Personal time"
+    },
+    {
+      "day": "Day 2",
+      "time": "7:00 AM",
+      "activity": "Morning meditation and breath awareness"
+    },
+    {
+      "day": "Day 2",
+      "time": "8:00 AM",
+      "activity": "Asana practice"
+    },
+    {
+      "day": "Day 2",
+      "time": "9:30 AM",
+      "activity": "Breakfast"
+    },
+    {
+      "day": "Day 2",
+      "time": "11:00 AM",
+      "activity": "Introduction to sound and conscious listening"
+    },
+    {
+      "day": "Day 2",
+      "time": "12:30 PM",
+      "activity": "Lunch"
+    },
+    {
+      "day": "Day 2",
+      "time": "Afternoon",
+      "activity": "Rest, pool and personal time"
+    },
+    {
+      "day": "Day 2",
+      "time": "4:30 PM",
+      "activity": "Gentle evening asana and mobility"
+    },
+    {
+      "day": "Day 2",
+      "time": "5:45 PM",
+      "activity": "Guided meditation"
+    },
+    {
+      "day": "Day 2",
+      "time": "7:00 PM",
+      "activity": "Dinner"
+    },
+    {
+      "day": "Day 3",
+      "time": "7:00 AM",
+      "activity": "Morning meditation"
+    },
+    {
+      "day": "Day 3",
+      "time": "8:00 AM",
+      "activity": "Asana flow"
+    },
+    {
+      "day": "Day 3",
+      "time": "9:30 AM",
+      "activity": "Breakfast"
+    },
+    {
+      "day": "Day 3",
+      "time": "11:00 AM",
+      "activity": "Sound healing experience"
+    },
+    {
+      "day": "Day 3",
+      "time": "12:30 PM",
+      "activity": "Lunch"
+    },
+    {
+      "day": "Day 3",
+      "time": "Afternoon",
+      "activity": "Rest, journaling and pool time"
+    },
+    {
+      "day": "Day 3",
+      "time": "4:30 PM",
+      "activity": "Restorative asana practice"
+    },
+    {
+      "day": "Day 3",
+      "time": "5:30 PM",
+      "activity": "Deep meditation"
+    },
+    {
+      "day": "Day 3",
+      "time": "6:15 PM",
+      "activity": "Evening sound relaxation"
+    },
+    {
+      "day": "Day 3",
+      "time": "7:00 PM",
+      "activity": "Dinner"
+    },
+    {
+      "day": "Day 4",
+      "time": "7:00 AM",
+      "activity": "Meditation"
+    },
+    {
+      "day": "Day 4",
+      "time": "8:00 AM",
+      "activity": "Final asana practice"
+    },
+    {
+      "day": "Day 4",
+      "time": "9:30 AM",
+      "activity": "Breakfast"
+    },
+    {
+      "day": "Day 4",
+      "time": "10:30 AM",
+      "activity": "Closing meditation and reflection"
+    },
+    {
+      "day": "Day 4",
+      "time": "11:00 AM",
+      "activity": "Personal time and packing"
+    },
+    {
+      "day": "Day 4",
+      "time": "12:00 PM",
+      "activity": "Check-out"
+    }
+  ],
+  "dining": {
+    "text": "Fresh vegetarian meals support the daily rhythm. Breakfast follows morning practice, lunch creates a natural midday pause, and dinner closes the day.",
+    "mealTimes": []
+  },
+  "arrival": [
+    "Check-in 12:00 PM · Check-out 12:00 PM",
+    "Ubud centre is approximately a 10-minute ride from the school, so you can enjoy a quieter residential setting without feeling disconnected."
+  ],
+  "prerequisites": [
+    "Complete beginners",
+    "Regular yoga practitioners",
+    "Solo travellers",
+    "Couples and friends",
+    "People curious about meditation or Sound Healing",
+    "Travellers seeking a meaningful Ubud experience",
+    "Anyone wanting a short break from a busy routine"
+  ],
+  "policies": [
+    {
+      "title": "Schedule changes",
+      "items": [
+        "This is the planned retreat rhythm. Teachers may adjust session timings, practice intensity or sequence to support the group and operational needs."
+      ]
+    },
+    {
+      "title": "Wellness disclaimer",
+      "items": [
+        "Sound sessions are offered as educational and relaxation-based wellness experiences. They do not diagnose, treat or replace professional medical or mental-health care."
+      ]
+    },
+    {
+      "title": "Dietary requirements",
+      "items": [
+        "Please share food allergies or dietary requirements before arrival so the kitchen team can confirm what can be accommodated."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is the retreat suitable for beginners?",
+      "a": null
+    },
+    {
+      "q": "What style of yoga will we practise?",
+      "a": null
+    },
+    {
+      "q": "Do I need meditation experience?",
+      "a": null
+    },
+    {
+      "q": "What happens during Sound Healing?",
+      "a": null
+    },
+    {
+      "q": "How many Sound Healing sessions are included?",
+      "a": null
+    },
+    {
+      "q": "Is accommodation included?",
+      "a": null
+    },
+    {
+      "q": "Are meals included?",
+      "a": null
+    },
+    {
+      "q": "Are vegan meals available?",
+      "a": null
+    },
+    {
+      "q": "Can solo travellers join?",
+      "a": null
+    },
+    {
+      "q": "Can couples or friends join together?",
+      "a": null
+    },
+    {
+      "q": "Can I book a private room?",
+      "a": null
+    },
+    {
+      "q": "Are massages available?",
+      "a": null
+    },
+    {
+      "q": "What should I bring?",
+      "a": null
+    },
+    {
+      "q": "What are the check-in and check-out times?",
+      "a": null
+    },
+    {
+      "q": "Can I extend my stay?",
+      "a": null
+    }
+  ],
+  "teachersNamed": [],
+  "relatedLinks": [],
+  "youtube": [],
+  "issues": [
+    "Live page contains internal redesign/draft wording addressed to the school (e.g. 'rates published on Bali Yoga School’s existing … page when this redesign was prepared', 'proposed curriculum', 'confirm … before paying') — the page appears to be an unfinished redesign; prices and inclusions need confirmation. Fee note says the page 'introduces a revised Asana + Meditation + Sound Healing curriculum'.",
+    "Prices show 'Published regular rate' vs current price (20% lower) but no discount label is published.",
+    "No massages are included (massages only as paid add-ons, prices not stated) — contradicts hub /yoga-retreats-in-bali/ (4-day: 'Daily Balinese massages', choice of sound healing or Reiki) and the hub intro 'daily Balinese massages in every retreat program'.",
+    "Number of Sound Healing sessions is not stated in inclusions ('Sound Healing experiences'); schedule shows an introduction (Day 2), a sound healing experience (Day 3, 11:00 AM) and an evening sound relaxation (Day 3, 6:15 PM).",
+    "Meta title '4-Day Yoga Retreat in Ubud, Bali | Sound Healing' differs from H1.",
+    "No teachers named; no booking/refund policy on page.",
+    "FAQ section lists questions only — answers were not present in the captured text (collapsed accordion); 'a' left null. Capture answers before publishing FAQs."
+  ]
+}

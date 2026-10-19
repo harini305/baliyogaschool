@@ -1,0 +1,237 @@
+# 5 Days Yoga Retreat In Canggu Bali - Bali Yoga School
+
+| Field | Value |
+|---|---|
+| URL | https://www.baliyogaschool.com/5-days-yoga-retreat-in-canggu-bali/ |
+| HTTP status | 200 |
+| Final URL | https://www.baliyogaschool.com/5-days-yoga-retreat-in-canggu-bali/ |
+| Page type (audit classification) | Retreat detail |
+| Meta description | Retreat packages which includes fun-filled excursions, relaxing Ayurvedic massage sessions, lively kirtan nights through a 5 days yoga retreat in Canggu Bali. |
+| Canonical | https://www.baliyogaschool.com/5-days-yoga-retreat-in-canggu-bali/ |
+| Robots meta | index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1 |
+| OG image | https://www.baliyogaschool.com/wp-content/uploads/2022/08/5-Days-Yoga-Retreat-In-Canggu-Bali.jpg |
+| Rendered height (1440px) | 11699 px |
+| Prices found | $750 USD, $600 USD, $500 USD, $400 USD, $380 USD, $300 USD |
+
+## Heading outline (visible headings)
+
+  - H2 BALI YOGA SCHOOL OFFERS
+  - H2 Weekly Yoga Retreat Schedule
+    - H3 Freedom & Flexibility
+    - H3 Important Note
+  - H2 Course Details
+    - H3 Course Length / Dates / Fees
+    - H3 5 Days Retreat Course Fees (20% OFF)
+      - H4 Refund Policy
+    - H3 What's Included
+  - H2 Accommodation
+  - H2 Bali Yoga School Dining
+    - H3 Meal Timings
+  - H2 Yogi Himanshu
+      - H4 OUR YOGA TEACHERS
+    - H3 Yogini Chiara
+    - H3 Yogini Shanti
+    - H3 Yogi Pandu
+    - H3 Yogini Chiara
+    - H3 Yogini Shanti
+    - H3 Yogi Pandu
+
+## Section order (top-level page builder rows)
+
+1. [no text – image/embed only]
+2. BALI YOGA SCHOOL OFFERS
+3. Weekly Yoga Retreat Schedule
+4. Course Details
+5. Accommodation
+6. [✨ Transformative Yoga Retreat – Bali Yoga School]
+7. Bali Yoga School Dining
+8. Yogi Himanshu
+9. [no text – image/embed only]
+
+## Full visible main-content text (header/footer excluded; captured 2026-10-19)
+
+```text
+5 Days Yoga Retreat in Canggu Bali
+
+ 
+
+Five days in paradise isn’t just a retreat—it’s a complete lifestyle immersion. At Bali Yoga School in Canggu, our 5-day program offers the perfect duration to experience true transformation while exploring the full depth of our unique, flexible approach to authentic yoga practice.
+
+Here’s what makes us different: while other retreats lock you into fixed schedules, we honor your individual journey. Choose to begin any day of our rich weekly cycle, creating your own adventure through ancient practices. You may start any day of our wonderful weekly rotation, and make up your own adventure in the old ways. You can perhaps begin on Friday with Nadi Shodhana pranayama and soft Hatha and go into the weekend dynamic sessions and sunset beach meditations, or on Tuesday with the invigorating Bhramari breath work and walking meditation in the mystery-filled Bali scenery.
+
+Five days gives time to drastic changes. You will learn a variety of breathing exercises, including the cleansing Kapalabhati and the warming Surya Bhedi pranayama. Your practice will be developed in a combination of soft restorative Hatha and hard Dynamic Hatha Vinyasa. Sample the range of meditation: focused chanting of Om mantra, wide-ranging loving-kindness practices, body scans, and high-level chakra work.
+The only difference between this time is the rhythm you will build. By day three, you’re settled. In just five days, you are a different person. You will also experience the legendary Canggu sunsets in our beach-based meditation classes, the healing energy of various sound baths, and the profound restorative effects of Yoga Nidra on the starlit skies.
+
+This is yoga as whole way of life, not mere physical exercise. Five days gives you the time to truly integrate, gain lasting insights, and practice you will bring home.Your journey toward authentic well-being begins here.
+
+.
+
+BALI YOGA SCHOOL OFFERS
+Weekly Yoga Retreat Schedule
+
+Start on any day. Join for 3–7 days and craft your own journey.
+
+Freedom & Flexibility
+
+Everyday brings new experiences. Choose your preferred start day and enjoy a harmonious blend of yin and yang yoga, pranayama, meditation, beach sunsets, and healing sound vibrations throughout the week.
+
+Monday
+7:00–8:30 am – Anulom Vilom Pranayama & Gentle Hatha Yoga
+8:45–9:45 am – Breakfast
+11:00 am–12:00 pm – Om Mantra Meditation
+1:00 pm – Lunch
+5:00–6:30 pm – Yin Yoga & Sound Bath
+7:00 pm – Dinner
+Tuesday
+7:00–8:30 am – Bhramari Pranayama & Dynamic Hatha Vinyasa
+8:45–9:45 am – Breakfast
+11:00 am–12:00 pm – Walking Meditation
+1:00 pm – Lunch
+5:00–6:30 pm – Yoga Nidra & Sound Bath
+7:00 pm – Dinner
+Wednesday
+7:00–8:30 am – Dirga Pranayama & Gentle Hatha Yoga
+8:45–9:45 am – Breakfast
+11:00 am–12:00 pm – Chakra Meditation
+1:00 pm – Lunch
+5:00–6:30 pm – Sunset Flow & Beach Meditation
+7:00 pm – Dinner
+Thursday
+7:00–8:30 am – Kapalabhati Pranayama & Dynamic Hatha Yoga
+8:45–9:45 am – Breakfast
+11:00 am–12:00 pm – Shiva Mantra Meditation
+1:00 pm – Lunch
+5:00–6:30 pm – Yin Yoga & Yoga Nidra
+7:00 pm – Dinner
+Friday
+7:00–8:30 am – Nadi Shodhana Pranayama & Gentle Hatha Yoga
+8:45–9:45 am – Breakfast
+11:00 am–12:00 pm – Breath Awareness Meditation
+1:00 pm – Lunch
+5:00–6:30 pm – Sunset Flow & Beach Meditation
+7:00 pm – Dinner
+Saturday
+7:00–8:30 am – Ujjayi Pranayama & Dynamic Hatha Yoga
+8:45–9:45 am – Breakfast
+11:00 am–12:00 pm – Loving-Kindness Meditation
+1:00 pm – Lunch
+5:00–6:30 pm – Yoga Nidra & Sound Bath
+7:00 pm – Dinner
+Sunday
+7:00–8:30 am – Surya Bhedi Pranayama & Gentle Hatha Yoga
+8:45–9:45 am – Breakfast
+11:00 am–12:00 pm – Body Scan Meditation
+1:00 pm – Lunch
+5:00–6:30 pm – Yin Yoga & Sound Bath
+7:00 pm – Dinner
+Important Note
+
+The management team reserves the right to adjust the class timings whenever required, ensuring a smooth flow of activities and the best possible experience for all retreat participants.
+
+Course Details
+Course Length / Dates / Fees
+
+Length of the Course: 5 days / 4 nights
+
+Check in: On the day 1st at 12:00 pm
+
+Check out: On the last day at 12:00 pm
+
+We offer the 5 Days Yoga Retreat in Canggu, Bali throughout the year.
+Please contact us to check availabilities of your desired dates.
+
+5 Days Retreat Course Fees (20% OFF)
+
+Private Room:
+$750 USD $600 USD (20% off)
+
+Course with Meals (No Room):
+$500 USD $400 USD (20% off)
+
+Course with No Rooms, No Meals:
+$380 USD $300 USD (20% off)
+
+Refund Policy
+
+Deposits are non-refundable, but can be transferred to other upcoming courses at Bali Yoga School in any locations. The deposit is valid for a lifetime.
+
+What's Included
+ॐ
+
+Private accommodation with a bathroom
+
+ॐ
+
+3 daily vegetarian meals
+
+ॐ
+
+Mentioned classes and sessions
+
+ॐ
+
+Free high-speed WiFi throughout the Campus
+
+ॐ
+
+Swimming pool access
+
+ॐ
+
+Course materials (1 school bag / 1 school t-shirt / 1 notebook / 1 pen)
+
+ॐ
+
+All other materials for activities (available at the school to use in the classes only)
+
+Accommodation
+
+All our accommodations are private rooms with A/C to make sure you get proper recovery and privacy to reflect your practice and fully renew yourself each day for your effective yoga retreat experience. In your free-time, unwind by the swimming pool under the shining sun, or devote yourself into journaling in your peaceful private room, or exchange life stories and intakes from the day with peers. Our management team is dedicated to maintaining the highest standards of cleanliness and comfort during your stay.
+
+View More
+❮
+❯
+
+✨ Transformative Yoga Retreat – Bali Yoga School
+
+Bali Yoga School Dining
+
+We Bali Yoga School believe that food is a sacred expression of care and one of the ways to enhance our spirit. We serve is plant-based meals, prepared with the highest standards of hygiene, cleanliness, and love to support your yoga journey. One of the primary practices in yoga is ahimsa, meaning non-violence. By following a plant-based diet during your training, you are in the practice of ahimsa. Yoga is a way of living, and we bring that teaching in the meals as well. Our every dish reflects our commitment to provide the best yoga training experience, reflecting purity and mindful living. Our dedicated team prepares food with intention, mindfulness, and a deep sense of respect for the process. The energy behind the food matters just as much as the food itself and affect our physical, mental, spiritual health. It’s more than just food. It’s nourishment for your entire being. At Bali Yoga School, cleanliness is a reflection of inner purity. A pure plate leads to a peaceful heart. And every mindful bite is a step toward harmony.
+
+Meal Timings
+Breakfast
+08:45 – 09:45
+Lunch
+13:00 – 14:00
+Dinner
+19:00 – 20:00
+
+* Lunch & Dinner are not served on Sundays.
+
+Founder of Bali Yoga School
+
+Yogi Himanshu
+
+Everything you experience at Bali Yoga School community has come from our great leader, Yogi Himanshu Joshi. He is the most honest, hard-working, authentic person we can ever meet. His yoga journey started from a severe injury after playing sports for a long time at the state / national level. Yoga brought him up into the light from the darkness.
+
+He contributed to the success of other yoga schools in Rishikesh, and then built his own — Himalayan Yoga Association and Bali Yoga School. He continues to expand the community, uplifting lives for the better. Feel his essence in every detail of the school and learning.
+
+More About Us
+OUR YOGA TEACHERS
+Yogini Chiara
+
+Hatha Vinyasa / Ashtanga / Sound & Reiki Healing — Chiara began practicing yoga in Italy. Her vibrant teaching blends Vinyasa, Yin, and sound healing, inspiring holistic well-being in every session.
+
+Yogini Shanti
+
+Yoga Philosophy / Meditation — Born and raised in a Balinese yogic family, she studied Hatha Yoga, Meditation, and the Bhagavad Gita. A graduate of S-VYASA University, she teaches pranayama, meditation, and yogic wisdom with grace.
+
+Yogi Pandu
+
+Shat-Karma & Pranayama / Meditation / Philosophy — A Vedic scholar trained at Banaras Hindu University. He brings deep spiritual insight from years in ashrams in India and Vrindavan.
+
+Yogini Chiara
+Yogini Shanti
+Yogi Pandu
+View All Teachers
+```

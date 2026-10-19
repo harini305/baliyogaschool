@@ -1,0 +1,355 @@
+{
+  "slug": "6-days-yoga-retreat-in-uluwatu-bali",
+  "path": "/6-days-yoga-retreat-in-uluwatu-bali/",
+  "sourceFile": "content/pages/6-days-yoga-retreat-in-uluwatu-bali.md",
+  "kind": "retreat",
+  "location": "uluwatu",
+  "title": "6 Days & 5 Nights Yoga Retreat in Uluwatu Bali",
+  "displayTitle": "6-Day Yoga Retreat",
+  "hours": null,
+  "days": 6,
+  "nights": 5,
+  "level": null,
+  "metaTitle": "6 Days Yoga Retreat in Uluwatu Bali",
+  "metaDescription": "Experience the ultimate 6-Day Yoga Retreat in Ubud, Bali at Bali Yoga School. Enjoy daily yoga, sound & reiki healing, Balinese massages, and relaxing moments by our twin pools surrounded by lush greenery. Explore nearby waterfalls, forests, and Ubud’s natural charm for true rejuvenation.",
+  "summary": "A 6 days & 5 nights yoga retreat in Uluwatu with daily pranayama & meditation, Hatha Vinyasa yoga, healing sessions and 5 complimentary Balinese massages.",
+  "intro": [
+    "This yoga retreat is much more than just daily yoga practices, but includes daily healing sessions (sound healing and reiki healing) and daily Balinese massage treatments.",
+    "Our retreat teachers are all very experienced to deliver yoga to people from beginners to advanced, according to each individual."
+  ],
+  "duration": "6 days & 5 nights",
+  "durationStatements": [
+    "6 DAYS & 5 NIGHTS YOGA RETREAT IN ULUWATU BALI",
+    "Retreat Duration – 6 Days & 5 Nights",
+    "Retreat Duration: 6 Days & 5 Nights"
+  ],
+  "keyFacts": [
+    {
+      "label": "Duration",
+      "value": "6 days & 5 nights"
+    },
+    {
+      "label": "Accommodation type",
+      "value": "Private Accommodation"
+    },
+    {
+      "label": "Check-in",
+      "value": "12:00 pm"
+    },
+    {
+      "label": "Check-out",
+      "value": "12:00 pm"
+    },
+    {
+      "label": "Balinese massages",
+      "value": "5"
+    },
+    {
+      "label": "Healing & special sessions",
+      "value": "2× Sound Healing Session, 2× Reiki Healing Session"
+    }
+  ],
+  "hourCalculation": [],
+  "styles": [
+    "Hatha Vinyasa"
+  ],
+  "curriculum": [],
+  "schedule": {
+    "heading": "Retreat Fees & Dates",
+    "note": "We offer 6 Days & 5 Nights Yoga Retreat throughout the year of 2024 & 2025. Please email us to check the availability.",
+    "batches": []
+  },
+  "fees": {
+    "currency": "USD",
+    "discountLabelAsPublished": "20% OFF",
+    "note": null,
+    "options": [
+      {
+        "group": "Accommodation + meals",
+        "label": "Private Room",
+        "detail": null,
+        "original": 875,
+        "offer": 700
+      },
+      {
+        "group": "Course + meals (no room)",
+        "label": "Course with Meals (No Room)",
+        "detail": null,
+        "original": 680,
+        "offer": 540
+      },
+      {
+        "group": "Course only",
+        "label": "Course with No Rooms, No Meals",
+        "detail": null,
+        "original": 440,
+        "offer": 350
+      }
+    ],
+    "extras": [
+      {
+        "label": "Advance booking deposit",
+        "price": "150 USD",
+        "detail": "In order to book for retreat kindly deposit the Advance booking amount of 150 USD, Balance should be paid on arrival either by card, cash or Online transfer"
+      },
+      {
+        "label": "Airport pick-up (Denpasar)",
+        "price": null,
+        "detail": "Pick-up service is with a little extra cost"
+      }
+    ]
+  },
+  "addOnHealing": [],
+  "addOnNote": null,
+  "inclusions": [
+    "Retreat Duration: 6 Days & 5 Nights",
+    "Accommodation Type: Private Accommodation",
+    "Nutritious and delicious vegan / vegetarian meals",
+    "Mentioned classes and sessions",
+    "Complimentary high-speed Wi-Fi in the campus",
+    "Swimming pool access (on site)",
+    "Gym access (on site)",
+    "All necessary items for the classes are available in the yogashala",
+    "5 complimentary Balinese massages",
+    "Course materials (BYS bag / BYS t-shirt / notebook / pen / mala)"
+  ],
+  "exclusions": [],
+  "dailySchedule": [
+    {
+      "day": "Day 1",
+      "time": "12:00 pm",
+      "activity": "Check in"
+    },
+    {
+      "day": "Day 1",
+      "time": "12:30 pm",
+      "activity": "Lunch"
+    },
+    {
+      "day": "Day 1",
+      "time": "4:00 pm to 5:00 pm",
+      "activity": "Balinese Massage Treatment"
+    },
+    {
+      "day": "Day 1",
+      "time": "7:00 pm",
+      "activity": "Dinner"
+    },
+    {
+      "day": "Day 2",
+      "time": "7:00 to 8:00 am",
+      "activity": "Pranayama & Meditation"
+    },
+    {
+      "day": "Day 2",
+      "time": "8:00 to 9:00 am",
+      "activity": "Hatha Vinyasa Yoga"
+    },
+    {
+      "day": "Day 2",
+      "time": "9:30 am",
+      "activity": "Breakfast"
+    },
+    {
+      "day": "Day 2",
+      "time": "11:00 am to 12:00 pm",
+      "activity": "Sound Healing Session"
+    },
+    {
+      "day": "Day 2",
+      "time": "12:30 pm",
+      "activity": "Lunch"
+    },
+    {
+      "day": "Day 2",
+      "time": "4:00 pm to 5:00 pm",
+      "activity": "Balinese Massage Treatment"
+    },
+    {
+      "day": "Day 2",
+      "time": "7:00 pm",
+      "activity": "Dinner"
+    },
+    {
+      "day": "Day 3",
+      "time": "7:00 to 8:00 am",
+      "activity": "Pranayama & Meditation"
+    },
+    {
+      "day": "Day 3",
+      "time": "8:00 to 9:00 am",
+      "activity": "Hatha Vinyasa Yoga"
+    },
+    {
+      "day": "Day 3",
+      "time": "9:30 am",
+      "activity": "Breakfast"
+    },
+    {
+      "day": "Day 3",
+      "time": "11:00 am to 12:00 pm",
+      "activity": "Reiki Healing Session"
+    },
+    {
+      "day": "Day 3",
+      "time": "12:30 pm",
+      "activity": "Lunch"
+    },
+    {
+      "day": "Day 3",
+      "time": "4:00 pm to 5:00 pm",
+      "activity": "Balinese Massage Treatment"
+    },
+    {
+      "day": "Day 3",
+      "time": "7:00 pm",
+      "activity": "Dinner"
+    },
+    {
+      "day": "Day 4",
+      "time": "7:00 to 8:00 am",
+      "activity": "Pranayama & Meditation"
+    },
+    {
+      "day": "Day 4",
+      "time": "8:00 to 9:00 am",
+      "activity": "Hatha Vinyasa Yoga"
+    },
+    {
+      "day": "Day 4",
+      "time": "9:30 am",
+      "activity": "Breakfast"
+    },
+    {
+      "day": "Day 4",
+      "time": "11:00 am to 12:00 pm",
+      "activity": "Sound Healing Session"
+    },
+    {
+      "day": "Day 4",
+      "time": "12:30 pm",
+      "activity": "Lunch"
+    },
+    {
+      "day": "Day 4",
+      "time": "4:00 pm to 5:00 pm",
+      "activity": "Balinese Massage Treatment"
+    },
+    {
+      "day": "Day 4",
+      "time": "7:00 pm",
+      "activity": "Dinner"
+    },
+    {
+      "day": "Day 5",
+      "time": "7:00 to 8:00 am",
+      "activity": "Pranayama & Meditation"
+    },
+    {
+      "day": "Day 5",
+      "time": "8:00 to 9:00 am",
+      "activity": "Hatha Vinyasa Yoga"
+    },
+    {
+      "day": "Day 5",
+      "time": "9:30 am",
+      "activity": "Breakfast"
+    },
+    {
+      "day": "Day 5",
+      "time": "11:00 am to 12:00 pm",
+      "activity": "Reiki Healing Session"
+    },
+    {
+      "day": "Day 5",
+      "time": "12:30 pm",
+      "activity": "Lunch"
+    },
+    {
+      "day": "Day 5",
+      "time": "4:00 pm to 5:00 pm",
+      "activity": "Balinese Massage Treatment"
+    },
+    {
+      "day": "Day 5",
+      "time": "7:00 pm",
+      "activity": "Dinner"
+    },
+    {
+      "day": "Day 6",
+      "time": "7:00 to 8:00 am",
+      "activity": "Pranayama & Meditation"
+    },
+    {
+      "day": "Day 6",
+      "time": "8:00 to 9:00 am",
+      "activity": "Hatha Vinyasa Yoga"
+    },
+    {
+      "day": "Day 6",
+      "time": "9:30 am",
+      "activity": "Breakfast"
+    },
+    {
+      "day": "Day 6",
+      "time": "12:00 pm",
+      "activity": "Check out"
+    }
+  ],
+  "dining": {
+    "text": "We serve plant-based meals, prepared with the highest standards of hygiene, cleanliness, and love to support your yoga journey. Lunch & Dinner are not served on Sundays.",
+    "mealTimes": [
+      "Breakfast: 09:30 – 10:30",
+      "Lunch: 13:00 – 14:00",
+      "Dinner: 19:00 – 20:00"
+    ]
+  },
+  "arrival": [
+    "Check-in – 12:00 pm",
+    "Check-out – 12:00 pm",
+    "The best and most convenient way to travel to Bali Yoga School is to take a flight to Denpasar Bali airport. Denpasar Bali airport is merely 38 km away from our school. As soon as you book your flight, forward us your flight details and we will send our driver to meet you from Denpasar Bali airport and drive to the school. (Pick-up service is with a little extra cost)"
+  ],
+  "prerequisites": [
+    "Our retreat teachers are all very experienced to deliver yoga to people from beginners to advanced, according to each individual."
+  ],
+  "policies": [
+    {
+      "title": "Class timings",
+      "items": [
+        "The Management team holds the right to change the timings of the classes if it is needed."
+      ]
+    },
+    {
+      "title": "Booking Process",
+      "items": [
+        "In order to book for retreat kindly deposit the Advance booking amount of 150 USD. Balance should be paid on arrival either by card, cash or Online transfer. An official confirmation letter concerning your program will be sent to you shortly after successful advance booking fee."
+      ]
+    }
+  ],
+  "faqs": [],
+  "teachersNamed": [
+    "Yogi Himanshu",
+    "Yogini Chiara",
+    "Yogini Shanti",
+    "Yogi Pandu"
+  ],
+  "relatedLinks": [],
+  "youtube": [],
+  "issues": [
+    "Meta description describes a retreat 'in Ubud, Bali' on the Uluwatu page.",
+    "Intro copy is Ubud-specific ('we are located very close to the Ubud city center', rice terraces, Monkey Forest, '2 swimming pools') on an Uluwatu page — removed from intro.",
+    "Terms & Conditions block shows 'Booking Process' twice and has no Refund Policy (other Uluwatu pages have one).",
+    "Intro/meta contain unverified marketing claims (e.g. 'best', 'one of the island’s most respected/trusted/leading yoga centers', 'We guarantee…') — not used.",
+    "Retreat dates statement refers to 2024 & 2025 — outdated relative to the 2026 capture.",
+    "Accommodation text says 'renew yourself each day during your yoga teacher training' — copied from a YTT page.",
+    "Meal timings list lunch 13:00 – 14:00 but the daily schedule shows lunch at 12:30 pm.",
+    "Meal note says 'Lunch & Dinner are not served on Sundays' while the retreat runs year-round with lunch and dinner every schedule day — verify.",
+    "Airport paragraph ('Denpasar Bali airport is merely 38 km away from our school') is identical to the Ubud pages — distance unverified for Uluwatu.",
+    "Inclusion '5 complimentary Balinese massages' matches the 5 massage slots in the schedule (Days 1–5).",
+    "Price for 'Course with Meals (No Room)' is labelled '20% OFF' but 680 → 540 is not exactly 20% off (20% off would be 544; actual 20.6% off).",
+    "Price for 'Course with No Rooms, No Meals' is labelled '20% OFF' but 440 → 350 is not exactly 20% off (20% off would be 352; actual 20.5% off).",
+    "Teacher names (Yogini Chiara, Yogini Shanti, Yogi Pandu) are listed twice in the teachers block (duplicate carousel).",
+    "Founder section (Yogi Himanshu) contains unverifiable superlatives ('the most honest, hard-working, authentic person we can ever meet') — not extracted.",
+    "Page ends with a 'Yoga Retreats in Rishikesh, India – Learn More' cross-sell block (skipped; link target not captured)."
+  ]
+}

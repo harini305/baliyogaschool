@@ -1,0 +1,503 @@
+{
+  "slug": "11-days-yoga-retreat-in-bali",
+  "path": "/11-days-yoga-retreat-in-bali/",
+  "sourceFile": "content/pages/11-days-yoga-retreat-in-bali.md",
+  "kind": "retreat",
+  "location": "ubud",
+  "title": "11 Days & 10 Nights Yoga Retreat in Ubud Bali",
+  "displayTitle": "11-Day Yoga Retreat",
+  "hours": null,
+  "days": 11,
+  "nights": 10,
+  "level": null,
+  "metaTitle": "11 Days Yoga Retreat in Bali",
+  "metaDescription": "11 Days Yoga Retreat In Bali / Daily yoga, sound healing, reiki healing, Balinese massages, Ayurveda counselling, so much more.",
+  "summary": "An 11 days & 10 nights yoga retreat in Ubud with daily yoga, sound and Reiki healing, Ayurveda consultation, Aura Cleansing, Shiva Mantra Meditation and Balinese massages.",
+  "intro": [
+    "Daily yoga, sound healing, reiki healing, Balinese massages, Ayurveda counselling, so much more.",
+    "Our yoga retreat Center is located in heart of Bali (Ubud) that has the calm environment that includes private rooms, outdoor swimming pool and an open garden area. Yoga instructors at Bali Yoga School teach authentic and personalised yoga lessons along with detox and de-stress therapies irrespective of your age and experience. The yoga retreat enables you to integrate the benefits of yoga with meditation, asanas, pranayama, yogic kriyas, deep relaxation etc into your daily life.",
+    "Our teachers possess the ancient knowledge and modern yoga teaching methods to offer classes for beginner, intermediate and advanced levels for yoga. We offer daily detoxification / pranayama class, meditation class, and a Hatha vinyasa flow class."
+  ],
+  "duration": "11 days & 10 nights",
+  "durationStatements": [
+    "11 DAYS & 10 NIGHTS YOGA RETREAT IN UBUD BALI",
+    "Retreat Duration – 11 Days & 10 Nights"
+  ],
+  "keyFacts": [
+    {
+      "label": "Duration",
+      "value": "11 days & 10 nights"
+    },
+    {
+      "label": "Check-in",
+      "value": "Day 1 after 12:00 pm"
+    },
+    {
+      "label": "Check-out",
+      "value": "Last day before 12:00 pm"
+    },
+    {
+      "label": "Balinese massages",
+      "value": "10"
+    },
+    {
+      "label": "Healing & special sessions",
+      "value": "Sound Healing Session × 3; Reiki Healing Session × 3; Ayurveda Consultation on Lifestyle × 1; Aura Cleansing through Chantings & Hawan Ceremony × 1; Shiva Mantra Meditation × 1"
+    }
+  ],
+  "hourCalculation": [],
+  "styles": [
+    "Hatha Vinyasa"
+  ],
+  "curriculum": [],
+  "schedule": {
+    "heading": "11 Days Retreat in Bali | Fee & Dates",
+    "note": "We offer yoga retreats year-round. Please contact us to check the availability of your desired dates.",
+    "batches": []
+  },
+  "fees": {
+    "currency": "USD",
+    "discountLabelAsPublished": "20% off",
+    "note": null,
+    "options": [
+      {
+        "group": "Accommodation + meals",
+        "label": "Private Room in Campus-I",
+        "detail": null,
+        "original": 1550,
+        "offer": 1240
+      },
+      {
+        "group": "Accommodation + meals",
+        "label": "Twin Shared Room in Campus-I",
+        "detail": null,
+        "original": 1362,
+        "offer": 1190
+      },
+      {
+        "group": "Accommodation + meals",
+        "label": "Private Room in Campus-II [New Campus]",
+        "detail": null,
+        "original": 1425,
+        "offer": 1140
+      }
+    ],
+    "extras": []
+  },
+  "addOnHealing": [],
+  "addOnNote": null,
+  "inclusions": [
+    "Chosen Accommodation",
+    "3 Times a Day Nutritious and Delicious vegan/Vegetarian Meals.",
+    "Mentioned Yoga Classes.",
+    "10:00 Am to 8:00 Pm Swimming pool Access.",
+    "Complimentary High-Speed Wi-Fi Anywhere in the Campus",
+    "All the necessary items for the classes are available in the yoga shala",
+    "10 Full-Body Complimentary Balinese Massages.",
+    "Course Materials (BYS bag / BYS t-shirt / Notebook / Pen / Mala)"
+  ],
+  "exclusions": [],
+  "dailySchedule": [
+    {
+      "day": "Day 1",
+      "time": "12:00 pm",
+      "activity": "Check in"
+    },
+    {
+      "day": "Day 1",
+      "time": "12:30 pm",
+      "activity": "Lunch"
+    },
+    {
+      "day": "Day 1",
+      "time": "4:00 pm to 5:00 pm",
+      "activity": "Balinese Massage Treatment"
+    },
+    {
+      "day": "Day 1",
+      "time": "7:00 pm",
+      "activity": "Dinner"
+    },
+    {
+      "day": "Day 2",
+      "time": "7:00 to 8:00 am",
+      "activity": "Pranayama & Meditation"
+    },
+    {
+      "day": "Day 2",
+      "time": "8:00 to 9:00 am",
+      "activity": "Hatha Vinyasa Yoga"
+    },
+    {
+      "day": "Day 2",
+      "time": "9:30 am",
+      "activity": "Breakfast"
+    },
+    {
+      "day": "Day 2",
+      "time": "11:00 am to 12:00 pm",
+      "activity": "Sound Healing Session"
+    },
+    {
+      "day": "Day 2",
+      "time": "12:30 pm",
+      "activity": "Lunch"
+    },
+    {
+      "day": "Day 2",
+      "time": "4:00 pm to 5:00 pm",
+      "activity": "Balinese Massage Treatment"
+    },
+    {
+      "day": "Day 2",
+      "time": "7:00 pm",
+      "activity": "Dinner"
+    },
+    {
+      "day": "Day 3",
+      "time": "7:00 to 8:00 am",
+      "activity": "Pranayama & Meditation"
+    },
+    {
+      "day": "Day 3",
+      "time": "8:00 to 9:00 am",
+      "activity": "Hatha Vinyasa Yoga"
+    },
+    {
+      "day": "Day 3",
+      "time": "9:30 am",
+      "activity": "Breakfast"
+    },
+    {
+      "day": "Day 3",
+      "time": "11:00 am to 12:00 pm",
+      "activity": "Reiki Healing Session"
+    },
+    {
+      "day": "Day 3",
+      "time": "12:30 pm",
+      "activity": "Lunch"
+    },
+    {
+      "day": "Day 3",
+      "time": "4:00 pm to 5:00 pm",
+      "activity": "Balinese Massage Treatment"
+    },
+    {
+      "day": "Day 3",
+      "time": "7:00 pm",
+      "activity": "Dinner"
+    },
+    {
+      "day": "Day 4",
+      "time": "7:00 to 8:00 am",
+      "activity": "Pranayama & Meditation"
+    },
+    {
+      "day": "Day 4",
+      "time": "8:00 to 9:00 am",
+      "activity": "Hatha Vinyasa Yoga"
+    },
+    {
+      "day": "Day 4",
+      "time": "9:30 am",
+      "activity": "Breakfast"
+    },
+    {
+      "day": "Day 4",
+      "time": "11:00 am to 12:00 pm",
+      "activity": "Sound Healing Session"
+    },
+    {
+      "day": "Day 4",
+      "time": "12:30 pm",
+      "activity": "Lunch"
+    },
+    {
+      "day": "Day 4",
+      "time": "4:00 pm to 5:00 pm",
+      "activity": "Balinese Massage Treatment"
+    },
+    {
+      "day": "Day 4",
+      "time": "7:00 pm",
+      "activity": "Dinner"
+    },
+    {
+      "day": "Day 5",
+      "time": "7:00 to 8:00 am",
+      "activity": "Pranayama & Meditation"
+    },
+    {
+      "day": "Day 5",
+      "time": "8:00 to 9:00 am",
+      "activity": "Hatha Vinyasa Yoga"
+    },
+    {
+      "day": "Day 5",
+      "time": "9:30 am",
+      "activity": "Breakfast"
+    },
+    {
+      "day": "Day 5",
+      "time": "11:00 am to 12:00 pm",
+      "activity": "Reiki Healing Session"
+    },
+    {
+      "day": "Day 5",
+      "time": "12:30 pm",
+      "activity": "Lunch"
+    },
+    {
+      "day": "Day 5",
+      "time": "4:00 pm to 5:00 pm",
+      "activity": "Balinese Massage Treatment"
+    },
+    {
+      "day": "Day 5",
+      "time": "7:00 pm",
+      "activity": "Dinner"
+    },
+    {
+      "day": "Day 6",
+      "time": "7:00 to 8:00 am",
+      "activity": "Pranayama & Meditation"
+    },
+    {
+      "day": "Day 6",
+      "time": "8:00 to 9:00 am",
+      "activity": "Hatha Vinyasa Yoga"
+    },
+    {
+      "day": "Day 6",
+      "time": "9:30 am",
+      "activity": "Breakfast"
+    },
+    {
+      "day": "Day 6",
+      "time": "11:00 am to 12:00 pm",
+      "activity": "Sound Healing Session"
+    },
+    {
+      "day": "Day 6",
+      "time": "12:30 pm",
+      "activity": "Lunch"
+    },
+    {
+      "day": "Day 6",
+      "time": "4:00 pm to 5:00 pm",
+      "activity": "Balinese Massage Treatment"
+    },
+    {
+      "day": "Day 6",
+      "time": "7:00 pm",
+      "activity": "Dinner"
+    },
+    {
+      "day": "Day 7",
+      "time": "7:00 to 8:00 am",
+      "activity": "Pranayama & Meditation"
+    },
+    {
+      "day": "Day 7",
+      "time": "8:00 to 9:00 am",
+      "activity": "Hatha Vinyasa Yoga"
+    },
+    {
+      "day": "Day 7",
+      "time": "9:30 am",
+      "activity": "Breakfast"
+    },
+    {
+      "day": "Day 7",
+      "time": "11:00 am to 12:00 pm",
+      "activity": "Reiki Healing Session"
+    },
+    {
+      "day": "Day 7",
+      "time": "12:30 pm",
+      "activity": "Lunch"
+    },
+    {
+      "day": "Day 7",
+      "time": "4:00 pm to 5:00 pm",
+      "activity": "Balinese Massage Treatment"
+    },
+    {
+      "day": "Day 7",
+      "time": "7:00 pm",
+      "activity": "Dinner"
+    },
+    {
+      "day": "Day 8",
+      "time": "7:00 to 8:00 am",
+      "activity": "Pranayama & Meditation"
+    },
+    {
+      "day": "Day 8",
+      "time": "8:00 to 9:00 am",
+      "activity": "Hatha Vinyasa Yoga"
+    },
+    {
+      "day": "Day 8",
+      "time": "9:30 am",
+      "activity": "Breakfast"
+    },
+    {
+      "day": "Day 8",
+      "time": "11:00 am to 12:00 pm",
+      "activity": "Ayurveda Consultation on Lifestyle"
+    },
+    {
+      "day": "Day 8",
+      "time": "12:30 pm",
+      "activity": "Lunch"
+    },
+    {
+      "day": "Day 8",
+      "time": "4:00 pm to 5:00 pm",
+      "activity": "Balinese Massage Treatment"
+    },
+    {
+      "day": "Day 8",
+      "time": "7:00 pm",
+      "activity": "Dinner"
+    },
+    {
+      "day": "Day 9",
+      "time": "7:00 to 8:00 am",
+      "activity": "Pranayama & Meditation"
+    },
+    {
+      "day": "Day 9",
+      "time": "8:00 to 9:00 am",
+      "activity": "Hatha Vinyasa Yoga"
+    },
+    {
+      "day": "Day 9",
+      "time": "9:30 am",
+      "activity": "Breakfast"
+    },
+    {
+      "day": "Day 9",
+      "time": "11:00 am to 12:00 pm",
+      "activity": "Aura Cleansing through Chantings & Hawan Ceremony"
+    },
+    {
+      "day": "Day 9",
+      "time": "12:30 pm",
+      "activity": "Lunch"
+    },
+    {
+      "day": "Day 9",
+      "time": "4:00 pm to 5:00 pm",
+      "activity": "Balinese Massage Treatment"
+    },
+    {
+      "day": "Day 9",
+      "time": "7:00 pm",
+      "activity": "Dinner"
+    },
+    {
+      "day": "Day 10",
+      "time": "7:00 to 8:00 am",
+      "activity": "Pranayama & Meditation"
+    },
+    {
+      "day": "Day 10",
+      "time": "8:00 to 9:00 am",
+      "activity": "Hatha Vinyasa Yoga"
+    },
+    {
+      "day": "Day 10",
+      "time": "9:30 am",
+      "activity": "Breakfast"
+    },
+    {
+      "day": "Day 10",
+      "time": "11:00 am to 12:00 pm",
+      "activity": "Shiva Mantra Meditation"
+    },
+    {
+      "day": "Day 10",
+      "time": "12:30 pm",
+      "activity": "Lunch"
+    },
+    {
+      "day": "Day 10",
+      "time": "4:00 pm to 5:00 pm",
+      "activity": "Balinese Massage Treatment"
+    },
+    {
+      "day": "Day 10",
+      "time": "7:00 pm",
+      "activity": "Dinner"
+    },
+    {
+      "day": "Day 11",
+      "time": "7:00 to 8:00 am",
+      "activity": "Pranayama & Meditation"
+    },
+    {
+      "day": "Day 11",
+      "time": "8:00 to 9:00 am",
+      "activity": "Hatha Vinyasa Yoga"
+    },
+    {
+      "day": "Day 11",
+      "time": "9:30 am",
+      "activity": "Breakfast"
+    },
+    {
+      "day": "Day 11",
+      "time": "12:00 pm",
+      "activity": "Check out"
+    }
+  ],
+  "dining": {
+    "text": "We serve plant-based meals, prepared with the highest standards of hygiene, cleanliness, and love to support your yoga journey. Lunch & Dinner are not served on Sundays.",
+    "mealTimes": [
+      "Breakfast: 08:30 – 09:30",
+      "Lunch: 12:30 – 01:30",
+      "Dinner: 19:30 – 20:30"
+    ]
+  },
+  "arrival": [
+    "Check-in – 12pm / Check-out – 12pm",
+    "Check In – On the Day 1st after 12:00 pm",
+    "Check Out – On the last day before 12:00 pm",
+    "The best and most convenient way to travel to Bali Yoga School is to take a flight to Denpasar Bali airport. Denpasar Bali airport is merely 38 km away from our school. As soon as you book your flight, forward us your flight details and we will send our driver to meet you from Denpasar Bali airport and drive to the school."
+  ],
+  "prerequisites": [
+    "Classes offered for beginner, intermediate and advanced levels."
+  ],
+  "policies": [
+    {
+      "title": "Class timings",
+      "items": [
+        "The Management team holds the right to change the timings of the classes if it is needed."
+      ]
+    }
+  ],
+  "faqs": [],
+  "teachersNamed": [
+    "Yogi Himanshu",
+    "Yogini Chiara",
+    "Yogini Shanti",
+    "Yogi Pandu"
+  ],
+  "relatedLinks": [],
+  "youtube": [],
+  "issues": [
+    "Intro paragraph 1 repeats the 9-day page copy ('self-improvement workshops', typo 'enjoy your holding') — dropped except the first descriptive sentence.",
+    "Inclusion '10 Full-Body Complimentary Balinese Massages' matches the 10 massage slots in the schedule (Days 1–10).",
+    "Price for 'Twin Shared Room in Campus-I' is labelled '20% off' but 1362 → 1190 is not exactly 20% off (20% off would be 1089.6; actual 12.6% off).",
+    "Meal timings list dinner 19:30 – 20:30 but the daily schedule shows dinner at 7:00 pm.",
+    "Meal note says 'Lunch & Dinner are not served on Sundays' while the retreat runs year-round with lunch and dinner on every schedule day and '3 meals a day' in inclusions — verify Sunday meals.",
+    "No retreat-specific policies (booking deposit / refund) on this Ubud page, unlike the Uluwatu pages.",
+    "Hub /yoga-retreats-in-bali/ says 'vegan meals'; this page says 'vegan/vegetarian'.",
+    "Founder section (Yogi Himanshu) contains unverifiable superlatives ('the most honest, hard-working, authentic person we can ever meet') — not extracted.",
+    "Page ends with a 'Yoga Retreats in Rishikesh, India – Learn More' cross-sell block (skipped; link target not captured).",
+    "Heading typo on page: 'Shedule' (fixed to 'Schedule')."
+  ]
+}

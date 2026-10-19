@@ -1,0 +1,133 @@
+{
+  "slug": "15-days-online-ashtanga-vinyasa-course",
+  "path": "/courses/15-days-online-ashtanga-vinyasa-course/",
+  "sourceFile": "content/pages/courses__15-days-online-ashtanga-vinyasa-course.md",
+  "kind": "online",
+  "location": "online",
+  "title": "15 Days Online Ashtanga Vinyasa Course",
+  "displayTitle": "15-Day Online Ashtanga Vinyasa Course",
+  "hours": null,
+  "level": null,
+  "metaTitle": "15 Days Online Ashtanga Vinyasa Course",
+  "metaDescription": "Bali yoga school are offering Online Yoga Teacher Training course for 15 Days Online Ashtanga Vinyasa Course based yoga teacher training.",
+  "summary": "This 15 day online yoga course mixes prerecorded videos and live Zoom classes (1.5 hours daily) with teachers from Rishikesh, India.",
+  "intro": [
+    "This 15 day online yoga course mixes prerecorded videos and live Zoom classes (1.5 hours daily) with teachers from Rishikesh, India. You'll learn Ashtanga Vinyasa Yoga—a strong, set order of poses that's great for everyone (beginners too!).",
+    "You'll also practice teaching others (like friends) during live classes. If you're stuck or have questions, ask the teachers directly in the Zoom sessions. Everything is online, so you can join from home!"
+  ],
+  "duration": "15 days",
+  "durationStatements": [
+    "15 Days Duration",
+    "This 15 day online yoga course mixes prerecorded videos and live Zoom classes (1.5 hours daily)",
+    "Daily (15 days) online 1 hour live zoom pranayama classes"
+  ],
+  "keyFacts": [
+    {
+      "label": "Format",
+      "value": "Pre-recorded videos + daily live Zoom classes"
+    },
+    {
+      "label": "Certification",
+      "value": "Himalayan Yoga Association certified certification"
+    },
+    {
+      "label": "Video access",
+      "value": "One month access to all pre-recorded sessions"
+    }
+  ],
+  "hourCalculation": [],
+  "styles": [],
+  "curriculum": [
+    {
+      "title": "Course Outline",
+      "summary": null,
+      "items": [
+        "Sun salutation A",
+        "Sun salutation B",
+        "Standing sequence postures",
+        "Seated sequence postures",
+        "Finishing sequence postures",
+        "Mysore style/ Use of yoga props/ Teaching practice"
+      ]
+    }
+  ],
+  "schedule": {
+    "heading": null,
+    "note": null,
+    "batches": []
+  },
+  "fees": {
+    "currency": "USD",
+    "discountLabelAsPublished": null,
+    "note": null,
+    "options": [
+      {
+        "group": "Online course",
+        "label": "15-Day Online Ashtanga Vinyasa Course",
+        "detail": "$500",
+        "original": 500,
+        "offer": null
+      }
+    ],
+    "extras": [
+      {
+        "label": "Other courses",
+        "price": null,
+        "detail": "You will be eligible for a 10% discount on our all online and offline courses."
+      }
+    ]
+  },
+  "addOnHealing": [],
+  "addOnNote": null,
+  "inclusions": [
+    "Access to our pre-recorded Ashtanga vinyasa yoga session videos, recorded in Rishikesh India by great teachers.",
+    "Himalayan Yoga Association certified certification.",
+    "One month access to the all pre-recorded Ashtanga vinyasa yoga sessions.",
+    "Digital course manual PDF",
+    "Daily (15 days) online 1 hour live zoom pranayama classes"
+  ],
+  "exclusions": [],
+  "dailySchedule": [],
+  "dining": {
+    "text": null,
+    "mealTimes": []
+  },
+  "arrival": [],
+  "prerequisites": [],
+  "policies": [],
+  "faqs": [],
+  "teachersNamed": [
+    "Yogi Himanshu",
+    "Yogi Deepak",
+    "Yogi Pramod",
+    "Yogini Stuti"
+  ],
+  "relatedLinks": [],
+  "youtube": [
+    "https://www.youtube.com/watch?v=K7CncXsq4Y0"
+  ],
+  "online": {
+    "platform": "Zoom (live classes)",
+    "liveClasses": [
+      "This 15 day online yoga course mixes prerecorded videos and live Zoom classes (1.5 hours daily)",
+      "Daily (15 days) online 1 hour live zoom pranayama classes"
+    ],
+    "recordings": [
+      "Access to our pre-recorded Ashtanga vinyasa yoga session videos, recorded in Rishikesh India by great teachers."
+    ],
+    "access": [
+      "One month access to the all pre-recorded Ashtanga vinyasa yoga sessions."
+    ],
+    "support": []
+  },
+  "issues": [
+    "Unverified marketing stats on page not used: '★★★★★ (145 Ratings)', '4.8 Rating', '4500+ Students', '10+ Yoga Teachers', '10+ Lessons'.",
+    "Price conflict: this page shows $500; the listing /courses_group/online-yoga-course/ shows '$240' for the same course.",
+    "Hub /online-specialized-yoga-courses/ describes the corresponding course as '6 Days' (not 15 days).",
+    "Meta description calls this an 'Online Yoga Teacher Training course' — it is a 15-day specialised course, not a YTT.",
+    "Certification is from Himalayan Yoga Association (Rishikesh), not Bali Yoga School or Yoga Alliance.",
+    "Teacher bios on page are generic and shared across all 15-day online courses (Yogi Himanshu, Yogi Deepak, Yogi Pramod, Yogini Stuti) — names only extracted.",
+    "'Benefits of ...' list (Benefits of Ashtanga Vinyasa Yoga) not extracted — generic benefits copy.",
+    "Live class conflict: intro says 'live Zoom classes (1.5 hours daily)'; inclusions say 'Daily (15 days) online 1 hour live zoom pranayama classes' (copy-paste from the pranayama course)."
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "yogic-food-menu",
+  "path": "/yogic-food-menu/",
+  "sourceFile": "content/pages/yogic-food-menu.md",
+  "title": "Bali Yoga School Dining",
+  "metaTitle": "Yogic Food Menu",
+  "metaDescription": "Best Yogic Food Menu for Bali Yoga Students",
+  "intro": [
+    "We at Bali Yoga School believe that food is a sacred expression of care and one of the ways to enhance our spirit. We serve plant-based meals, prepared with the highest standards of hygiene, cleanliness, and love to support your yoga journey. One of the primary practices in yoga is ahimsa, meaning non-violence. By following a plant-based diet during your training, you are in the practice of ahimsa. Yoga is a way of living, and we bring that teaching into the meals as well. Every dish reflects our commitment to provide the best yoga training experience, reflecting purity and mindful living. Our dedicated team prepares food with intention, mindfulness, and a deep sense of respect for the process. The energy behind the food matters just as much as the food itself and affects our physical, mental and spiritual health. It’s more than just food. It’s nourishment for your entire being. At Bali Yoga School, cleanliness is a reflection of inner purity. A pure plate leads to a peaceful heart. And every mindful bite is a step toward harmony."
+  ],
+  "sections": [
+    {
+      "heading": "Meal Timings",
+      "paragraphs": [
+        "(Except for lunch and dinner on Sundays)"
+      ],
+      "list": [
+        "Breakfast: 08:30 am – 09:30 am",
+        "Lunch: 12:30 pm – 01:30 pm",
+        "Dinner: 07:30 pm – 08:30 pm"
+      ],
+      "subsections": []
+    }
+  ],
+  "faqs": [],
+  "relatedPages": [
+    {
+      "path": "/yogic-food-menu-bali/",
+      "status": "near-empty",
+      "note": "Only an H1 ‘Yogic Food Menu - Bali Yoga School’ plus an image/embed-only row (no text). Meta description ‘Yogic food menu bali.’ Recommend redirecting it to /yogic-food-menu/."
+    }
+  ],
+  "issues": [
+    "The page has no actual menu (no dishes listed) despite its title; the second row is image/embed only – any menu was presumably in images that were not transcribed.",
+    "No H1 on the original (only an H2 ‘Bali Yoga School Dining’).",
+    "‘Except for lunch and dinner on Sundays’ conflicts with the FAQ (‘3 vegetarian meals per day… for the duration of the course’) and Sunday excursions – clarify Sunday meal provision.",
+    "Plant-based/vegan statement here vs FAQ ‘vegetarian meals’ and ‘cup of chai’ (typically with milk) – minor inconsistency.",
+    "Duplicate page /yogic-food-menu-bali/ is near-empty (H1 only).",
+    "Trailing ‘Contact Us’ button label removed. Grammar lightly corrected (‘We Bali Yoga School believe’, ‘We serve is plant-based meals’, ‘affect our’)."
+  ]
+}

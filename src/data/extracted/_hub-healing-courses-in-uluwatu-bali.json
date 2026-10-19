@@ -1,0 +1,88 @@
+{
+  "path": "/healing-courses-in-uluwatu-bali/",
+  "title": "Healing Courses in Bali Yoga School",
+  "metaTitle": "Healing Courses in Uluwatu Bali",
+  "metaDescription": null,
+  "intro": [
+    "Become a Himalayan Yoga Association Society certified professional healer at Bali Yoga School. We have 3 levels of Sound Healing Courses, 3 Levels of Reiki Healing Courses, and 2 Ayurveda Courses.",
+    "During our healing courses in Bali, you will also have daily yoga class (ex. Hatha vinyasa / Meditation) to enhance your experiences."
+  ],
+  "listedItems": [
+    {
+      "title": "Level 1/2/3 Sound Healing Course Uluwatu",
+      "path": "/courses/level-1-2-3-advanced-sound-healing-course-in-uluwatu-bali/",
+      "stated": "contains all the syllabuses of our Level 1/2/3 Sound Healing Course Uluwatu",
+      "pathInferred": true
+    },
+    {
+      "title": "Level 1/2 Sound Healing Course Uluwatu",
+      "path": "/courses/level-1-2-sound-healing-course-in-uluwatu-bali/",
+      "stated": null,
+      "pathInferred": true
+    },
+    {
+      "title": "Level 2/3 Combined Sound Healing Course",
+      "path": "/courses/level-2-3-sound-healing-course-in-uluwatu-bali/",
+      "stated": null,
+      "pathInferred": true
+    },
+    {
+      "title": "Level 1/2/3 Reiki Healing Course",
+      "path": "/courses/level-1-2-3-reiki-healing-course-in-uluwatu-bali/",
+      "stated": null,
+      "pathInferred": true
+    },
+    {
+      "title": "Level 1/2 Reiki Healing Course",
+      "path": "/courses/level-1-2-reiki-healing-course-in-uluwatu-bali/",
+      "stated": null,
+      "pathInferred": true
+    },
+    {
+      "title": "Level 2&3 Combined Reiki Healing Course",
+      "path": "/courses/level-2-3-reiki-healing-course-in-uluwatu-bali/",
+      "stated": null,
+      "pathInferred": true
+    },
+    {
+      "title": "13 Days Ayurvedic Massages and Panchakarma Therapy Course",
+      "path": "/courses/ayurvedic-panchakarma-therapy-course-in-bali-indonesia/",
+      "stated": "13 Days",
+      "pathInferred": true,
+      "note": "No Uluwatu-specific Panchakarma page exists in the crawl; may link to the Ubud course."
+    },
+    {
+      "title": "7 Days Ayurvedic Massage Course (ABW)",
+      "path": "/courses/7-days-ayurvedic-massage-course-bali-uluwatu/",
+      "stated": "7 Days",
+      "pathInferred": true,
+      "note": "Card text says 'in Bali, Indonesia'; Ubud equivalent is /courses/ayurvedic-massage-course-in-bali-indonesia/."
+    }
+  ],
+  "extraSections": [
+    {
+      "heading": "Himalayan Yoga Association Society Certified Sound Healing Courses in Bali",
+      "paragraphs": [
+        "Learn and practice how to play a wide variety of sound healing instruments such as Tibetan singing bowl, crystal bowls, gongs, drums, chimes, tuning forks, and even how to use vocal."
+      ]
+    },
+    {
+      "heading": "Himalayan Yoga Association Society Certified Reiki Healing Courses in Bali",
+      "paragraphs": []
+    },
+    {
+      "heading": "Healing Courses in Rishikesh, India",
+      "paragraphs": [
+        "Click the photos to learn more (image-only cards; titles/links not captured)"
+      ]
+    }
+  ],
+  "mapLabel": "Bali Yoga School in Uluwatu Location (map embed: 'Bali Yoga School Uluwatu (Puri Sabina)')",
+  "issues": [
+    "Card link targets (hrefs) were not captured in the source audit; listedItems[].path values marked pathInferred=true were matched by card wording (hours/level/campus) to existing course URLs in pages-index.csv — verify against the live site.",
+    "COPY-PASTE: intro is the Ubud healing hub text verbatim, including 'Combine Yoga and Healing in the heart of Bali, Ubud' on an Uluwatu page (that sentence dropped from intro); H2 says 'Healing Courses in Bali Yoga School' rather than Uluwatu.",
+    "The two Ayurveda cards sit under the Reiki heading — there is no 'Ayurveda Courses' heading on this hub.",
+    "No meta description.",
+    "Reiki 2&3 card makes healing claims ('pain relief, emotional release') — not extracted."
+  ]
+}

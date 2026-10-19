@@ -1,0 +1,33 @@
+{
+  "path": "/yoga-classes-in-bali/",
+  "title": "Yoga Classes In Bali at Bali Yoga School",
+  "metaTitle": "Yoga Classes in Bali",
+  "metaDescription": null,
+  "intro": [
+    "Located in Ubud, the heart of Bali, the training centre has a calm vibe that helps you connect with your inner self better.",
+    "Daily drop-in yoga classes are conducted separately, they are not part of any yoga program in our ashram. We customise classes according to beginners, intermediate and advanced practitioners. Each yoga class fee is 15 USD, to book a class kindly contact us."
+  ],
+  "listedItems": [
+    {
+      "title": "Drop-in yoga class",
+      "path": null,
+      "stated": "each yoga class fee is 15 USD"
+    }
+  ],
+  "extraSections": [
+    {
+      "heading": "Book Drop-in Classes",
+      "paragraphs": [
+        "To book a class kindly contact us."
+      ]
+    }
+  ],
+  "mapLabel": null,
+  "issues": [
+    "Booking form is broken: the page renders the raw shortcode '[contact-form-7 id=”2956″]' instead of a form.",
+    "No schedule/times for drop-in classes are given.",
+    "YouTube video inbtF1QAGCM is embedded on this page (per video-and-map-embeds.csv).",
+    "No meta description.",
+    "Unverified claims not used: 'the School has helped hundreds of people transform their life', 'the best yoga school', 'Open throughout the year' (keep only if confirmed)."
+  ]
+}

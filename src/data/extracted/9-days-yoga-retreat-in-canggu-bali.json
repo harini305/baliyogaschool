@@ -1,0 +1,210 @@
+{
+  "slug": "9-days-yoga-retreat-in-canggu-bali",
+  "path": "/9-days-yoga-retreat-in-canggu-bali/",
+  "sourceFile": "content/pages/9-days-yoga-retreat-in-canggu-bali.md",
+  "kind": "retreat",
+  "location": "canggu",
+  "title": "9 Days Yoga Retreat in Canggu Bali",
+  "displayTitle": "9-Day Yoga Retreat",
+  "hours": null,
+  "days": 9,
+  "nights": 8,
+  "level": null,
+  "metaTitle": "9 Days Yoga Retreat in Canggu Bali",
+  "metaDescription": "The 9 days yoga retreat in Canggu Bali is the ultimate treat for yogi travelers and a great way to obtain some quality time and space for yourselfyour!",
+  "summary": "A 9-day yoga retreat in Canggu including private accommodation, vegetarian meals, daily yoga, daily excursions and Ayurvedic massage treatments.",
+  "intro": [
+    "The coastal zone of Canggu with its serene vibes, warm weather and pristine beaches perfectly favor the learning and practice of yoga while allowing the right ambience to focus deeply within while practicing the asanas or meditating. And to add the element of convenience and comfort to your holiday plan, Bali Yoga School offers an “all-in-one” package including food, accommodation, excursions, daily yoga classes, ayurvedic massage sessions, detox and de-stress therapies and much more within their 9 days yoga retreat in Canggu Bali.",
+    "Our teachers possess the ancient knowledge and modern yoga teaching methods to offer classes for beginner, intermediate and advanced levels for yoga. We also offer customised yoga retreats for those who want to delve deeper into the ancient spiritual yoga tradition and allow you to experience the physical & subtle aspects of yoga."
+  ],
+  "duration": "9 days / 8 nights",
+  "durationStatements": [
+    "9 Days Yoga Retreat in Canggu Bali",
+    "8 Nights Private Accommodation",
+    "8 Days Yoga classes",
+    "Retreat completes on 9th day by 12:00 pm afternoon"
+  ],
+  "keyFacts": [
+    {
+      "label": "Duration",
+      "value": "9 days / 8 nights"
+    },
+    {
+      "label": "Check-in",
+      "value": "Day 1 at 12:00 pm"
+    },
+    {
+      "label": "Retreat ends",
+      "value": "Day 9 by 12:00 pm"
+    },
+    {
+      "label": "Excursions",
+      "value": "7 (Days 2–8)"
+    },
+    {
+      "label": "Ayurvedic massages",
+      "value": "3 (full-body)"
+    }
+  ],
+  "hourCalculation": [],
+  "styles": [
+    "Hatha Vinyasa"
+  ],
+  "curriculum": [
+    {
+      "title": "Daily Excursions",
+      "summary": null,
+      "items": [
+        "Day 2 – Tegenungan Waterfall",
+        "Day 3 – Campuhan Ridge Walk",
+        "Day 4 – Tirta Empul Temple Bali",
+        "Day 5 – Beach day (Canggu beach)",
+        "Day 6 – Tanah Lot temple with sunset experience",
+        "Day 7 – Balinese traditional dance show",
+        "Day 8 – Visit Ubud art market"
+      ]
+    },
+    {
+      "title": "Ayurvedic Treatments",
+      "summary": null,
+      "items": [
+        "Full body Ayurvedic massage",
+        "Kati Vasti (Lower back therapy)",
+        "Griva Vasti (Neck therapy)",
+        "Reflexology (Feet massage)",
+        "Netra Tarpan (Eye therapy)",
+        "Balinese Massage"
+      ]
+    }
+  ],
+  "schedule": {
+    "heading": "Retreat Fees",
+    "note": null,
+    "batches": []
+  },
+  "fees": {
+    "currency": "USD",
+    "discountLabelAsPublished": null,
+    "note": null,
+    "options": [
+      {
+        "group": "Accommodation + meals",
+        "label": "Retreat fee (private accommodation)",
+        "detail": null,
+        "original": 1200,
+        "offer": null
+      }
+    ],
+    "extras": [
+      {
+        "label": "Airport pick-up (Denpasar)",
+        "price": "30 USD",
+        "detail": "Pick up charge is 30 USD extra from Denpasar Airport to school, make sure to inform the administration while booking the program."
+      },
+      {
+        "label": "Advance booking fee",
+        "price": "500 USD",
+        "detail": "In order to book for retreat, deposit an advance fees of 500 USD, This advance fee will be subtracted from the entire fee and the remainder of the yoga fee can be paid on arrival."
+      }
+    ]
+  },
+  "addOnHealing": [],
+  "addOnNote": null,
+  "inclusions": [
+    "8 Nights Private Accommodation",
+    "3 times Vegetarian meals",
+    "8 Days Yoga classes",
+    "Excursion (as per schedule)",
+    "Free Internet",
+    "Yoga Mats and material for all activities",
+    "Three full-body Ayurvedic massages"
+  ],
+  "exclusions": [],
+  "dailySchedule": [
+    {
+      "day": "Daily",
+      "time": "7:00 am to 8:00 am",
+      "activity": "Pranayama & Meditation"
+    },
+    {
+      "day": "Daily",
+      "time": "8:00 am to 9:00 am",
+      "activity": "Hatha Vinyasa Yoga"
+    },
+    {
+      "day": "Daily",
+      "time": "9:00 am",
+      "activity": "Breakfast"
+    },
+    {
+      "day": "Daily",
+      "time": "10:00 am",
+      "activity": "Excursion"
+    },
+    {
+      "day": "Daily",
+      "time": "1:00 pm to 2:00 pm",
+      "activity": "Lunch"
+    },
+    {
+      "day": "Daily",
+      "time": "3:00 to 4:00 pm",
+      "activity": "Ayurvedic Massage Treatment"
+    },
+    {
+      "day": "Daily",
+      "time": "7:00 pm to 8:00 pm",
+      "activity": "Dinner"
+    },
+    {
+      "day": "Daily",
+      "time": "10:00 pm",
+      "activity": "Lights Off"
+    }
+  ],
+  "dining": {
+    "text": null,
+    "mealTimes": []
+  },
+  "arrival": [
+    "Participants must arrive on check-in time 12:00 pm afternoon on day 1st, retreat starts on day 1st at 4:00 pm with Ayurvedic massage treatment, Retreat completes on 9th day by 12:00 pm afternoon so Departure must be done after it.",
+    "The best and most convenient way to travel for Bali is to take a flight to Ngurah Rai International Airport. Ngurah Rai International Airport is merely 37 KMS from Bali yoga school; as soon as you book your flight, forward us your flight details and we will send our driver to receive you from the airport.",
+    "Note: Pick up charge is 30 USD extra from Denpasar Airport to school, make sure to inform the administration while booking the program."
+  ],
+  "prerequisites": [
+    "Classes offered for beginner, intermediate and advanced levels."
+  ],
+  "policies": [
+    {
+      "title": "Booking Fees",
+      "items": [
+        "In order to book for retreat, deposit an advance fee of 500 USD. This advance fee will be subtracted from the entire fee and the remainder of the yoga fee can be paid on arrival. An official booking confirmation letter will be sent to you shortly after successful advance deposit for the retreat fees."
+      ]
+    },
+    {
+      "title": "Refund Policy",
+      "items": [
+        "An advance fee will not be refundable; only in the case of emergency students can join us on other schedules. If a student cancels the course after joining it, we accept cancellation but course fees will not be refunded in cancellation. There is no charge of course cancellation."
+      ]
+    }
+  ],
+  "faqs": [],
+  "teachersNamed": [],
+  "relatedLinks": [],
+  "youtube": [],
+  "issues": [
+    "Old-format page: single fee of 1200 USD with no room options and no discount, unlike the 3–7 day Canggu pages — pricing model inconsistent across Canggu retreats.",
+    "No 'N Days & M Nights' statement: nights (8) taken from the inclusion '8 Nights Private Accommodation'.",
+    "Daily schedule shows an Ayurvedic massage treatment every day (3:00–4:00 pm) but inclusions list only 'Three full-body ayurvedic massage's'; the Ayurvedic Treatments list has 6 items.",
+    "Arrival text says the retreat starts on day 1 'at 4:00 pm with Ayurvedic massage treatment' while the schedule slot is 3:00–4:00 pm.",
+    "Most excursions are Ubud-area sites (Tegenungan Waterfall, Campuhan Ridge Walk, Tirta Empul, Ubud art market) on a Canggu retreat — verify.",
+    "Daily schedule shows 'Excursion' at 10:00 am every day, but excursions are listed only for Days 2–8.",
+    "Airport named as Ngurah Rai International Airport '37 KMS' from school; pick-up note says Denpasar Airport (same airport) — distance unverified for Canggu.",
+    "No meal timings, dining text or dates statement; no teachers named.",
+    "Treatment list typos fixed: 'Refelexology' → 'Reflexology', 'Baliness Massage' → 'Balinese Massage'.",
+    "Page text contains raw page-builder shortcodes ('[/vc_row]') — broken markup.",
+    "Second arrival paragraph says 'travel for (Ubud) Bali' on a Canggu page.",
+    "Intro and meta contain typo 'yourselfyour' and claims 'elite yoga school in Bali', 'the ultimate treat' — not used.",
+    "Arrival directions paragraph appears twice."
+  ]
+}

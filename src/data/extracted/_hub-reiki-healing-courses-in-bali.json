@@ -1,0 +1,57 @@
+{
+  "path": "/reiki-healing-courses-in-bali/",
+  "title": "Reiki Healing Courses in Bali Yoga School",
+  "metaTitle": "Reiki Healing Courses in Bali",
+  "metaDescription": "Reiki Healing Courses in Bali / Become a Himalayan Yoga Association Society certified professional reiki healer in Bali.",
+  "intro": [
+    "Become a Himalayan Yoga Association Society certified professional reiki healer in Bali."
+  ],
+  "listedItems": [
+    {
+      "title": "Level 1 Reiki Healing Course",
+      "path": "/courses/level-1-reiki-healing-course-in-bali-indonesia/",
+      "stated": "Master the foundation of Reiki healing techniques",
+      "pathInferred": true
+    },
+    {
+      "title": "Level 2 Reiki Healing Course",
+      "path": "/courses/level-2-reiki-healing-course-in-bali-indonesia/",
+      "stated": null,
+      "pathInferred": true
+    },
+    {
+      "title": "Level 3 Reiki Healing Course (Reiki Master)",
+      "path": "/courses/level-3-reiki-healing-course-in-bali-indonesia/",
+      "stated": null,
+      "pathInferred": true
+    },
+    {
+      "title": "Level 1/2 Reiki Healing Course",
+      "path": "/courses/level-1-2-reiki-healing-course-in-bali-indonesia/",
+      "stated": "combined our level 1 and level 2 Reiki healing courses",
+      "pathInferred": true
+    },
+    {
+      "title": "Best Reiki Healing Course in Bali (Level 1/2/3)",
+      "path": "/courses/best-reiki-healing-course-in-bali-indonesia/",
+      "stated": null,
+      "pathInferred": true
+    }
+  ],
+  "extraSections": [
+    {
+      "heading": "Certified Reiki Healing Courses in Bali",
+      "paragraphs": [
+        "Click the photos below to learn more"
+      ]
+    }
+  ],
+  "mapLabel": "Bali Yoga School Location (map embed labelled 'Bali Yoga School', Ubud)",
+  "issues": [
+    "Card link targets (hrefs) were not captured in the source audit; listedItems[].path values marked pathInferred=true were matched by card wording (hours/level/campus) to existing course URLs in pages-index.csv — verify against the live site.",
+    "No durations or prices are shown on this hub.",
+    "A Level 2&3 Reiki page exists for Ubud (/courses/level-2-3-reiki-healing-course-in-ubud-bali/) but is not listed here.",
+    "Broken copy on page: 'Gain core skills of Reiki and.' and 'enhance the your own life journey'.",
+    "Energy-centre statements ('These energy hubs are believed to be connected to ... well-being') are belief claims — not extracted."
+  ]
+}

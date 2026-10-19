@@ -1,0 +1,120 @@
+{
+  "slug": "sound-healing-session-in-ubud-bali",
+  "path": "/sound-healing-session-in-ubud-bali/",
+  "sourceFile": "content/pages/sound-healing-session-in-ubud-bali.md",
+  "kind": "session",
+  "location": "ubud",
+  "title": "Sound Healing Session in Ubud, Bali",
+  "displayTitle": "One-Hour Sound Healing Session",
+  "hours": null,
+  "level": null,
+  "metaTitle": "Sound Healing Session in Ubud, Bali",
+  "metaDescription": "Join our one hour of sound healing session with Bali Yoga School and rebalance body, mind, and soul within the sacred vibrations of the sound.",
+  "summary": "Join our one-hour sound healing session with Bali Yoga School.",
+  "intro": [
+    "Experience ancient sound healing in the serene heart of Ubud, Bali where peace and spirituality are infused together. Join our one-hour sound healing session with Bali Yoga School. It allows rebalancing your mind, body, and soul within the sacred vibrations of the sound.",
+    "The instruments include singing bowls, gongs, tuning forks, and chanting, which all create resonant frequencies that help unblock, restore balance to, and uplift your total state of being.",
+    "Bali Yoga School is located in a tranquil haven distant from the busy town, allowing you to thoroughly unwind in the embrace of nature."
+  ],
+  "duration": "60 minutes",
+  "durationStatements": [
+    "one hour of sound healing session",
+    "Session Length – 60 minutes",
+    "35-Minute Sound Healing",
+    "20-Minute Mala & Mantra Initiation"
+  ],
+  "keyFacts": [
+    {
+      "label": "Session length",
+      "value": "60 minutes"
+    },
+    {
+      "label": "Format",
+      "value": "One-to-one"
+    },
+    {
+      "label": "Fee",
+      "value": "100 USD"
+    },
+    {
+      "label": "Availability",
+      "value": "Throughout the year, on request"
+    }
+  ],
+  "hourCalculation": [],
+  "styles": [],
+  "curriculum": [
+    {
+      "title": "One-to-One Healing Experience",
+      "summary": "During the healing session, each participant gets attention to their needs because of the one-on-one session.",
+      "items": []
+    },
+    {
+      "title": "35-Minute Sound Healing",
+      "summary": "Sound healing works with frequencies from sounds to wash the energy field of the body. Healing instruments such as singing bowls, gong and other instruments are applied to bring balance within the body and thus ease tension in the body.",
+      "items": []
+    },
+    {
+      "title": "20-Minute Mala & Mantra Initiation",
+      "summary": "During the healing process, people are encouraged to chant mantras and to use mala – a string of beads used in meditating. This practice assists in concentration and brings about peace within a person.",
+      "items": []
+    }
+  ],
+  "schedule": {
+    "heading": "Course Dates / Price",
+    "note": "We offer Sound Healing Session throughout the year. Please contact us to check availabilities of your desired dates.",
+    "batches": []
+  },
+  "fees": {
+    "currency": "USD",
+    "discountLabelAsPublished": null,
+    "note": null,
+    "options": [
+      {
+        "group": "Session",
+        "label": "One-Hour Sound Healing Session",
+        "detail": "Session Length – 60 minutes",
+        "original": null,
+        "offer": 100
+      }
+    ],
+    "extras": []
+  },
+  "addOnHealing": [],
+  "addOnNote": null,
+  "inclusions": [],
+  "exclusions": [],
+  "dailySchedule": [],
+  "dining": {
+    "text": null,
+    "mealTimes": []
+  },
+  "arrival": [],
+  "prerequisites": [],
+  "policies": [
+    {
+      "title": "Terms & Condition",
+      "items": [
+        "Discipline Rules for Students – Smoking and alcohol are strictly prohibited in the school.",
+        "Refund Policy – The Advanced Course Fees, Complete Course Fee, Retreat Fee, Visa Fee or Any Other Payment will not be refundable in any case. Only in the case of emergency students can join us on other schedules. If a student cancels the course after joining it, we accept cancellation but course fees will not be refunded in cancellation."
+      ]
+    }
+  ],
+  "faqs": [],
+  "teachersNamed": [
+    "Yogini Ida",
+    "Yogini Chiara",
+    "Yogini Shanti"
+  ],
+  "relatedLinks": [],
+  "youtube": [],
+  "issues": [
+    "Listed components (35-minute sound healing + 20-minute Mala & Mantra = 55 minutes) do not add up to the stated 60-minute session length.",
+    "Page says Yogi Himanshu 'plays all instruments ... during the sessions' and is 'the creator of this sound healing session', while 'The Sound Healers' lists Yogini Ida, Yogini Chiara and Yogini Shanti; unclear who conducts it.",
+    "Location wording conflicts: 'serene heart of Ubud' vs 'located in a tranquil haven distant from the busy town'.",
+    "Unverified/medical claims (not used): lowers cortisol and increases serotonin, 'stronger immune system', 'pain reduction, enhanced blood flow'; history line 'Sound was first used for healing for over a thousand years'.",
+    "Audit classifies page as 'Course hub / location landing'; it is a single-session product page.",
+    "Refund policy is the generic course template (mentions 'Advanced Course Fees', 'Retreat Fee', 'Visa Fee') applied to a single session.",
+    "Price is labelled 'Course Fee' and section 'COURSE DATES / PRICE' for a one-off session."
+  ]
+}

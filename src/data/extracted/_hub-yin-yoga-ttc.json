@@ -1,0 +1,23 @@
+{
+  "path": "/courses_group/yin-yoga-ttc/",
+  "title": "Yin Yoga TTC",
+  "metaTitle": "Yin Yoga TTC Archives",
+  "metaDescription": null,
+  "intro": [],
+  "listedCourses": [
+    {
+      "title": "300 Hour Yin Yoga Teacher Training In Ubud, Bali",
+      "path": "/courses/300-hour-yin-yoga-teacher-training-in-ubud-bali/",
+      "duration": null,
+      "excerpt": "300-Hour Yin Yoga Teacher Training in Bali is an advanced, Yoga Alliance–certified program designed for yoga teachers and dedicated practitioners seeking a methodical and evidence-informed approach to Yin Yoga its specially for those who already done 200 hour yin yoga teacher training in bali."
+    }
+  ],
+  "issues": [
+    "Hub page has no meta description and no intro copy; the only text is one course card.",
+    "Archive lists only ONE course (300 h Yin Ubud) although the site has 12 Yin course pages (Ubud 50/100/200/300/500, Uluwatu 50/100/200/300, Canggu 50/100/200).",
+    "The single listed course is the one the home page labels 'Coming Soon' (known issue A4).",
+    "Card path not captured (link text only); path inferred by matching the card title/excerpt to /courses/300-hour-yin-yoga-teacher-training-in-ubud-bali/ (excerpt is identical to that page's meta description).",
+    "Card excerpt grammar ('its specially for those who already done…') kept verbatim; no duration stated on the card.",
+    "metaTitle shown without the ' - Bali Yoga School® - Best Yoga School in Bali' suffix; 'title' is derived from the archive name."
+  ]
+}

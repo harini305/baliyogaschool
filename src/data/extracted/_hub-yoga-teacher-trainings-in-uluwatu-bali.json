@@ -1,0 +1,90 @@
+{
+  "path": "/yoga-teacher-trainings-in-uluwatu-bali/",
+  "title": "Yoga Teacher Trainings in Uluwatu Bali",
+  "metaTitle": "Yoga Teacher Trainings in Uluwatu Bali",
+  "metaDescription": "Yoga Teacher Training Courses in uluwatu Bali / Why Yoga Teacher Training Courses in uluwatu, Bali? Ubud offers a deeply enriching yoga experience.",
+  "intro": [
+    "Our Bali Yoga School in Uluwatu offers the opportunity to become a Yoga Alliance certified yoga teacher while surrounded by the natural beauty and peaceful energy of Bali. The campus is located in a serene corner of Uluwatu, less than 15 minutes to some of the most beautiful beaches and sunset cliffs of Bali.",
+    "During your break in your training, you can easily go to the heart of Uluwatu or find a short ride to the beach. The place is near everything, but not too near to the tourist crowds to actually concentrate on your practice and studies.",
+    "We’re very close to GWK Cultural Park, with a massive running track and beautiful gardens. It is ideal to jog, or even explore when you need a change of scenery other than the beach.",
+    "Uluwatu has grown into a mix of modern fusions and traditional Balinese culture. Cafes with coffee and health oriented dishes, restaurants with local and international food and shops where you can buy whatever you need will be found."
+  ],
+  "listedItems": [
+    {
+      "title": "50 Hour Yoga Teacher Training in Uluwatu, Bali",
+      "path": "/courses/50-hour-yoga-teacher-training-in-uluwatu-bali/",
+      "stated": "6 day, 50 hour Yoga Teacher Training",
+      "pathInferred": true
+    },
+    {
+      "title": "100 Hour Yoga Course in Uluwatu, Bali",
+      "path": "/courses/100-hours-yoga-teacher-training-in-uluwatu-bali/",
+      "stated": "12 day, 100 hour yoga course — Part 1 of a 200 hour program",
+      "pathInferred": true
+    },
+    {
+      "title": "200 Hour Yoga Teacher Training in Uluwatu, Bali",
+      "path": "/courses/200-hour-yoga-teacher-training-in-uluwatu-bali/",
+      "stated": "is 24 days",
+      "pathInferred": true
+    },
+    {
+      "title": "300 Hour Yoga Teacher Training in Uluwatu, Bali",
+      "path": "/courses/300-hours-yoga-teacher-training-in-uluwatu-bali/",
+      "stated": "For 28 days course",
+      "pathInferred": true
+    },
+    {
+      "title": "500 Hour Teacher Training in Uluwatu, Bali",
+      "path": "/courses/500-hours-yoga-teacher-training-in-uluwatu-bali/",
+      "stated": "58 day, 500 hour teacher training (200-hour program Month 1 + 300 hour advanced training Month 2)",
+      "pathInferred": true
+    },
+    {
+      "title": "50 Hour Yin Yoga Course in Uluwatu, Bali",
+      "path": "/courses/50-hour-yin-yoga-teacher-training-in-uluwatu-bali/",
+      "stated": "in just 6 days",
+      "pathInferred": true
+    },
+    {
+      "title": "100 Hour Yin Yoga Course in Uluwatu, Bali",
+      "path": "/courses/100-hour-yin-yoga-teacher-training-in-uluwatu-bali/",
+      "stated": "12 day, 100 Hour Yin Yoga Course",
+      "pathInferred": true
+    },
+    {
+      "title": "200 Hour Yin Yoga Training in Uluwatu, Bali",
+      "path": "/courses/200-hour-yin-yoga-teacher-training-in-uluwatu-bali/",
+      "stated": "24 day, 200 Hour Yin Yoga Training",
+      "pathInferred": true
+    }
+  ],
+  "extraSections": [
+    {
+      "heading": "Classic Yoga Teacher Training Courses in Uluwatu, Bali",
+      "paragraphs": [
+        "Click the photos below to learn more"
+      ]
+    },
+    {
+      "heading": "Yin Yoga Teacher Training Courses in Uluwatu, Bali",
+      "paragraphs": [
+        "Click the photos below to learn more"
+      ]
+    },
+    {
+      "heading": "Yoga Teacher Training Courses in Rishikesh India",
+      "paragraphs": [
+        "Click the photos to learn more (image-only cards; titles/links not captured)"
+      ]
+    }
+  ],
+  "mapLabel": "Bali Yoga School in Uluwatu Location (map embed: 'Bali Yoga School Uluwatu (Puri Sabina)')",
+  "issues": [
+    "Card link targets (hrefs) were not captured in the source audit; listedItems[].path values marked pathInferred=true were matched by card wording (hours/level/campus) to existing course URLs in pages-index.csv — verify against the live site.",
+    "Duration conflicts (hub vs course pages): 200 h listed as '24 days' — /courses/200-hour-yoga-teacher-training-in-uluwatu-bali/ text says '25 days' (audit A2 notes Uluwatu batches run 1st–24th); 300 h listed as '28 days' — /courses/300-hours-yoga-teacher-training-in-uluwatu-bali/ meta description says '25-day immersion'; Yin 200 h listed as '24 day' — Yin 200 h Uluwatu page's hour calculation uses '20 days × 7 hours per day' (training days; total not stated). 50 h '6 day' and 100 h '12 day' match their pages.",
+    "Meta description is copied from the Ubud hub ('Ubud offers a deeply enriching yoga experience').",
+    "50 Yin card mentions 'Bali’s peaceful beaches and rice fields' (same copy as Canggu hub).",
+    "Unverified marketing claims not used: 'the most popular course in the world' (200 h), 'world class yoga teacher', 'mentors who genuinely care', 'golden ticket'."
+  ]
+}

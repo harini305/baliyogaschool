@@ -1,0 +1,120 @@
+{
+  "slug": "reiki-healing-session-in-ubud-bali",
+  "path": "/reiki-healing-session-in-ubud-bali/",
+  "sourceFile": "content/pages/reiki-healing-session-in-ubud-bali.md",
+  "kind": "session",
+  "location": "ubud",
+  "title": "Reiki Healing Session in Ubud, Bali",
+  "displayTitle": "One-Hour Reiki Healing Session",
+  "hours": null,
+  "level": null,
+  "metaTitle": "Reiki Healing Session in Ubud, Bali",
+  "metaDescription": "Reconnect with your inner self with our One-Hour Reiki Healing Session at your one-stop shop for holistic treatment and renewal.",
+  "summary": "Reconnect with your inner self with our One-Hour Reiki Healing Session.",
+  "intro": [
+    "Reconnect with your inner self with our One-Hour Reiki Healing Session. It will balance the forces inside and out, allowing you to achieve total emotional, physical, and spiritual well-being.",
+    "Reiki is an age-old healing method that originated in Japan around the beginning of the 20th century. The philosophy behind Reiki is simple and profound – to channel the universal life energy to help clear obstructions in the body, mind, and spirit, where energy freely flows.",
+    "We offer a one-hour Reiki healing treatment at Bali Yoga School in Ubud, Bali, to help you get back in touch with your body, mind, and spirit."
+  ],
+  "duration": "60 minutes",
+  "durationStatements": [
+    "One-Hour Reiki Healing Session",
+    "Session Length – 60 minutes",
+    "35-Minute Reiki Healing",
+    "20-Minute Mala & Mantra Initiation"
+  ],
+  "keyFacts": [
+    {
+      "label": "Session length",
+      "value": "60 minutes"
+    },
+    {
+      "label": "Format",
+      "value": "One-to-one"
+    },
+    {
+      "label": "Fee",
+      "value": "100 USD"
+    },
+    {
+      "label": "Availability",
+      "value": "Throughout the year, on request"
+    }
+  ],
+  "hourCalculation": [],
+  "styles": [],
+  "curriculum": [
+    {
+      "title": "One-to-One Healing Experience",
+      "summary": "During the healing session, each participant gets attention to their needs because of the one-on-one session.",
+      "items": []
+    },
+    {
+      "title": "35-Minute Reiki Healing",
+      "summary": "Experience the gentle yet powerful transfer of life energy throughout your body.",
+      "items": []
+    },
+    {
+      "title": "20-Minute Mala & Mantra Initiation",
+      "summary": "During the healing process, people are encouraged to chant mantras and to use mala – a string of beads used in meditating. This practice assists in concentration and brings about peace within a person.",
+      "items": []
+    }
+  ],
+  "schedule": {
+    "heading": "Course Dates / Price",
+    "note": "We offer Reiki Healing Session throughout the year. Please contact us to check availabilities of your desired dates.",
+    "batches": []
+  },
+  "fees": {
+    "currency": "USD",
+    "discountLabelAsPublished": null,
+    "note": null,
+    "options": [
+      {
+        "group": "Session",
+        "label": "One-Hour Reiki Healing Session",
+        "detail": "Session Length – 60 minutes",
+        "original": null,
+        "offer": 100
+      }
+    ],
+    "extras": []
+  },
+  "addOnHealing": [],
+  "addOnNote": null,
+  "inclusions": [],
+  "exclusions": [],
+  "dailySchedule": [],
+  "dining": {
+    "text": null,
+    "mealTimes": []
+  },
+  "arrival": [],
+  "prerequisites": [],
+  "policies": [
+    {
+      "title": "Terms & Condition",
+      "items": [
+        "Discipline Rules for Students – Smoking and alcohol are strictly prohibited in the school.",
+        "Refund Policy – The Advanced Course Fees, Complete Course Fee, Retreat Fee, Visa Fee or Any Other Payment will not be refundable in any case. Only in the case of emergency students can join us on other schedules. If a student cancels the course after joining it, we accept cancellation but course fees will not be refunded in cancellation."
+      ]
+    }
+  ],
+  "faqs": [],
+  "teachersNamed": [
+    "Yogini Ida",
+    "Yogini Shanti",
+    "Yogini Chiara"
+  ],
+  "relatedLinks": [],
+  "youtube": [],
+  "issues": [
+    "Listed components (35-minute Reiki + 20-minute Mala & Mantra = 55 minutes) do not add up to the stated 60-minute session length.",
+    "Page says the session is 'under the guidance of our very revered Yogi Himanshu and other experienced teachers' but the named healers are Yogini Ida, Yogini Shanti and Yogini Chiara; unclear who conducts it.",
+    "Reiki history inconsistent within page: 'originated in Japan around the beginning of the 20th century' vs 'rediscovered by Dr. Mikao Usui ... in the 1920s'.",
+    "Unverified claims (not used): 'one-stop shop for holistic treatment', 'won it recognition worldwide for being effective in reducing stress and pain', 'Clients frequently report sleeping more soundly', 'A global yoga master and healer'.",
+    "Audit classifies page as 'Course hub / location landing'; it is a single-session product page.",
+    "Refund policy is the generic course template (mentions 'Advanced Course Fees', 'Retreat Fee', 'Visa Fee') applied to a single session.",
+    "Price is labelled 'Course Fee' and section 'COURSE DATES / PRICE' for a one-off session."
+  ]
+}

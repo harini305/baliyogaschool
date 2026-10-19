@@ -1,0 +1,138 @@
+{
+  "slug": "15-days-online-yoga-anatomy-course",
+  "path": "/courses/15-days-online-yoga-anatomy-course/",
+  "sourceFile": "content/pages/courses__15-days-online-yoga-anatomy-course.md",
+  "kind": "online",
+  "location": "online",
+  "title": "15 Days Online Yoga Anatomy Course",
+  "displayTitle": "15-Day Online Yoga Anatomy Course",
+  "hours": null,
+  "level": null,
+  "metaTitle": "15 Days Online Yoga Anatomy Course",
+  "metaDescription": "Bali yoga school are offering Online Yoga Teacher Training course for Yoga Anatomy Course. Join now our online courses",
+  "summary": "This 15 day online yoga anatomy course mixes prerecorded videos and daily 1-hour live Zoom classes with teachers from Rishikesh, India.",
+  "intro": [
+    "This 15 day online yoga anatomy course mixes prerecorded videos and daily 1-hour live Zoom classes with teachers from Rishikesh, India. You'll learn how your body is built (anatomy) and works (physiology), giving you a fresh way to understand your muscles, bones, and organs. In live classes, ask questions, dive deeper into topics, and get tips from teachers."
+  ],
+  "duration": "15 days",
+  "durationStatements": [
+    "15 Days Duration",
+    "This 15 day online yoga anatomy course mixes prerecorded videos and daily 1-hour live Zoom classes",
+    "Daily (15 days) online 1 hour live zoom pranayama classes"
+  ],
+  "keyFacts": [
+    {
+      "label": "Format",
+      "value": "Pre-recorded videos + daily live Zoom classes"
+    },
+    {
+      "label": "Certification",
+      "value": "Himalayan Yoga Association certified certification"
+    },
+    {
+      "label": "Video access",
+      "value": "One month access to all pre-recorded sessions"
+    }
+  ],
+  "hourCalculation": [],
+  "styles": [],
+  "curriculum": [
+    {
+      "title": "Course Outline",
+      "summary": null,
+      "items": [
+        "Introduction to Body and Its Structure",
+        "Body Planes",
+        "Bones of the Skull",
+        "Cervical Vertebrae",
+        "Shoulder Girdle/ Arm Bones/ Pelvic Region",
+        "Food & Digestive System",
+        "Deformities of the Spine",
+        "Lower Extremity",
+        "Tendons and Ligaments",
+        "Kati Basti or lower back pain treatment Practice",
+        "Lifestyle According to the Ayurveda",
+        "Nervous System",
+        "Respiratory System",
+        "Human Cells, Types of Tissues, Organs",
+        "Important names of human skeleton system",
+        "Angular movements of human body",
+        "Directional terms of anatomy"
+      ]
+    }
+  ],
+  "schedule": {
+    "heading": null,
+    "note": null,
+    "batches": []
+  },
+  "fees": {
+    "currency": "USD",
+    "discountLabelAsPublished": null,
+    "note": null,
+    "options": [
+      {
+        "group": "Online course",
+        "label": "15-Day Online Yoga Anatomy Course",
+        "detail": "$500",
+        "original": 500,
+        "offer": null
+      }
+    ],
+    "extras": []
+  },
+  "addOnHealing": [],
+  "addOnNote": null,
+  "inclusions": [
+    "Access to our pre-recorded yoga anatomy session videos, recorded in Rishikesh India by great teachers.",
+    "Himalayan Yoga Association certified certification.",
+    "One month access to the all pre-recorded yoga anatomy sessions.",
+    "Digital course manual PDF",
+    "Daily (15 days) online 1 hour live zoom pranayama classes"
+  ],
+  "exclusions": [],
+  "dailySchedule": [],
+  "dining": {
+    "text": null,
+    "mealTimes": []
+  },
+  "arrival": [],
+  "prerequisites": [],
+  "policies": [],
+  "faqs": [],
+  "teachersNamed": [
+    "Yogi Himanshu",
+    "Yogi Deepak",
+    "Yogi Pramod",
+    "Yogini Stuti"
+  ],
+  "relatedLinks": [],
+  "youtube": [
+    "https://www.youtube.com/watch?v=K7CncXsq4Y0"
+  ],
+  "online": {
+    "platform": "Zoom (live classes)",
+    "liveClasses": [
+      "This 15 day online yoga anatomy course mixes prerecorded videos and daily 1-hour live Zoom classes",
+      "Daily (15 days) online 1 hour live zoom pranayama classes"
+    ],
+    "recordings": [
+      "Access to our pre-recorded yoga anatomy session videos, recorded in Rishikesh India by great teachers."
+    ],
+    "access": [
+      "One month access to the all pre-recorded yoga anatomy sessions."
+    ],
+    "support": []
+  },
+  "issues": [
+    "Unverified marketing stats on page not used: '★★★★★ (295 Ratings)', '4.8 Rating', '4500+ Students', '10+ Yoga Teachers', '10+ Lessons'.",
+    "Price conflict: this page shows $500; the listing /courses_group/online-yoga-course/ shows '$240' for the same course.",
+    "Hub /online-specialized-yoga-courses/ describes the corresponding course as '6 Days' (not 15 days).",
+    "Meta description calls this an 'Online Yoga Teacher Training course' — it is a 15-day specialised course, not a YTT.",
+    "Certification is from Himalayan Yoga Association (Rishikesh), not Bali Yoga School or Yoga Alliance.",
+    "Teacher bios on page are generic and shared across all 15-day online courses (Yogi Himanshu, Yogi Deepak, Yogi Pramod, Yogini Stuti) — names only extracted.",
+    "'Benefits of ...' list (Benefits of Yoga Anatomy) not extracted — generic benefits copy.",
+    "Inclusions heading reads 'Pranayama Course include' and the live-class line says 'live zoom pranayama classes' on an anatomy course (copy-paste).",
+    "Unlike the other 15-day pages, no '10% discount' line is listed."
+  ]
+}

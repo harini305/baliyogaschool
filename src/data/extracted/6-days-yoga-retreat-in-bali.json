@@ -1,0 +1,525 @@
+{
+  "slug": "6-days-yoga-retreat-in-bali",
+  "path": "/6-days-yoga-retreat-in-bali/",
+  "sourceFile": "content/pages/6-days-yoga-retreat-in-bali.md",
+  "kind": "retreat",
+  "location": "ubud",
+  "title": "6 Days Restorative Yoga & Healing Retreat in Ubud, Bali",
+  "displayTitle": "6-Day Restorative Yoga & Healing Retreat",
+  "hours": null,
+  "days": 6,
+  "nights": 5,
+  "level": null,
+  "metaTitle": "6-Day Restorative Yoga Retreat in Ubud, Bali",
+  "metaDescription": "Slow down at a 6-day restorative yoga retreat in Ubud, Bali, with daily breathwork, sound healing, five massages, accommodation and vegetarian meals.",
+  "summary": "Six restorative days in Ubud with gentle yoga, conscious breathing, sound experiences and daily massage treatments, with meals, accommodation and personal time.",
+  "intro": [
+    "Slow down for six restorative days in Ubud with gentle yoga, conscious breathing, immersive sound experiences and daily massage treatments—all balanced with nourishing meals, comfortable accommodation and plenty of personal time.",
+    "This is not an intensive yoga programme. The experience follows a slower arc: gentle movement prepares the body, conscious breath settles attention, sound encourages receptive stillness, massage supports physical relaxation, and unscheduled time lets the day land naturally.",
+    "Spaciousness is not an empty part of the timetable—it is part of the retreat. Every day protects time for the pool, reading, journaling, exploring Ubud, taking a nap or simply doing nothing."
+  ],
+  "duration": "6 days / 5 nights",
+  "durationStatements": [
+    "DURATION 6 Days / 5 Nights",
+    "6 days / 5 nights accommodation",
+    "6 days / 5 nights"
+  ],
+  "keyFacts": [
+    {
+      "label": "Duration",
+      "value": "6 Days / 5 Nights"
+    },
+    {
+      "label": "Level",
+      "value": "Beginner Friendly"
+    },
+    {
+      "label": "Daily",
+      "value": "Yoga & Breathwork"
+    },
+    {
+      "label": "Bodywork",
+      "value": "5 Massages"
+    },
+    {
+      "label": "Stay",
+      "value": "Room & Meals"
+    },
+    {
+      "label": "Check-in / Check-out",
+      "value": "Check-in 12:00 PM · Check-out 12:00 PM"
+    }
+  ],
+  "hourCalculation": [],
+  "styles": [
+    "Restorative Yoga"
+  ],
+  "curriculum": [
+    {
+      "title": "Restorative Yoga",
+      "summary": "Gentle, supported yoga without difficult postures or performance pressure.",
+      "items": [
+        "Slow mindful movement",
+        "Supported postures",
+        "Gentle stretching and mobility",
+        "Longer comfortable holds",
+        "Body awareness and deep relaxation"
+      ]
+    },
+    {
+      "title": "Breathwork",
+      "summary": "Accessible guided breathing practices that beginners can understand and continue after the retreat.",
+      "items": [
+        "Breath and diaphragm awareness",
+        "Gentle pranayama",
+        "Alternate-nostril breathing (Nadi Shodhana)",
+        "Lengthened exhalation",
+        "Breath-led relaxation"
+      ]
+    },
+    {
+      "title": "Sound Healing",
+      "summary": "Restful sound experiences centred on conscious listening, stillness and quiet integration.",
+      "items": [
+        "Sound and vibration",
+        "Guided relaxation",
+        "Quiet observation",
+        "Extended sound sessions",
+        "Silence afterwards"
+      ]
+    },
+    {
+      "title": "Massage Therapy",
+      "summary": "Five full-body Balinese massages are placed after the day’s practices to complement the retreat’s slower rhythm.",
+      "items": [
+        "One massage on Days 1–5",
+        "Afternoon treatment time",
+        "Full-body Balinese massage",
+        "Unhurried rest afterwards"
+      ]
+    }
+  ],
+  "schedule": {
+    "heading": "Choose the room that supports your rest",
+    "note": "Retreats are offered year-round, subject to room, teacher and treatment availability. Check dates before booking flights.",
+    "batches": []
+  },
+  "fees": {
+    "currency": "USD",
+    "discountLabelAsPublished": null,
+    "note": "Price transparency: These are the rates published on Bali Yoga School’s existing six-day Ubud retreat page when this redesign was prepared. Reconfirm the current rate, room, massage availability, exact sound-session count, meals and payment terms before paying.",
+    "options": [
+      {
+        "group": "Accommodation + meals",
+        "label": "Twin Shared Room",
+        "detail": "Campus I twin-shared room",
+        "original": 687.5,
+        "offer": 550
+      },
+      {
+        "group": "Accommodation + meals",
+        "label": "Private Room · Campus I",
+        "detail": "Campus I private room",
+        "original": 875,
+        "offer": 700
+      },
+      {
+        "group": "Accommodation + meals",
+        "label": "Private Room · Campus II",
+        "detail": "Campus II private room",
+        "original": 750,
+        "offer": 600
+      }
+    ],
+    "extras": []
+  },
+  "addOnHealing": [],
+  "addOnNote": null,
+  "inclusions": [
+    "6 days / 5 nights accommodation",
+    "Daily Restorative Yoga",
+    "Daily guided Breathwork",
+    "Multiple Sound Healing experiences",
+    "5 full-body Balinese massages",
+    "Vegetarian meals and vegan options",
+    "Yoga equipment and retreat materials",
+    "High-speed Wi-Fi",
+    "Swimming pool access during campus hours"
+  ],
+  "exclusions": [
+    "Transport and off-campus activities are not included unless the school confirms otherwise."
+  ],
+  "dailySchedule": [
+    {
+      "day": "Day 1",
+      "time": "12:00 PM",
+      "activity": "Check-in"
+    },
+    {
+      "day": "Day 1",
+      "time": "12:30 PM",
+      "activity": "Welcome lunch"
+    },
+    {
+      "day": "Day 1",
+      "time": "2:00 PM",
+      "activity": "Rest, pool and settle in"
+    },
+    {
+      "day": "Day 1",
+      "time": "4:00 PM",
+      "activity": "Balinese massage"
+    },
+    {
+      "day": "Day 1",
+      "time": "5:30 PM",
+      "activity": "Gentle breath awareness and relaxation"
+    },
+    {
+      "day": "Day 1",
+      "time": "7:00 PM",
+      "activity": "Dinner"
+    },
+    {
+      "day": "Day 1",
+      "time": "Evening",
+      "activity": "Personal time"
+    },
+    {
+      "day": "Day 2",
+      "time": "7:00 AM",
+      "activity": "Guided breathwork"
+    },
+    {
+      "day": "Day 2",
+      "time": "8:00 AM",
+      "activity": "Restorative Yoga"
+    },
+    {
+      "day": "Day 2",
+      "time": "9:30 AM",
+      "activity": "Breakfast"
+    },
+    {
+      "day": "Day 2",
+      "time": "11:00 AM",
+      "activity": "Breath awareness workshop"
+    },
+    {
+      "day": "Day 2",
+      "time": "12:30 PM",
+      "activity": "Lunch"
+    },
+    {
+      "day": "Day 2",
+      "time": "1:30–3:30",
+      "activity": "Pool, rest and personal time"
+    },
+    {
+      "day": "Day 2",
+      "time": "4:00 PM",
+      "activity": "Balinese massage"
+    },
+    {
+      "day": "Day 2",
+      "time": "5:30 PM",
+      "activity": "Gentle evening breath practice"
+    },
+    {
+      "day": "Day 2",
+      "time": "7:00 PM",
+      "activity": "Dinner"
+    },
+    {
+      "day": "Day 3",
+      "time": "7:00 AM",
+      "activity": "Gentle morning breathwork"
+    },
+    {
+      "day": "Day 3",
+      "time": "8:00 AM",
+      "activity": "Restorative Yoga"
+    },
+    {
+      "day": "Day 3",
+      "time": "9:30 AM",
+      "activity": "Breakfast"
+    },
+    {
+      "day": "Day 3",
+      "time": "11:00 AM",
+      "activity": "Sound Healing session"
+    },
+    {
+      "day": "Day 3",
+      "time": "12:30 PM",
+      "activity": "Lunch"
+    },
+    {
+      "day": "Day 3",
+      "time": "Afternoon",
+      "activity": "Rest, journaling and pool"
+    },
+    {
+      "day": "Day 3",
+      "time": "4:00 PM",
+      "activity": "Balinese massage"
+    },
+    {
+      "day": "Day 3",
+      "time": "5:30 PM",
+      "activity": "Guided relaxation"
+    },
+    {
+      "day": "Day 3",
+      "time": "7:00 PM",
+      "activity": "Dinner"
+    },
+    {
+      "day": "Day 4",
+      "time": "7:00 AM",
+      "activity": "Breathwork and quiet meditation"
+    },
+    {
+      "day": "Day 4",
+      "time": "8:00 AM",
+      "activity": "Restorative Yoga and gentle mobility"
+    },
+    {
+      "day": "Day 4",
+      "time": "9:30 AM",
+      "activity": "Breakfast"
+    },
+    {
+      "day": "Day 4",
+      "time": "11:00 AM",
+      "activity": "Conscious sound and deep relaxation"
+    },
+    {
+      "day": "Day 4",
+      "time": "12:30 PM",
+      "activity": "Lunch"
+    },
+    {
+      "day": "Day 4",
+      "time": "1:30–3:30",
+      "activity": "Personal time"
+    },
+    {
+      "day": "Day 4",
+      "time": "4:00 PM",
+      "activity": "Balinese massage"
+    },
+    {
+      "day": "Day 4",
+      "time": "5:30 PM",
+      "activity": "Slow evening breathwork"
+    },
+    {
+      "day": "Day 4",
+      "time": "7:00 PM",
+      "activity": "Dinner"
+    },
+    {
+      "day": "Day 5",
+      "time": "7:00 AM",
+      "activity": "Slow breathwork"
+    },
+    {
+      "day": "Day 5",
+      "time": "8:00 AM",
+      "activity": "Deep Restorative Yoga"
+    },
+    {
+      "day": "Day 5",
+      "time": "9:30 AM",
+      "activity": "Breakfast"
+    },
+    {
+      "day": "Day 5",
+      "time": "11:00 AM",
+      "activity": "Signature Sound Healing experience"
+    },
+    {
+      "day": "Day 5",
+      "time": "12:30 PM",
+      "activity": "Lunch"
+    },
+    {
+      "day": "Day 5",
+      "time": "Afternoon",
+      "activity": "Complete free time, pool and rest"
+    },
+    {
+      "day": "Day 5",
+      "time": "4:00 PM",
+      "activity": "Balinese massage"
+    },
+    {
+      "day": "Day 5",
+      "time": "5:30 PM",
+      "activity": "Restorative relaxation and silence"
+    },
+    {
+      "day": "Day 5",
+      "time": "7:00 PM",
+      "activity": "Dinner"
+    },
+    {
+      "day": "Day 6",
+      "time": "7:00 AM",
+      "activity": "Closing breath practice"
+    },
+    {
+      "day": "Day 6",
+      "time": "8:00 AM",
+      "activity": "Gentle Restorative Yoga"
+    },
+    {
+      "day": "Day 6",
+      "time": "9:30 AM",
+      "activity": "Breakfast"
+    },
+    {
+      "day": "Day 6",
+      "time": "10:30 AM",
+      "activity": "Closing relaxation and reflection"
+    },
+    {
+      "day": "Day 6",
+      "time": "11:00 AM",
+      "activity": "Packing and personal time"
+    },
+    {
+      "day": "Day 6",
+      "time": "12:00 PM",
+      "activity": "Check-out"
+    }
+  ],
+  "dining": {
+    "text": "Plant-based vegetarian meals complement the retreat’s uncomplicated rhythm. Expect fresh ingredients, fruit and balanced dishes, with vegan options available.",
+    "mealTimes": []
+  },
+  "arrival": [
+    "Check-in 12:00 PM · Check-out 12:00 PM",
+    "The campus is in a quieter Ubud setting, approximately a 10-minute ride from the centre—close enough to explore during free time while keeping a residential retreat atmosphere."
+  ],
+  "prerequisites": [
+    "Complete yoga beginners",
+    "People who prefer gentle yoga",
+    "Experienced practitioners wanting a slower practice",
+    "Solo travellers, couples and friends",
+    "Guests curious about Breathwork or Sound Healing",
+    "Travellers wanting a slower Bali holiday",
+    "Anyone seeking more personal space and rest"
+  ],
+  "policies": [
+    {
+      "title": "Schedule changes",
+      "items": [
+        "The school may adjust session timings, teachers or sequence while protecting the overall focus and included services."
+      ]
+    },
+    {
+      "title": "Practice care",
+      "items": [
+        "Tell the teacher about pregnancy, recent surgery, respiratory or cardiovascular conditions, dizziness, anxiety triggers or other relevant concerns before Breathwork or yoga."
+      ]
+    },
+    {
+      "title": "Wellness disclaimer",
+      "items": [
+        "Sound sessions are educational, contemplative and relaxation-based wellness experiences. They do not diagnose or treat medical or mental-health conditions."
+      ]
+    },
+    {
+      "title": "Dietary requirements",
+      "items": [
+        "Share allergies and dietary requirements before arrival."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is Restorative Yoga suitable for beginners?",
+      "a": null
+    },
+    {
+      "q": "Do I need previous yoga experience?",
+      "a": null
+    },
+    {
+      "q": "Is this retreat physically intensive?",
+      "a": null
+    },
+    {
+      "q": "What type of Breathwork will we practise?",
+      "a": null
+    },
+    {
+      "q": "Is Breathwork suitable for beginners?",
+      "a": null
+    },
+    {
+      "q": "What happens during Sound Healing?",
+      "a": null
+    },
+    {
+      "q": "How many Sound Healing sessions are included?",
+      "a": null
+    },
+    {
+      "q": "How many massages are included?",
+      "a": null
+    },
+    {
+      "q": "What type of massage is provided?",
+      "a": null
+    },
+    {
+      "q": "How much free time will I have?",
+      "a": null
+    },
+    {
+      "q": "Are meals vegetarian or vegan?",
+      "a": null
+    },
+    {
+      "q": "Can solo travellers join?",
+      "a": null
+    },
+    {
+      "q": "Can couples or friends join?",
+      "a": null
+    },
+    {
+      "q": "Can I choose a private room?",
+      "a": null
+    },
+    {
+      "q": "Is airport transfer available?",
+      "a": null
+    },
+    {
+      "q": "What should I bring?",
+      "a": null
+    },
+    {
+      "q": "Can I extend my stay after the retreat?",
+      "a": null
+    }
+  ],
+  "teachersNamed": [],
+  "relatedLinks": [],
+  "youtube": [],
+  "issues": [
+    "Live page contains internal redesign/draft wording addressed to the school (e.g. 'rates published on Bali Yoga School’s existing … page when this redesign was prepared', 'proposed curriculum', 'confirm … before paying') — the page appears to be an unfinished redesign; prices and inclusions need confirmation. Schedule note calls it 'the proposed restorative curriculum'; dining note says 'The current campus page notes limited Sunday meal service, so confirm meals if your retreat dates include Sunday.'",
+    "Prices show 'Published regular rate' vs current price (20% lower) but no discount label is published.",
+    "Inclusion '5 full-body Balinese massages' matches the schedule (Balinese massage at 4:00 PM on Days 1–5) and the hero '5 Massages'.",
+    "Retreat content differs from hub /yoga-retreats-in-bali/ description of the 6-day retreat (hub: Hatha Vinyasa, two sound healing and two Reiki sessions; page: Restorative Yoga + Breathwork + Sound Healing, no Reiki).",
+    "Exact number of Sound Healing sessions not stated ('Multiple Sound Healing experiences'); schedule shows sound sessions on Days 3, 4 and 5 at 11:00 AM.",
+    "Possible Sunday meal limitation referenced but not specified.",
+    "No teachers named; no booking/refund policy; airport transfer only mentioned as an FAQ question.",
+    "FAQ section lists questions only — answers were not present in the captured text (collapsed accordion); 'a' left null. Capture answers before publishing FAQs."
+  ]
+}

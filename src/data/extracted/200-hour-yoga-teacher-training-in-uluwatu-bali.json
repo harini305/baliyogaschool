@@ -1,0 +1,614 @@
+{
+  "slug": "200-hour-yoga-teacher-training-in-uluwatu-bali",
+  "path": "/courses/200-hour-yoga-teacher-training-in-uluwatu-bali/",
+  "sourceFile": "content/pages/courses__200-hour-yoga-teacher-training-in-uluwatu-bali.md",
+  "kind": "multistyle",
+  "location": "uluwatu",
+  "title": "200 Hour Yoga Teacher Training in Uluwatu Bali",
+  "displayTitle": "200-Hour Multistyle Yoga Teacher Training",
+  "hours": 200,
+  "level": null,
+  "metaTitle": "200 Hour Yoga Teacher Training in Uluwatu Bali",
+  "metaDescription": "Join our 200 Hour Yoga Teacher Training in Uluwatu. Yoga Alliance certified 25-day immersion with Hatha & Vinyasa, meditation, philosophy & ocean views.",
+  "summary": "You will learn how to teach confidently, how to safely adjust students, and how to design classes that can actually benefit people.",
+  "intro": [
+    "At Bali Yoga School in Uluwatu our 200 Hour Yoga Teacher Training is not just about learning poses, it's about becoming the best version of yourself that has been inside you all along.",
+    "You will be studying in a quiet location, which is ideally located - only 15 minutes drive to the beautiful beaches and everything you need in town. It is peaceful enough to concentrate totally on what you are learning but you never feel alone in the vibrant local culture that makes Bali so special.",
+    "The distinguishing feature of our training is its comprehensiveness. You will learn the physical postures, sure, but you will also learn the underlying meaning behind them. You will find out how to teach confidently, how to safely adjust students, and how to design classes that can actually benefit people. Above all, you will learn how to live yoga – not only practice it one hour a day.",
+    "Just imagine your day here: morning practice with the gentle ocean breeze, diving into the lessons learning about yoga philosophy and how to teach yoga, and evenings where you can relax, contemplate or do what you like in the local area. This natural rhythm of this place helps in all that you are trying to learn."
+  ],
+  "duration": null,
+  "durationStatements": [
+    "What if your life could completely transform in just 25 days?",
+    "Yoga Alliance certified 25-day immersion (meta description)",
+    "1st to 24th Mar 2026 (batch dates)"
+  ],
+  "keyFacts": [
+    {
+      "label": "Certification",
+      "value": "Yoga Alliance accredited certificate upon successful completion"
+    },
+    {
+      "label": "Location",
+      "value": "Quiet location, about 15 minutes drive to the beaches and town"
+    },
+    {
+      "label": "Accommodation",
+      "value": "Private rooms with A/C"
+    },
+    {
+      "label": "Evaluation",
+      "value": "Written test, asana practical test, attendance, performance, behaviour"
+    }
+  ],
+  "hourCalculation": [],
+  "styles": [
+    "Hatha",
+    "Vinyasa",
+    "Ashtanga Vinyasa"
+  ],
+  "curriculum": [
+    {
+      "title": "Ashtanga Yoga Postures",
+      "summary": null,
+      "items": [
+        "What is Ashtanga Vinyasa Yoga / Its History",
+        "Introduction to Ashtanga Vinyasa Yoga",
+        "Opening Sequence",
+        "Samasthitiḥ",
+        "Surya Namaskar A",
+        "Surya Namaskar B",
+        "Standing Sequence Asanas",
+        "Pādaṅguṣṭhāsana",
+        "Pādahastāsana",
+        "Utthita Trikoṇāsana",
+        "Parivṛtta Trikoṇāsana",
+        "Utthita Pārśvakoṇāsana",
+        "Parivṛtta Pārśvakoṇāsana",
+        "Prasārita Pādottānāsana A",
+        "Prasārita Pādottānāsana B",
+        "Prasārita Pādottānāsana C",
+        "Prasārita Pādottānāsana D",
+        "Pārśvottānāsana",
+        "Utthita Hasta Pādāṅguṣṭhāsana A",
+        "Utthita Hasta Pādāṅguṣṭhāsana B",
+        "Utthita Hasta Pādāṅguṣṭhāsana C",
+        "Ardha Baddha Padmottānāsana",
+        "Utkatāsana",
+        "Vīrabhadrāsana A",
+        "Vīrabhadrāsana B",
+        "Primary Series (Seated) Asanas",
+        "Dandāsana",
+        "Paścimattānāsana A",
+        "Paścimattānāsana B",
+        "Paścimattānāsana C",
+        "Pūrvottānāsana",
+        "Ardha Baddha Padma Paścimattānāsana",
+        "Tiryāṅgmukha Eka Pāda Paścimattānāsana",
+        "Jānuśīrṣāsana A",
+        "Jānuśīrṣāsana B",
+        "Jānuśīrṣāsana C",
+        "Marīcyāsana A",
+        "Marīcyāsana B",
+        "Marīcyāsana C",
+        "Marīcyāsana D",
+        "Nāvāsana",
+        "Bhuja Piḍāsana",
+        "Kūrmasana",
+        "Supta Kūrmasana",
+        "Garbha Piṇḍāsana",
+        "Kukkuṭāsana",
+        "Baddha Koṇāsana A",
+        "Baddha Koṇāsana B",
+        "Upaviṣṭha Koṇāsana A",
+        "Upaviṣṭha Koṇāsana B",
+        "Supta Koṇāsana",
+        "Supta Pādāṅguṣṭhāsana A",
+        "Supta Pādāṅguṣṭhāsana B",
+        "Ubhaya Pādāṅguṣṭhāsana",
+        "Urdhva Mukha Paścimattānāsana",
+        "Setu Bandhāsana",
+        "Finishing Sequence Asanas",
+        "Urdhva Dhanurāsana",
+        "Sālamba Sarvāṅgāsana",
+        "Halasana",
+        "Karnapīḍāsana",
+        "Urdhva Padmāsana",
+        "Piṇḍāsana",
+        "Matsyāsana",
+        "Uttāna Pādāsana",
+        "Śīrṣāsana",
+        "Baddha Padmāsana",
+        "Yoga Mudrā",
+        "Padmāsana",
+        "Utplauthiḥ (Tolasana)",
+        "Śavāsana",
+        "Mysore Style Practice",
+        "Use of Yoga Props",
+        "Teaching Practice"
+      ]
+    },
+    {
+      "title": "Hatha Yoga / Alignment & Adjustment / Teaching Methodology Topics",
+      "summary": null,
+      "items": [
+        "Philosophy of Hatha Yoga",
+        "Ancient Scriptures of Hatha Yoga",
+        "Aim and Objectives of Hatha Yoga",
+        "Surya Namaskar",
+        "– (Pranamasana)",
+        "– (Hasta Uttanasana)",
+        "– (Padahastasana)",
+        "– (Ashwa Sanchalanasana)",
+        "– (Dandasana)",
+        "– (Ashtanga Namaskar)",
+        "– (Bhujangasana)",
+        "Chandra Namaskar",
+        "– (Ardha Chandrasana)",
+        "Shashankasana",
+        "Supta Vajrasana",
+        "Shashank Bhujangasana",
+        "Marjari-asana & Bitilasana",
+        "Vyaghrasana",
+        "Anahatasana",
+        "Urdhva Mukha Pasasana",
+        "Ardha Ushtrasana",
+        "Ushtrasana",
+        "Naman Pranamasana",
+        "Virabhadrasana 1",
+        "Virabhadrasana 2",
+        "Virabhadrasana 3",
+        "Virabhadrasana 4",
+        "Baddha Virabhadrasana",
+        "Ardha Pincha Mayurasana",
+        "Urdhva Mukha Svanasana",
+        "Akarna Dhanurasana",
+        "Tiryaka Tadasana",
+        "Tadasana",
+        "Kati Chakrasana",
+        "Tiryaka Kati Chakrasana",
+        "Meru Prishthasana",
+        "Druta Utkatasana",
+        "Samakonasana",
+        "Dwikonasana",
+        "Trikonasana",
+        "Parivrtta Trikonosana",
+        "Utthita Lolasana",
+        "Dolasana",
+        "Saral Bhujangasana",
+        "Tiryaka Bhujangasana",
+        "Sarpasana",
+        "Ardha Shalabhasana",
+        "Saral Dhanurasana",
+        "Dhanurasana",
+        "Kandharasana",
+        "Uttan Pristhasana",
+        "Setu Asana",
+        "Saithalyasana",
+        "Parighasana",
+        "Paschimottanasana",
+        "Gatyatmak Paschimottanasana",
+        "Pada Prasar Paschimottanasana",
+        "Janu Sirshasana",
+        "Navasana",
+        "Hasta Pada Angushthasana",
+        "Bhu Namanasana",
+        "Ardha Matsyendrasana",
+        "Gomukhasana",
+        "Vipareeta Karani Asana",
+        "Sarvangasana",
+        "Poorwa Halasana",
+        "Halasana",
+        "Druta Halasana",
+        "Chakrasana",
+        "Eka Pada Pranamasana",
+        "Garudasana",
+        "Saral Natarjasana",
+        "Natarjasana",
+        "Eka Padasana",
+        "Bakasana",
+        "Utthita Hasta Padangusthasana",
+        "Ardha Baddha Padmottanasana",
+        "Baka Dhyanasana",
+        "Eka Pada Baka Dhyanasana",
+        "Dwi Hasta Bhujasana",
+        "Eka Hasta Bhujasana",
+        "Vashishthasana",
+        "Sirshasana"
+      ]
+    },
+    {
+      "title": "Meditation Practices",
+      "summary": null,
+      "items": [
+        "What is Meditation",
+        "OM Mantra Meditation (How to Practice & Its Benefits)",
+        "History of Meditation",
+        "Shiva Mantra Meditation (Om Namah Shivaya) (How to Practice & Its Benefits)",
+        "Passive and Active Meditation",
+        "Chakra Meditation (How to Practice & Its Benefits)",
+        "What is Concentration in Yoga",
+        "Yoga Nidra (How to Practice & Its Benefits)",
+        "Breath Awareness Meditation (Anapana) (How to Practice & Its Benefits)",
+        "Nada Brahma Meditation (How to Practice & Its Benefits)",
+        "Dynamic Moving Meditation (Osho) (How to Practice & Its Benefits)",
+        "Trataka Meditation (How to Practice & Its Benefits)",
+        "Kirtan Spiritual Dancing Meditation (How to Practice & Its Benefits)",
+        "Body Awareness Meditation (How to Practice & Its Benefits)",
+        "Self Surrender Meditation (How to Practice & Its Benefits)",
+        "Laughing Meditation (How to Practice & Its Benefits)",
+        "Vipassana (Silence) (How to Practice & Its Benefits)",
+        "Sukhasana (Easy Pose)",
+        "Ardha Padmasana (Half Lotus Pose)",
+        "Dhyana Mudra",
+        "Chin Mudra"
+      ]
+    },
+    {
+      "title": "Yoga Philosophy (Yoga Darshana)",
+      "summary": null,
+      "items": [
+        "What is Yoga & Philosophy? Meaning and Goal",
+        "A History and Development of Yoga",
+        "What Are The Eight Limbs of Yoga",
+        "The Yamas (eight limbs of yoga)",
+        "The Niyamas (eight limbs of yoga)",
+        "Asana (Physical Posture)",
+        "Pranayama (Breathing techniques)",
+        "Pratyahara (Turning Inward)",
+        "Dharana (Concentration)",
+        "Dhyana (Meditation)",
+        "Samadhi (Pure Bliss)",
+        "Karma Yoga",
+        "Bhakti Yoga",
+        "Gyan Yoga",
+        "Dhyana Yoga",
+        "Who is The Buddha?",
+        "Teaching of The Buddha",
+        "Trigunas – The Concepts of Sattva, Rajas, and Tamas",
+        "What is Kundalini Yoga",
+        "Teaching of Ramana Maharshi (Who am I)",
+        "India is the Birthplace of Yoga / Rishikesh – The World Capital of Yoga"
+      ]
+    },
+    {
+      "title": "Pranayama (Breathing Practices)",
+      "summary": null,
+      "items": [
+        "Jal Neti",
+        "What is Pranayama?",
+        "Nadi Shodhana Pranayama",
+        "3 Best Postures For Pranayama",
+        "Bhastrika Pranayama",
+        "What is Mudra",
+        "What is Chin Mudra",
+        "Bhairava Mudra",
+        "Kapalbhati Pranayama",
+        "Breathing and Lifespan",
+        "Bhramari Pranayama",
+        "Sheetali Pranayama",
+        "Sheetkari Pranayama",
+        "Anulom Vilom Pranayama",
+        "Surya Bhedana Pranayama / Chandra Bhedi Pranayama",
+        "Antar Kumbhaka and Bahir Kumbhaka",
+        "Clavicular Pranayama",
+        "Thoracic Pranayama",
+        "Diaphragmatic Pranayama",
+        "Yogic Pranayama"
+      ]
+    },
+    {
+      "title": "Yoga Anatomy & Physiology",
+      "summary": null,
+      "items": [
+        "Introduction to the Human Body",
+        "Body Planes",
+        "Directional Terms of Anatomy",
+        "Human Cells, Types of Tissues, and Organs",
+        "Human Skeleton System",
+        "Axial and Appendicular Skeleton",
+        "Shoulder Girdle",
+        "Pelvic Girdle",
+        "Types of Joints",
+        "Angular Movements of the Human Body",
+        "Deformities of The Spine",
+        "Muscular System",
+        "Digestive System",
+        "Respiratory System",
+        "Lifestyle According to the Ayurveda",
+        "Kati Basti – Lower Back Pain Treatment Practice"
+      ]
+    },
+    {
+      "title": "Teaching Practice & Methodology",
+      "summary": null,
+      "items": [
+        "Demonstration",
+        "Instructions",
+        "Alignment",
+        "Adjustment"
+      ]
+    }
+  ],
+  "schedule": {
+    "heading": "Dates & Fees 2026",
+    "note": null,
+    "batches": [
+      {
+        "dates": "1st to 24th Mar 2026",
+        "status": "Closed"
+      },
+      {
+        "dates": "1st to 24th Apr 2026",
+        "status": "Closed"
+      },
+      {
+        "dates": "1st to 24th May 2026",
+        "status": "Closed"
+      },
+      {
+        "dates": "1st to 24th Jun 2026",
+        "status": "Available"
+      },
+      {
+        "dates": "1st to 24th July 2026",
+        "status": "Available"
+      },
+      {
+        "dates": "1st to 24th Aug 2026",
+        "status": "Available"
+      },
+      {
+        "dates": "1st to 24th Sep 2026",
+        "status": "Available"
+      },
+      {
+        "dates": "1st to 24th Oct 2026",
+        "status": "Available"
+      },
+      {
+        "dates": "1st to 24th Nov 2026",
+        "status": "Available"
+      },
+      {
+        "dates": "1st to 24th Dec 2026",
+        "status": "Available"
+      }
+    ]
+  },
+  "fees": {
+    "currency": "USD",
+    "discountLabelAsPublished": null,
+    "note": null,
+    "options": [
+      {
+        "group": null,
+        "label": "Private Room",
+        "detail": "All Inclusive",
+        "original": 3860,
+        "offer": 2700
+      },
+      {
+        "group": null,
+        "label": "Course with Room",
+        "detail": "No Meals",
+        "original": 2860,
+        "offer": 2000
+      },
+      {
+        "group": null,
+        "label": "Course with Meals",
+        "detail": "No Room",
+        "original": 2300,
+        "offer": 1600
+      },
+      {
+        "group": null,
+        "label": "No Room, No Meals",
+        "detail": "Course Only",
+        "original": 1720,
+        "offer": 1200
+      }
+    ],
+    "extras": []
+  },
+  "addOnHealing": [
+    {
+      "label": "Sound Healing Levels 1, 2 & 3",
+      "price": 500
+    },
+    {
+      "label": "Sound Healing Levels 2 & 3",
+      "price": 350
+    },
+    {
+      "label": "Sound Healing Levels 1 & 2",
+      "price": 350
+    },
+    {
+      "label": "Sound Healing Level 1",
+      "price": 200
+    },
+    {
+      "label": "Sound Healing Level 2",
+      "price": 200
+    },
+    {
+      "label": "Sound Healing Level 3",
+      "price": 200
+    },
+    {
+      "label": "Reiki Healing Levels 1, 2 & 3",
+      "price": 500
+    },
+    {
+      "label": "Reiki Healing Levels 2 & 3",
+      "price": 350
+    },
+    {
+      "label": "Reiki Healing Levels 1 & 2",
+      "price": 350
+    },
+    {
+      "label": "Reiki Healing Level 1",
+      "price": 200
+    },
+    {
+      "label": "Reiki Healing Level 2",
+      "price": 200
+    },
+    {
+      "label": "Reiki Healing Level 3",
+      "price": 200
+    }
+  ],
+  "addOnNote": "We arrange our Sound / Reiki Healing Courses during your break time so you can complete it by utilising the time and with just a little extra cost. You will cover 2 hours a day and it lasts for 2 days (for level 1), 4 days (for level 1&2), and 7 days (for level 1&2&3).",
+  "inclusions": [
+    "Accommodation-included options include one-day before check-in",
+    "Airport pickup from I Gusti Ngurah Rai International Airport (DPS)",
+    "3 daily vegetarian / vegan meals",
+    "1 complimentary Balinese massage",
+    "Yoga Alliance accredited certificate upon successful completion",
+    "Weekend excursions (temples, beaches, etc.)",
+    "Weekday events (kirtan, yoga workshops, special classes)",
+    "Complimentary Wi-Fi",
+    "School t-shirt and school bag",
+    "Course materials (notebook, pen, neti pot, rubber neti, eye cups)",
+    "PDF of 200hr YTT manuals",
+    "Yoga mats and props provided during training",
+    "On-site swimming pool access",
+    "Gym access (on site)"
+  ],
+  "exclusions": [],
+  "dailySchedule": [
+    {
+      "time": "5:30 am",
+      "activity": "Morning Bell"
+    },
+    {
+      "time": "6:00 – 7:00 am",
+      "activity": "Shatkarma & Pranayama"
+    },
+    {
+      "time": "7:00 – 8:30 am",
+      "activity": "Hatha Vinyasa Yoga"
+    },
+    {
+      "time": "08:30 am",
+      "activity": "Breakfast"
+    },
+    {
+      "time": "09:30 – 10:30 am",
+      "activity": "Alignment / Adjustment / Teaching Methodology"
+    },
+    {
+      "time": "10:30 – 11:30 am",
+      "activity": "Anatomy"
+    },
+    {
+      "time": "11:30 – 12:30 pm",
+      "activity": "Yoga Philosophy"
+    },
+    {
+      "time": "12:30 pm",
+      "activity": "Lunch"
+    },
+    {
+      "time": "13:30 – 15:30 pm",
+      "activity": "Sound Healing Class (only applicable for YTT + Healing Course participants)"
+    },
+    {
+      "time": "16:40 – 18:10 pm",
+      "activity": "Ashtanga Yoga"
+    },
+    {
+      "time": "18:10 pm",
+      "activity": "Tea Break"
+    },
+    {
+      "time": "18:30 – 19:30 pm",
+      "activity": "Meditation"
+    },
+    {
+      "time": "19:30 pm",
+      "activity": "Dinner"
+    },
+    {
+      "time": "21:30 pm",
+      "activity": "Lights Off"
+    }
+  ],
+  "dining": {
+    "text": "We serve plant-based meals, prepared with the highest standards of hygiene, cleanliness, and love to support your yoga journey. By following a plant-based diet during your training, you are in the practice of ahimsa.",
+    "mealTimes": [
+      "Breakfast: 09:00 – 10:00",
+      "Lunch: 12:00 – 13:00",
+      "Dinner: 19:00 – 20:00",
+      "Lunch & Dinner are not served on Sundays."
+    ]
+  },
+  "arrival": [],
+  "prerequisites": [
+    "A high level of self-motivation is essential for all aspects of the course. The practice, and especially the teaching of yoga, require a strong sense of self-discipline and purity."
+  ],
+  "policies": [
+    {
+      "title": "Evaluation",
+      "items": [
+        "Written Test",
+        "Asana Practical Test",
+        "Attendance",
+        "Performance",
+        "Behaviour"
+      ]
+    },
+    {
+      "title": "Discipline Rules",
+      "items": [
+        "Always maintain discipline, respect the teachers, and follow all rules.",
+        "Always be on time; late arrivals will not be permitted to join the class.",
+        "Visitors are not allowed to stay in the accommodation.",
+        "Attendance in all classes is mandatory. Leave may only be taken in cases of emergency or illness, and must be approved by the respective teacher.",
+        "Uninformed absences will not be accepted and will negatively impact the student's monthly performance."
+      ]
+    },
+    {
+      "title": "Refund Policy",
+      "items": [
+        "Deposits are non-refundable, but can be transferred to other upcoming courses at Bali Yoga School in any locations. The deposit is valid for a lifetime."
+      ]
+    }
+  ],
+  "faqs": [],
+  "teachersNamed": [
+    "Yogi Himanshu",
+    "Yogini Shanti",
+    "Yogini Nikki",
+    "Yogini Chiara",
+    "Yogi Pandu",
+    "Yogi Babloo",
+    "Yogi Chetan"
+  ],
+  "relatedLinks": [],
+  "youtube": [],
+  "issues": [
+    "Intro and meta description say '25 days' / '25-day immersion', but every batch runs 1st to 24th (24 calendar days) - duration left null (audit issue A2).",
+    "No hour calculation (training days x hours) is published on this page, unlike the 50/100/300 h Uluwatu pages.",
+    "KNOWN ISSUE (A13): both healing add-on notes say sessions are 'Conducted during free time in your Yoga Teacher Training Course at Himalayan Yoga Association' - Rishikesh school name copied from the Rishikesh template onto the Uluwatu page.",
+    "Intro claims 'We have witnessed students come in as unsure and walk away as confident' and 'friendships that usually last a lifetime' / 'teach yoga anywhere in the world' - marketing claims, not used.",
+    "Intro paragraph contains cross-sell sentence 'Join our Basic 50 Hour Yoga Course Uluwatu & 100 Hour Yoga TTC Uluwatu.' - removed.",
+    "Philosophy syllabus item 'India is the Birthplace of Yoga / Rishikesh - The World Capital of Yoga' on a Bali page (kept as published; review).",
+    "Anatomy syllabus includes 'Kati Basti - Lower Back Pain Treatment Practice' (therapeutic/medical claim) - review before publishing.",
+    "Syllabus heading reads '200 Hour Yoga Teacher Training In Bali - Course Syllabus' (generic Bali, not Uluwatu); terms heading reads 'TOC & Privacy Policy' but contains only prerequisites, discipline and refund rules.",
+    "OG image is '300-Hours-Yoga-Teacher-Training-In-Canggu-Bali.jpg' (another course/campus).",
+    "Evaluation heading grammar: 'Evaluation are based on' (kept as keyFact, reworded label only).",
+    "Daily Time Schedule shows Breakfast 08:30 am / Lunch 12:30 pm / Dinner 19:30 pm, but Meal Timings say Breakfast 09:00-10:00, Lunch 12:00-13:00, Dinner 19:00-20:00.",
+    "Inclusions list '3 daily vegetarian / vegan meals' while Meal Timings note says 'Lunch & Dinner are not served on Sundays'; also the meal-free and room-free fee options conflict with blanket inclusions (meals, accommodation one day before check-in).",
+    "Daily schedule includes a 'Sound Healing Class (only applicable for YTT + Healing Course participants)' slot at 13:30-15:30.",
+    "Batch statuses: Mar-May 2026 'Closed', Jun-Dec 2026 'Available' - several 'Available' batches are already past relative to capture date (2026-10-19); availability appears manually maintained (audit issue A14).",
+    "Fee boxes show two prices (original and offer) but no discount label text on the page; currency shown only as '$'.",
+    "Teacher bios and the founder block (Yogi Himanshu) are a shared site-wide block, not specific to this course; names recorded only.",
+    "Certifications block lists 'Yoga Alliance 200 hrs' and '300 hrs' certificates and IYS/IYO recognition generically; registration claims not verifiable from page text.",
+    "Original internal links to related courses are not preserved in the page capture (no hrefs), so relatedLinks is empty."
+  ]
+}

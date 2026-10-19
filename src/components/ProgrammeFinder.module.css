@@ -1,0 +1,34 @@
+.finder { background: var(--white); border: 1px solid var(--line); border-radius: var(--radius-lg); overflow: hidden; }
+.tabs {
+  display: flex; gap: 0; overflow-x: auto; scrollbar-width: none;
+  border-bottom: 1px solid var(--line); background: var(--cream);
+}
+.tabs::-webkit-scrollbar { display: none; }
+.tab {
+  flex: 0 0 auto; min-height: 52px; padding: 0 var(--space-5);
+  background: none; border: 0; border-bottom: 3px solid transparent; cursor: pointer;
+  font-family: var(--font-head); font-weight: 700; font-size: 0.98rem; color: var(--brown-2);
+  transition: color 0.2s ease, border-color 0.2s ease, background-color 0.2s ease;
+}
+.tab:hover { color: var(--brown); }
+.tab[aria-selected='true'] { color: var(--brown); border-bottom-color: var(--orange); background: var(--white); }
+.tab:focus-visible { outline-offset: -3px; }
+.panel { padding: var(--space-5); }
+.panel:focus-visible { outline-offset: -3px; }
+.panelHead {
+  display: flex; flex-wrap: wrap; gap: var(--space-2) var(--space-5); align-items: baseline; justify-content: space-between;
+  margin-bottom: var(--space-5);
+}
+.panelHead p { margin: 0; max-width: 60ch; color: var(--brown-2); }
+.columns { display: grid; gap: var(--space-5) var(--space-4); grid-template-columns: repeat(auto-fit, minmax(min(100%, 150px), 1fr)); }
+.colTitle { font-size: var(--fs-sm); color: var(--brown-2); margin-bottom: var(--space-2); }
+.col ul { list-style: none; margin: 0; padding: 0; }
+.col li { margin: 0; border-top: 1px solid var(--line); }
+.col a {
+  display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline; gap: 0 var(--space-3);
+  padding: 9px 0; text-decoration: none; color: var(--brown);
+  font-family: var(--font-head); font-weight: 700; font-size: 0.97rem;
+}
+.col a:hover span { color: var(--burnt); text-decoration: underline; }
+.col small { font-family: var(--font-body); font-weight: 400; color: var(--brown-2); font-size: var(--fs-xs); white-space: nowrap; }
+@media (min-width: 900px) { .panel { padding: var(--space-6); } }

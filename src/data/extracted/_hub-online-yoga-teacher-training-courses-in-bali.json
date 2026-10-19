@@ -1,0 +1,62 @@
+{
+  "path": "/online-yoga-teacher-training-courses-in-bali/",
+  "title": "Certified Online Yoga Teacher Training Courses from Bali",
+  "metaTitle": "Online Yoga Teacher Training Courses / Specialised Yoga Courses",
+  "metaDescription": "Yoga Alliance certified Online Yoga Teacher Training Course and Specialised Yoga Courses from the top-leading yoga school in Bali.",
+  "intro": [
+    "Enroll in our Yoga Alliance certified Online Yoga Teacher Training Course with Bali Yoga School. Our course materials are filmed and prepared in Bali and in Rishikesh, India. We offer a structured syllabus designed to give you a profound understanding of yoga fundamentals.",
+    "These self-paced courses include live online classes and pre-recorded sessions, covering each topic and subject with clear explanations and demonstrations. All classes are optimized for low internet speeds. Gain access to over 150+ pre-recorded HD quality yoga sessions in Meditation, Pranayama, Yoga Philosophy, Yoga Anatomy, Ashtanga Vinyasa Yoga, and Hatha Vinyasa Yoga. You’ll also receive a digital PDF course manual to keep for life, plus one-year access to all our pre-recorded classes."
+  ],
+  "listedItems": [
+    {
+      "title": "Part 1 / 100 Hour Online Yoga Teacher Training Course",
+      "path": "/courses/online-100-hour-yoga-certification-course-in-bali/",
+      "stated": "self-paced; access to the pre-recorded sessions and the ability to join live Zoom classes for an entire year",
+      "pathInferred": true
+    },
+    {
+      "title": "Part 2 / 100 Hour Online Yoga Teacher Training Course",
+      "path": null,
+      "stated": "Self-paced online course, you can complete your online yoga teacher training within 3 to 6 months",
+      "note": "No Part 2 / 100 h online course page exists in the crawl."
+    },
+    {
+      "title": "200 Hour Online Yoga Teacher Training Course",
+      "path": "/courses/200-hour-online-yoga-teacher-training-in-bali/",
+      "stated": "more than 150 hours of pre-recorded sessions ... enhanced with live Zoom classes",
+      "pathInferred": true,
+      "note": "Could alternatively be /courses/200-hour-online-yoga-teacher-training-certification-course/ — card copy (150 h + live Zoom) matches the -in-bali page."
+    },
+    {
+      "title": "300 Hour Online Yoga Teacher Training Course",
+      "path": "/courses/300-hours-online-yoga-teacher-training-in-bali/",
+      "stated": "for people who have previously completed a 200 hour yoga teacher training",
+      "pathInferred": true
+    },
+    {
+      "title": "500 Hour Online Yoga Teacher Training Course",
+      "path": "/courses/500-hour-online-yoga-certification-course-in-bali/",
+      "stated": "spending with like-minded people under the same roof for 2 months",
+      "pathInferred": true
+    }
+  ],
+  "extraSections": [
+    {
+      "heading": "Yoga Alliance Certified Online Yoga Teacher Training Courses from Bali",
+      "paragraphs": [
+        "Yoga Teacher Training | Click the photos or ‘Learn More’ to see the details of the courses."
+      ]
+    }
+  ],
+  "mapLabel": "Location of Bali Yoga School in Bali, Indonesia (map embed labelled 'Bali Yoga School', Ubud)",
+  "issues": [
+    "Card link targets (hrefs) were not captured in the source audit; listedItems[].path values marked pathInferred=true were matched by card wording (hours/level/campus) to existing course URLs in pages-index.csv — verify against the live site.",
+    "500 h card is in-person copy on an online hub: 'You will be spending with like-minded people under the same roof for 2 months. Practicing and learning yoga intensely yet with a lot of joyful events and excursions'.",
+    "Part 1 / 100 h card says students can 'join live Zoom classes for an entire year', but the 100 h online course page mentions no live classes (pre-recorded only, 30 days–3 months).",
+    "Part 2 / 100 h card says 'within 3 to 6 months'; there is no Part 2 course page; the Part 1 page says 30 days to 3 months.",
+    "Hub intro says 'one-year access'; 15-day courses give one-month access and the 500 h page promises lifetime access.",
+    "Hub claims materials were 'filmed and prepared in Bali and in Rishikesh'; course pages say recordings were made in Rishikesh, India.",
+    "Title says 'Specialised Yoga Courses' but no specialised courses are listed on this page (they are on /online-specialized-yoga-courses/).",
+    "Typo on page: 'Lean More'. Unverified claims not used: 'top-leading yoga school in Bali', 'one of the premier yoga schools in the world', 'leading yoga school in Bali', 'top-tier professionals', 'the best yoga course you can ever find'."
+  ]
+}

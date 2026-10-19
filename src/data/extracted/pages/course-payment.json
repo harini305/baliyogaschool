@@ -1,0 +1,113 @@
+{
+  "slug": "course-payment",
+  "path": "/course-payment/",
+  "sourceFile": "content/pages/course-payment.md",
+  "title": "Course Payment",
+  "metaTitle": "Course Payment",
+  "metaDescription": "",
+  "intro": [],
+  "sections": [
+    {
+      "heading": "Advance Booking Fee",
+      "paragraphs": [
+        "To secure a place in the course, participants are required to pay a non-refundable advance booking fee. The advance booking fee includes a 3% surcharge that covers currency conversion and bank fees."
+      ],
+      "list": [],
+      "subsections": [
+        {
+          "heading": "Booking confirmation letter",
+          "paragraphs": [
+            "An official booking confirmation letter will be sent shortly after the successful deposit of the advance amount."
+          ],
+          "list": []
+        }
+      ]
+    },
+    {
+      "heading": "Course Balance Fee",
+      "paragraphs": [
+        "The remaining balance of the course fee can be paid upon arrival at the school by credit card, debit card, or cash. For participants choosing to pay the balance through online banking platforms, cards, or third-party apps, please note that an additional 3% surcharge will apply. This surcharge covers transaction fees imposed by the payment provider, including foreign transaction and currency conversion charges."
+      ],
+      "list": [],
+      "subsections": []
+    },
+    {
+      "heading": "Course Balance Fee In Cash",
+      "paragraphs": [
+        "Cash is still the most widely used payment method in Bali, Indonesia, and most foreign currencies are accepted, including INR, JPY, USD, EUR, GBP, AUD, CAD, KRW, CNY, and many more."
+      ],
+      "list": [],
+      "subsections": []
+    },
+    {
+      "heading": "Advance Booking Fee Payment Options",
+      "paragraphs": [
+        "Advance Booking Fee (Yoga Teacher Training Courses)",
+        "Advance Booking Fee (Yoga Retreats / Yoga Healing / Yoga Ayurveda)"
+      ],
+      "list": [],
+      "subsections": []
+    }
+  ],
+  "paymentLinksAsPublished": [
+    {
+      "label": "Advance Booking Fee (Yoga Teacher Training Courses)",
+      "provider": "Razorpay",
+      "url": "https://rzp.io/l/oPEyEy1W",
+      "source": "audit 06 §3 (link targets of the image buttons on /course-payment/; not followed)"
+    },
+    {
+      "label": "Advance Booking Fee (Yoga retreats / Yoga Healing / Yoga Ayurveda)",
+      "provider": "Razorpay",
+      "url": "https://rzp.io/rzp/2OO1Ppd",
+      "source": "audit 06 §3 (not followed)"
+    },
+    {
+      "label": "Course fee payment (linked from other pages)",
+      "provider": "Razorpay",
+      "url": "https://rzp.io/l/course-fee-payment",
+      "source": "audit 06 §3 – used on other pages, not on /course-payment/"
+    },
+    {
+      "label": "Pay with PayPal (linked from other pages)",
+      "provider": "PayPal.me",
+      "url": "https://www.paypal.com/paypalme/himalayanyogaashram?locale.x=en_GB",
+      "source": "content/pages/courses__500-hour-online-yoga-certification-course-in-bali.md – account name belongs to Himalayan Yoga Ashram"
+    }
+  ],
+  "bankDetailsAsPublished": {
+    "doNotPublish": true,
+    "headingsAsPublished": ["Our Bank Details", "Bank Details", "Bank Details"],
+    "accounts": [
+      {
+        "verbatim": "Bank name: Bank Rakyat Indonesia\nAccount name: PT Bali Yoga School and Retreat\nAccount no: 057501000584564\nAddress: JL Campuhan III\nSingakerta, Ubud 8057, Gianyar, Bali, Indonesia",
+        "bankName": "Bank Rakyat Indonesia",
+        "accountName": "PT Bali Yoga School and Retreat",
+        "accountNumber": "057501000584564",
+        "address": "JL Campuhan III, Singakerta, Ubud 8057, Gianyar, Bali, Indonesia"
+      },
+      {
+        "verbatim": "Account Name- Himanshu Joshi\nAccount Number- 9939071811\nBank Name- Permata Bank\nBank Address- JL Raya An dong BR. Ambengan Peliatan Ubud Gianyar 80571\nSwift Code – BBBAIDJA\nLocal Code – 13\nBank Code – 013-0284",
+        "bankName": "Permata Bank",
+        "accountName": "Himanshu Joshi",
+        "accountNumber": "9939071811",
+        "bankAddress": "JL Raya An dong BR. Ambengan Peliatan Ubud Gianyar 80571",
+        "swiftCode": "BBBAIDJA",
+        "localCode": "13",
+        "bankCode": "013-0284"
+      }
+    ]
+  },
+  "faqs": [],
+  "issues": [
+    "Bank details recorded for the record only – NOT to be published on the demo site. The second account is a personal account (Himanshu Joshi), not the company PT.",
+    "Postcode 8057 in the BRI bank address is a typo for 80571 (A8 in 08-issues-gaps-questions.md).",
+    "SWIFT code ‘BBBAIDJA’ is published for a Permata Bank account; BBBAIDJA is Permata’s SWIFT prefix but the listed ‘Local Code – 13’ and ‘Bank Code – 013-0284’ should be verified with the owner. ‘JL Raya An dong’ likely means ‘Jl. Raya Andong’.",
+    "Cash currencies list includes INR first – suggests India-site origin; FAQ also says cash in ‘INR or USD’. Accepting arbitrary foreign currencies in cash should be confirmed.",
+    "No deposit amount is stated on this page; /course-registration/ states $250 USD. The 3% surcharge appears twice (on the advance fee and on balance paid online/by card); Terms §5 says students bear transfer/card/conversion fees – consistent, but the wording ‘credit card… or cash’ on arrival followed by ‘cards… 3% surcharge’ is ambiguous about whether card payment on arrival incurs 3%.",
+    "PayPal.me account name ‘himalayanyogaashram’ belongs to the sister India business; Razorpay is an India payment gateway.",
+    "Razorpay/PayPal URLs come from audit 06 §3 and another page capture; the links were not followed and may be dead.",
+    "The two ‘Advance Booking Fee’ H2s on the original are image/button headings (payment links), recorded under ‘Advance Booking Fee Payment Options’.",
+    "No meta description and no H1 on the original."
+  ]
+}
