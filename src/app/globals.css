@@ -50,12 +50,12 @@
   --space-4: 1rem;
   --space-5: 1.5rem;
   --space-6: 2rem;
-  --space-7: 3rem;
-  --space-8: clamp(3rem, 2rem + 3vw, 4.5rem);   /* section padding */
+  --space-7: 2.5rem;
+  --space-8: clamp(2.5rem, 1.75rem + 2vw, 3.5rem);   /* section padding */
 
-  --container: 1180px;
+  --container: 1320px;
   --narrow: 760px;
-  --gutter: clamp(16px, 4vw, 40px);
+  --gutter: clamp(16px, 4vw, 56px);
   --radius: 6px;
   --radius-lg: 12px;
   --header-h: 68px;
@@ -81,7 +81,14 @@ body {
   line-height: 1.7;
   overflow-x: clip;
   text-rendering: optimizeLegibility;
+  /* Full-height column: the footer always reaches the bottom of the window, even on short pages. */
+  min-height: 100vh;
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
 }
+body > main { flex: 1 0 auto; }
+body > header, body > footer { flex-shrink: 0; }
 
 h1, h2, h3, h4 {
   font-family: var(--font-head);
@@ -147,7 +154,7 @@ table { border-collapse: collapse; width: 100%; }
 .narrow { max-width: calc(var(--narrow) + 2 * var(--gutter)); }
 
 .section { padding-block: var(--space-8); }
-.section--tight { padding-block: var(--space-7); }
+.section--tight { padding-block: var(--space-6); }
 .section--cream { background: var(--cream); }
 .section--sand { background: var(--sand); }
 .section + .section--plain { padding-top: 0; }

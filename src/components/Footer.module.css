@@ -24,7 +24,7 @@
 .col li a { display: inline-block; padding: 4px 0; }
 .colTitle { font-family: var(--font-head); font-weight: 700; color: var(--white); margin: 0 0 var(--space-2); }
 .bottom {
-  border-top: 1px solid rgba(243, 233, 223, 0.16);
+  position: relative;
   padding-block: var(--space-4) var(--space-5);
   display: flex;
   flex-wrap: wrap;
@@ -34,6 +34,8 @@
   font-size: var(--fs-xs);
 }
 .bottom p { margin: 0; }
+/* Divider aligned with the content edges (the container's padding is the gutter). */
+.bottom::before { content: ''; position: absolute; top: 0; left: var(--gutter); right: var(--gutter); border-top: 1px solid rgba(243, 233, 223, 0.16); }
 
 @media (min-width: 768px) {
   .grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
