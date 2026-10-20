@@ -104,7 +104,14 @@
 .faqBody { padding: 0 0 var(--space-5); max-width: 70ch; }
 
 /* CTA band */
-.cta { background: var(--burnt); color: var(--white); padding-block: var(--space-7); }
+.cta {
+  background: var(--burnt); color: var(--white); padding-block: var(--space-7);
+  /* Closing band grows so that band + footer exactly fill the window below the sticky header. */
+  min-height: calc(100vh - var(--header-h) - var(--footer-h));
+  min-height: calc(100svh - var(--header-h) - var(--footer-h));
+  display: flex; align-items: center;
+}
+.cta > * { width: 100%; }
 .ctaInner { display: flex; flex-wrap: wrap; gap: var(--space-5); align-items: center; justify-content: space-between; }
 .ctaInner > div:first-child { max-width: 620px; }
 .ctaTitle { color: var(--white); font-size: var(--fs-h3); margin-bottom: var(--space-2); }

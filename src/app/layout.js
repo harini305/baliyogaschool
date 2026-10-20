@@ -3,6 +3,7 @@ import './globals.css';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import Motion from '@/components/Motion';
+import FooterFit from '@/components/FooterFit';
 import { site } from '@/data/site';
 
 // Two families only. Architects Daughter is the closest available match to the hand-drawn
@@ -29,6 +30,7 @@ export default function RootLayout({ children }) {
         <main id="main" tabIndex={-1}>{children}</main>
         <Footer />
         <Motion />
+        <FooterFit />
       </body>
     </html>
   );
