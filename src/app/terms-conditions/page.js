@@ -13,7 +13,7 @@ export default function Terms() {
   const page = contentPage('terms-conditions');
   return (
     <>
-      <PageHero crumbs={[{ label: 'Terms & conditions' }]} eyebrow="Policies" title="Terms & conditions and refund policy" lead={page.intro?.[0]} />
+      <PageHero crumbs={[{ label: 'Terms & conditions' }]} title="Terms & conditions and refund policy" lead={page.intro?.[0]} />
       <section className="section">
         <div className="container narrow">
           <p className="notice" style={{ marginBottom: 'var(--space-6)' }}>

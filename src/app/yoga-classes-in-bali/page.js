@@ -14,7 +14,6 @@ export default function DropIn() {
     <>
       <PageHero
         crumbs={[{ label: 'Retreats', href: '/yoga-retreats-in-bali/' }, { label: 'Drop-in classes' }]}
-        eyebrow="Ubud"
         title="Daily drop-in yoga classes"
         lead="Daily drop-in classes are held separately: they are not part of any course or retreat programme. Classes are adapted for beginner, intermediate and advanced practitioners."
         image="class-seated"

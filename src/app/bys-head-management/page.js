@@ -15,7 +15,6 @@ export default function Management() {
     <>
       <PageHero
         crumbs={[{ label: 'About', href: '/about-bali-yoga-school/' }, { label: 'Management team' }]}
-        eyebrow="The people behind our community"
         title="Head management team"
         lead="Behind every class, course and student experience is a dedicated team working with care and purpose, supporting leadership, student care, daily operations, technology and community coordination."
       >

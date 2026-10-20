@@ -9,7 +9,7 @@ export default function HubPage({ hub }) {
   const crumbs = [{ label: hub.title }];
   return (
     <>
-      <PageHero crumbs={crumbs} eyebrow={hub.eyebrow} title={hub.title} lead={lead} image={hub.image}>
+      <PageHero crumbs={crumbs} title={hub.title} lead={lead} image={hub.image}>
         {hub.sections.length > 1 && hub.sections.map((sec) => (
           <a key={sec.id} href={`#${sec.id}`} className="btn btn--secondary btn--small">{sec.title.replace(/ \(.*\)$/, '')}</a>
         ))}

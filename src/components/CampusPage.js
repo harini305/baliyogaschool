@@ -9,7 +9,7 @@ export default function CampusPage({ campus, title, lead, paragraphs = [], point
   const other = filterProgrammes((p) => p.location === campus.key && !['multistyle', 'yin'].includes(p.sub));
   return (
     <>
-      <PageHero crumbs={[{ label: 'Campuses' }, { label: campus.name }]} eyebrow="Campus" title={title} lead={lead} image={campus.image}>
+      <PageHero crumbs={[{ label: 'Campuses' }, { label: campus.name }]} title={title} lead={lead} image={campus.image}>
         <Link className="btn btn--primary" href={campus.hub}>Courses in {campus.name}</Link>
         <Link className="btn btn--secondary" href="/contact/">Enquire</Link>
       </PageHero>

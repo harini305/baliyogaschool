@@ -123,7 +123,6 @@ export default function ProgrammePage({ p }) {
     <>
       <PageHero
         crumbs={crumbs}
-        eyebrow={KIND_LABEL[p.sub]}
         title={p.title}
         lead={lead}
         image={p.image}

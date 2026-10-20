@@ -35,7 +35,6 @@ export default function Affiliations() {
     <>
       <PageHero
         crumbs={[{ label: 'About', href: '/about-bali-yoga-school/' }, { label: 'Accreditation' }]}
-        eyebrow="Accreditation"
         title="Accreditation and affiliations"
         lead="Bali Yoga School is a Yoga Alliance USA Registered Yoga School (RYS), and an IYS® certified International Yoga School under the International Yoga Organisation (IYO®)."
       />

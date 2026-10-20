@@ -24,7 +24,7 @@ export default function Registration() {
   }
   return (
     <>
-      <PageHero crumbs={[{ label: 'Registration' }]} eyebrow="Plan your stay" title="Course registration" lead="Applying for a course takes three steps. This page reproduces the original application form as a preview: it checks your answers but does not send them." />
+      <PageHero crumbs={[{ label: 'Registration' }]} title="Course registration" lead="Applying for a course takes three steps. This page reproduces the original application form as a preview: it checks your answers but does not send them." />
       <section className="section">
         <div className={`container ${s.twoCol}`}>
           <div data-reveal>

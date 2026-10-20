@@ -18,7 +18,6 @@ export default function Founder() {
     <>
       <PageHero
         crumbs={[{ label: 'About', href: '/about-bali-yoga-school/' }, { label: 'Founder' }]}
-        eyebrow="Founder"
         title="Yogi Himanshu Joshi"
         lead={founder.role}
         image="founder"

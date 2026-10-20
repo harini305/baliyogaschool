@@ -89,7 +89,6 @@ export default function Home() {
       <section className={s.hero}>
         <div className={`container ${s.heroGrid}`}>
           <div className={s.heroText}>
-            <p className="eyebrow" data-hero-in>Ubud · Uluwatu · Canggu · Rishikesh</p>
             <h1 className={s.heroTitle} data-hero-in>Yoga teacher training and retreats in Bali</h1>
             <p className={`lead ${s.heroLead}`} data-hero-in>
               We believe yoga teacher training should offer more than certification: real knowledge and skill to apply in your daily life after graduation.
@@ -121,7 +120,7 @@ export default function Home() {
       {/* Finder */}
       <section className="section" aria-labelledby="find">
         <div className="container">
-          <SectionHead id="find" eyebrow="Courses and retreats" title="Find your programme" intro="Choose a type of programme to see the options at each campus. Every course page lists its own dates, published fees, syllabus and daily schedule." />
+          <SectionHead id="find" title="Find your programme" intro="Choose a type of programme to see the options at each campus. Every course page lists its own dates, published fees, syllabus and daily schedule." />
           <div data-reveal><ProgrammeFinder tabs={tabs} /></div>
         </div>
       </section>
@@ -129,7 +128,7 @@ export default function Home() {
       {/* Campuses */}
       <section className="section section--cream" aria-labelledby="campuses">
         <div className="container">
-          <SectionHead id="campuses" eyebrow="Where we teach" title="Three campuses in Bali, and a sister school in Rishikesh" />
+          <SectionHead id="campuses" title="Three campuses in Bali, and a sister school in Rishikesh" />
           <div className={s.campuses} data-reveal-group>
             {['ubud', 'uluwatu', 'canggu', 'rishikesh'].map((k) => {
               const c = campuses[k];
@@ -155,7 +154,6 @@ export default function Home() {
             <Img name="founder" sizes="(min-width: 900px) 380px, 80vw" />
           </div>
           <div data-reveal>
-            <p className="eyebrow">Founder</p>
             <h2 id="founder">{founder.name}</h2>
             <p>{founder.short}</p>
             <blockquote className={s.quote}>
@@ -173,7 +171,6 @@ export default function Home() {
       <section className="section section--sand" aria-labelledby="accreditation">
         <div className={`container ${s.accred}`}>
           <div data-reveal>
-            <p className="eyebrow">Accreditation</p>
             <h2 id="accreditation">Registered with Yoga Alliance</h2>
             <p>Bali Yoga School holds Yoga Alliance registration certificates for 200-hour and 300-hour teacher training (RYS 200 and RYS 300), and IYS® International Yoga School certification from the International Yoga Organisation.</p>
             <Link className="text-link" href="/bys-affiliations/">View the certificates</Link>
@@ -189,7 +186,7 @@ export default function Home() {
       {/* Reviews */}
       <section className="section" aria-labelledby="reviews">
         <div className="container">
-          <SectionHead id="reviews" eyebrow="Student reviews" title="In our students’ words" action={<Link className="text-link" href="/bali-yoga-school-reviews/">Read all reviews</Link>} />
+          <SectionHead id="reviews" title="In our students’ words" action={<Link className="text-link" href="/bali-yoga-school-reviews/">Read all reviews</Link>} />
           <div className={s.reviews} data-reveal-group>
             {featured.map((r) => (
               <figure key={r.name} className={s.review}>
@@ -206,7 +203,6 @@ export default function Home() {
         <div className={`container ${s.sisterInner}`}>
           <div className={`frame ${s.sisterImage}`} data-parallax><Img name="rishikesh-terrace" sizes="(min-width: 900px) 50vw, 100vw" /></div>
           <div className={s.sisterText} data-reveal>
-            <p className="eyebrow">Rishikesh, India</p>
             <h2 id="sister">Himalayan Yoga Association</h2>
             <p>The head school branch of Bali Yoga School, in Rishikesh, India. Yogi Himanshu established Himalayan Yoga Association years before Bali Yoga School.</p>
             <Link className="btn btn--secondary" href="/yoga-teacher-training-courses-in-rishikesh-india/">Training in Rishikesh</Link>
@@ -218,7 +214,6 @@ export default function Home() {
       <section className="section section--cream" aria-labelledby="home-faq">
         <div className={`container ${s.faq}`}>
           <div data-reveal>
-            <p className="eyebrow">FAQ</p>
             <h2 id="home-faq">Everything you need to know about our yoga courses</h2>
             <Link className="text-link" href="/frequently-asked-questions-faq/">All questions and answers</Link>
           </div>

@@ -29,7 +29,6 @@ export default function CoursesPage() {
     <>
       <PageHero
         crumbs={[{ label: 'Courses' }]}
-        eyebrow="Courses"
         title="All courses"
         lead="Teacher training from 50 to 500 hours, Yin yoga training, healing and short courses, and online study. Select a course to see its syllabus, published dates and fees."
         image="class-upward-dog"

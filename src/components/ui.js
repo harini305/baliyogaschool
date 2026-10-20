@@ -24,13 +24,12 @@ export function Breadcrumbs({ items }) {
 }
 
 // Split hero: text beside an original photograph, or text-only when no suitable photo exists.
-export function PageHero({ crumbs, eyebrow, title, lead, image, imagePosition, facts, children, tone = 'cream' }) {
+export function PageHero({ crumbs, title, lead, image, imagePosition, facts, children, tone = 'cream' }) {
   return (
     <section className={`${s.hero} ${tone === 'sand' ? s.heroSand : ''} ${image ? '' : s.heroPlain}`}>
       <div className={`container ${s.heroGrid}`}>
         <div className={s.heroText}>
           {crumbs && <Breadcrumbs items={crumbs} />}
-          {eyebrow && <p className="eyebrow" data-hero-in>{eyebrow}</p>}
           <h1 data-hero-in>{title}</h1>
           {lead && <p className={`lead ${s.heroLead}`} data-hero-in>{lead}</p>}
           {facts?.length > 0 && (
@@ -52,11 +51,10 @@ export function PageHero({ crumbs, eyebrow, title, lead, image, imagePosition, f
   );
 }
 
-export function SectionHead({ eyebrow, title, intro, id, action }) {
+export function SectionHead({ title, intro, id, action }) {
   return (
     <div className={action ? 'section-head section-head--row' : 'section-head'} data-reveal>
       <div>
-        {eyebrow && <p className="eyebrow">{eyebrow}</p>}
         <h2 id={id}>{title}</h2>
         {intro && <p>{intro}</p>}
       </div>
@@ -83,7 +81,6 @@ export function ProgrammeCard({ p, showCampus = true, headingLevel = 3 }) {
         {p.image ? <Img name={p.image} sizes="(min-width: 1080px) 360px, (min-width: 640px) 45vw, 100vw" /> : <div className={s.cardPlaceholder} aria-hidden="true" />}
       </div>
       <div className={s.cardBody}>
-        <p className={s.cardKicker}>{showCampus && p.campus ? `${p.campus.name} · ` : ''}{KIND_LABEL[p.sub]}</p>
         <H className={s.cardTitle}><Link href={p.path} className={s.stretched}>{p.displayTitle || p.title}</Link></H>
         {meta.length > 0 && <p className={s.cardMeta}>{meta.join(' · ')}</p>}
         {p.lowestFee && <p className={s.cardFee}>Published fees from {money(p.lowestFee)}</p>}

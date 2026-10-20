@@ -23,7 +23,7 @@ export default function FaqPage() {
 
   return (
     <>
-      <PageHero crumbs={[{ label: 'FAQ' }]} eyebrow="FAQ" title="Frequently asked questions" lead="Answers to common questions about the courses, certification, travel, accommodation and food, as published by the school. Course-specific details are on each course page." />
+      <PageHero crumbs={[{ label: 'FAQ' }]} title="Frequently asked questions" lead="Answers to common questions about the courses, certification, travel, accommodation and food, as published by the school. Course-specific details are on each course page." />
       <section className="section">
         <div className={`container ${s.layout}`}>
           <nav className={s.toc} aria-label="FAQ topics">

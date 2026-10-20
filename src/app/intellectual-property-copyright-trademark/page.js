@@ -17,7 +17,6 @@ export default function IpPolicy() {
     <>
       <PageHero
         crumbs={[{ label: 'Trademark & IP policy' }]}
-        eyebrow="Legal"
         title="Intellectual property, copyright and trademark policy"
         lead={page.notice?.paragraphs?.[0]}
         facts={[meta.effectiveDate && { label: 'Effective', value: meta.effectiveDate }, meta.lastUpdated && { label: 'Last updated', value: meta.lastUpdated }].filter(Boolean)}

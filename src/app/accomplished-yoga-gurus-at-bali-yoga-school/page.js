@@ -15,7 +15,6 @@ export default function Teachers() {
     <>
       <PageHero
         crumbs={[{ label: 'About', href: '/about-bali-yoga-school/' }, { label: 'Teachers' }]}
-        eyebrow="Faculty"
         title="Our yoga teachers"
         lead="The teachers who guide students through traditional practice, teaching methodology, meditation, philosophy, pranayama and healing disciplines at Bali Yoga School."
       >

@@ -18,7 +18,6 @@ export default function About() {
     <>
       <PageHero
         crumbs={[{ label: 'About' }]}
-        eyebrow="About the school"
         title="About Bali Yoga School"
         lead="Under the guidance of Yogi Himanshu, Bali Yoga School focuses on sharing traditional yogic teachings."
         image="certificates-group"

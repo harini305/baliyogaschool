@@ -14,7 +14,7 @@ export default function Blog() {
   const posts = blogPosts();
   return (
     <>
-      <PageHero crumbs={[{ label: 'Blog' }]} eyebrow="Blog" title="From the blog" lead="Selected articles from Bali Yoga School." />
+      <PageHero crumbs={[{ label: 'Blog' }]} title="From the blog" lead="Selected articles from Bali Yoga School." />
       <section className="section">
         <div className="container">
           <div className={s.list}>

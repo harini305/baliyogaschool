@@ -16,7 +16,7 @@ export default function Payment() {
   const sections = page.sections.filter((x) => !/Payment Options/i.test(x.heading));
   return (
     <>
-      <PageHero crumbs={[{ label: 'Payment policy' }]} eyebrow="Plan your stay" title="Course payment policy" lead="How the advance booking fee and the remaining course balance are paid, as described on the original payment page." />
+      <PageHero crumbs={[{ label: 'Payment policy' }]} title="Course payment policy" lead="How the advance booking fee and the remaining course balance are paid, as described on the original payment page." />
       <section className="section">
         <div className="container narrow">
           <p className="notice" style={{ marginBottom: 'var(--space-6)' }}>

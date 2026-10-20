@@ -8,7 +8,7 @@ const by = (sub, loc) => (p) => p.sub === sub && (!loc || p.location === loc);
 
 export const HUBS = {
   'yin-yoga-ttc': {
-    route: 'courses_group', eyebrow: 'Yin yoga', image: 'mandala-rest',
+    route: 'courses_group', image: 'mandala-rest',
     title: 'Yin Yoga Teacher Training',
     intro: [],
     lead: 'Yin yoga teacher training at the Ubud, Uluwatu and Canggu campuses. Each course page lists its own syllabus, published dates and fees.',
@@ -18,8 +18,7 @@ export const HUBS = {
       { id: 'canggu', title: 'Canggu', filter: by('yin', 'canggu'), view: 'grid' },
     ],
   },
-  'yoga-teacher-training-courses-in-ubud-bali': {
-    eyebrow: 'Ubud, Bali', image: 'shala-garden', campus: 'ubud',
+  'yoga-teacher-training-courses-in-ubud-bali': { image: 'shala-garden', campus: 'ubud',
     title: 'Yoga Teacher Training Courses in Ubud, Bali',
     intro: [0, 2], // [1] omitted: describes the Rishikesh curriculum
     sections: [
@@ -27,8 +26,7 @@ export const HUBS = {
       { id: 'yin', title: 'Yin yoga teacher training', filter: by('yin', 'ubud'), view: 'grid' },
     ],
   },
-  'yoga-teacher-trainings-in-uluwatu-bali': {
-    eyebrow: 'Uluwatu, Bali', image: 'uluwatu-pool-day', campus: 'uluwatu',
+  'yoga-teacher-trainings-in-uluwatu-bali': { image: 'uluwatu-pool-day', campus: 'uluwatu',
     title: 'Yoga Teacher Trainings in Uluwatu, Bali',
     intro: [0, 1, 2],
     sections: [
@@ -36,8 +34,7 @@ export const HUBS = {
       { id: 'yin', title: 'Yin yoga teacher training', filter: by('yin', 'uluwatu'), view: 'grid' },
     ],
   },
-  'yoga-teacher-trainings-in-canggu-bali': {
-    eyebrow: 'Canggu, Bali', image: 'canggu-building', campus: 'canggu',
+  'yoga-teacher-trainings-in-canggu-bali': { image: 'canggu-building', campus: 'canggu',
     title: 'Yoga Teacher Trainings in Canggu, Bali',
     intro: [0, 2],
     highlights: 'Key Highlights of Yoga Teacher Training Courses in Canggu, Bali',
@@ -46,8 +43,7 @@ export const HUBS = {
       { id: 'yin', title: 'Yin yoga teacher training', filter: by('yin', 'canggu'), view: 'grid' },
     ],
   },
-  'yoga-teacher-training-courses-in-rishikesh-india': {
-    eyebrow: 'Rishikesh, India · Sister school', image: 'rishikesh-terrace', campus: 'rishikesh',
+  'yoga-teacher-training-courses-in-rishikesh-india': { image: 'rishikesh-terrace', campus: 'rishikesh',
     title: 'Yoga Teacher Training Courses in Rishikesh, India',
     intro: [0, 1, 2, 3],
     sections: [
@@ -55,8 +51,7 @@ export const HUBS = {
     ],
     note: 'Yin teacher training, healing courses and retreats in Rishikesh were listed on the original site as links to the Himalayan Yoga Association website and are not reproduced here.',
   },
-  'healing-courses-in-bali': {
-    eyebrow: 'Healing courses', image: 'sound-bowls',
+  'healing-courses-in-bali': { image: 'sound-bowls',
     title: 'Healing Courses in Bali',
     intro: [0, 1],
     sections: [
@@ -68,8 +63,7 @@ export const HUBS = {
     ],
     links: [{ label: 'Healing courses in Uluwatu', href: '/healing-courses-in-uluwatu-bali/' }],
   },
-  'healing-courses-in-uluwatu-bali': {
-    eyebrow: 'Uluwatu, Bali', image: 'reiki-hands',
+  'healing-courses-in-uluwatu-bali': { image: 'reiki-hands',
     title: 'Healing Courses in Uluwatu, Bali',
     intro: [0, 1],
     sections: [
@@ -78,8 +72,7 @@ export const HUBS = {
       { id: 'ayurveda', title: 'Ayurveda', filter: by('ayurveda', 'uluwatu'), view: 'list' },
     ],
   },
-  'sound-healing-courses-in-bali': {
-    eyebrow: 'Healing courses', image: 'sound-bowls',
+  'sound-healing-courses-in-bali': { image: 'sound-bowls',
     title: 'Sound Healing Courses in Bali',
     intro: [0], extra: 'Certified Sound Healing Courses in Bali',
     sections: [
@@ -88,8 +81,7 @@ export const HUBS = {
       { id: 'canggu', title: 'Canggu', filter: by('sound', 'canggu'), view: 'list' },
     ],
   },
-  'reiki-healing-courses-in-bali': {
-    eyebrow: 'Healing courses', image: 'reiki-wide',
+  'reiki-healing-courses-in-bali': { image: 'reiki-wide',
     title: 'Reiki Healing Courses in Bali',
     intro: [0], extra: 'Certified Reiki Healing Courses in Bali',
     sections: [
@@ -98,14 +90,12 @@ export const HUBS = {
       { id: 'canggu', title: 'Canggu', filter: by('reiki', 'canggu'), view: 'list' },
     ],
   },
-  'ayurveda-courses-in-bali': {
-    eyebrow: 'Healing courses', image: null,
+  'ayurveda-courses-in-bali': { image: null,
     title: 'Ayurveda Courses in Bali',
     intro: [0], extra: 'Certified Ayurveda Courses in Bali',
     sections: [{ id: 'courses', title: 'Ayurveda courses', filter: by('ayurveda'), view: 'list', showCampus: true }],
   },
-  'online-yoga-teacher-training-courses-in-bali': {
-    eyebrow: 'Online', image: 'class-seated',
+  'online-yoga-teacher-training-courses-in-bali': { image: 'class-seated',
     title: 'Online Yoga Teacher Training Courses',
     intro: [1], // [0] omitted: Yoga Alliance certification of online courses awaiting confirmation
     sections: [
@@ -113,15 +103,13 @@ export const HUBS = {
       { id: 'specialised', title: '15-day specialised online courses', filter: (p) => p.sub === 'online' && /15-days/.test(p.slug), view: 'list' },
     ],
   },
-  'online-specialized-yoga-courses': {
-    eyebrow: 'Online', image: 'healing-meditation',
+  'online-specialized-yoga-courses': { image: 'healing-meditation',
     title: 'Online Specialised Yoga Courses',
     intro: [],
     lead: 'Fifteen-day online courses, each focused on a single subject. Each course page lists its own format and published fee.',
     sections: [{ id: 'courses', title: '15-day online courses', filter: (p) => p.sub === 'online' && /15-days/.test(p.slug), view: 'list' }],
   },
-  'yoga-retreats-in-bali': {
-    eyebrow: 'Yoga retreats', image: 'mandala-rest',
+  'yoga-retreats-in-bali': { image: 'mandala-rest',
     title: 'Yoga Retreats in Bali',
     intro: [0, 1], // [2] omitted: "daily Balinese massages in every retreat" is not true of every retreat page
     sections: [
@@ -130,8 +118,7 @@ export const HUBS = {
     ],
     links: [{ label: 'Retreats in Uluwatu', href: '/yoga-retreats-in-uluwatu-bali-indonesia/' }, { label: 'Drop-in classes in Ubud', href: '/yoga-classes-in-bali/' }],
   },
-  'yoga-retreats-in-uluwatu-bali-indonesia': {
-    eyebrow: 'Uluwatu, Bali', image: 'uluwatu-pool-dusk',
+  'yoga-retreats-in-uluwatu-bali-indonesia': { image: 'uluwatu-pool-dusk',
     title: 'Yoga Retreats in Uluwatu, Bali',
     intro: [], // original intro is a copy of the Ubud hub
     lead: 'Retreats of 3 to 11 days at the Uluwatu campus. Each retreat page lists its own programme, inclusions and published fees.',

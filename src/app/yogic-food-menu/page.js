@@ -18,7 +18,7 @@ export default function Food() {
   const times = page.sections.find((x) => /Meal/.test(x.heading));
   return (
     <>
-      <PageHero crumbs={[{ label: 'Campuses' }, { label: 'Food' }]} eyebrow="Dining" title="Food at Bali Yoga School" lead={sentences.slice(0, 2).join(' ')} image="food-plates" />
+      <PageHero crumbs={[{ label: 'Campuses' }, { label: 'Food' }]} title="Food at Bali Yoga School" lead={sentences.slice(0, 2).join(' ')} image="food-plates" />
       <section className="section">
         <div className={`container ${s.twoCol}`}>
           <div data-reveal>

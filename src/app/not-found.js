@@ -6,7 +6,6 @@ export default function NotFound() {
   return (
     <section className="section section--cream" style={{ minHeight: '50vh' }}>
       <div className="container narrow">
-        <p className="eyebrow">404</p>
         <h1>Page not found</h1>
         <p>The page you are looking for may have moved. Many older pages from the previous website now redirect to their closest equivalent.</p>
         <div className="btn-row">

@@ -66,7 +66,7 @@
 /* Sister school */
 .sister { background: var(--night); color: var(--night-text); padding-block: var(--space-8); }
 .sister h2 { color: var(--white); }
-.sister :global(.eyebrow) { color: var(--orange-soft); }
+
 .sister :global(.btn--secondary) { color: var(--white); border-color: rgba(255, 255, 255, 0.5); }
 .sister :global(.btn--secondary:hover) { background: rgba(255, 255, 255, 0.1); color: var(--white); border-color: var(--white); }
 .sister :focus-visible { outline-color: var(--orange-light); }

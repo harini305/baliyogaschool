@@ -14,7 +14,6 @@ export default function Reviews() {
     <>
       <PageHero
         crumbs={[{ label: 'About', href: '/about-bali-yoga-school/' }, { label: 'Student reviews' }]}
-        eyebrow="Student reviews"
         title="What our students say"
         lead="Written reviews shared by students of the teacher training courses, as published on the original reviews page. The reviews are undated and at least one dates from 2020–21."
         image="certificates-group"
