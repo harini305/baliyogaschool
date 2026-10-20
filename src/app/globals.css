@@ -1,5 +1,6 @@
 /* Bali Yoga School — design tokens and base styles.
-   Two families only: Quicksand (headings, navigation, buttons, labels) and Lora (body copy). */
+   Two families only: Architects Daughter (logo-style lettering: headings, navigation, buttons, labels)
+   and Quicksand (body copy, forms, tables). */
 
 :root {
   /* Brand (from docs/source-audit/05-brand-reference.md) */
@@ -30,8 +31,8 @@
   --error: #a3261a;
   --focus: #a8440d;
 
-  --font-head: var(--font-quicksand), "Quicksand", system-ui, sans-serif;
-  --font-body: var(--font-lora), "Lora", Georgia, serif;
+  --font-head: var(--font-logo), "Architects Daughter", cursive;
+  --font-body: var(--font-quicksand), "Quicksand", system-ui, sans-serif;
 
   /* Type scale (one scale, used everywhere) */
   --fs-xs: 0.8125rem;
@@ -50,8 +51,8 @@
   --space-4: 1rem;
   --space-5: 1.5rem;
   --space-6: 2rem;
-  --space-7: 2.5rem;
-  --space-8: clamp(2.5rem, 1.75rem + 2vw, 3.5rem);   /* section padding */
+  --space-7: 2rem;
+  --space-8: clamp(2rem, 1.5rem + 1.5vw, 2.75rem);   /* section padding */
 
   --container: 1320px;
   --narrow: 760px;
@@ -66,6 +67,8 @@
 
 html {
   -webkit-text-size-adjust: 100%;
+  /* The logo font has a single weight: never synthesise a fake bold. */
+  font-synthesis-weight: none;
   scroll-padding-top: calc(var(--header-h) + 76px); /* sticky header + in-page sub-navigation */
 }
 @media (prefers-reduced-motion: no-preference) {
@@ -78,6 +81,7 @@ body {
   color: var(--ink);
   font-family: var(--font-body);
   font-size: var(--fs-base);
+  font-weight: 500;
   line-height: 1.7;
   overflow-x: clip;
   text-rendering: optimizeLegibility;
@@ -93,9 +97,9 @@ body > header, body > footer { flex-shrink: 0; }
 h1, h2, h3, h4 {
   font-family: var(--font-head);
   color: var(--brown);
-  font-weight: 700;
-  line-height: 1.2;
-  letter-spacing: -0.005em;
+  font-weight: 400;
+  line-height: 1.25;
+  letter-spacing: 0.01em;
   margin: 0 0 var(--space-4);
   text-wrap: balance;
 }
@@ -155,6 +159,10 @@ table { border-collapse: collapse; width: 100%; }
 
 .section { padding-block: var(--space-8); }
 .section--tight { padding-block: var(--space-6); }
+/* Consecutive sections on the same background share one gap instead of two. */
+.section:not(.section--cream):not(.section--sand) + .section:not(.section--cream):not(.section--sand),
+.section--cream + .section--cream,
+.section--sand + .section--sand { padding-top: 0; }
 .section--cream { background: var(--cream); }
 .section--sand { background: var(--sand); }
 .section + .section--plain { padding-top: 0; }
@@ -245,7 +253,8 @@ table { border-collapse: collapse; width: 100%; }
 
 /* Copy button (contact details) */
 .copy-btn {
-  min-height: 36px; padding: 4px 12px; margin-left: var(--space-2);
+  min-height: 36px;
+  font-family: var(--font-body) !important; padding: 4px 12px; margin-left: var(--space-2);
   border: 1px solid var(--line-strong); border-radius: 999px; background: var(--white);
   font-family: var(--font-head); font-weight: 700; font-size: var(--fs-xs); color: var(--brown); cursor: pointer;
 }

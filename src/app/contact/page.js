@@ -1,6 +1,5 @@
 import { Suspense } from 'react';
 import Link from 'next/link';
-import { PageHero } from '@/components/ui';
 import ContactForm from '@/components/ContactForm';
 import CopyButton from '@/components/CopyButton';
 import { allProgrammes, KIND_LABEL } from '@/lib/catalog';
@@ -24,8 +23,10 @@ export default function ContactPage() {
 
   return (
     <>
-      <PageHero crumbs={[{ label: 'Contact' }]} eyebrow="Contact" title="Contact Bali Yoga School" lead="Ask about course dates, accommodation options or retreats. The enquiry form below is a preview and does not send messages yet; use the contact details to reach the school directly." />
       <section className="section">
+        <div className="container">
+          <h1 className={s.title}>Contact Bali Yoga School</h1>
+        </div>
         <div className={`container ${s.grid}`}>
           <aside className={s.info} aria-labelledby="details">
             <h2 id="details" className={s.h}>Contact details</h2>

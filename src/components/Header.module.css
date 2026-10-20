@@ -88,7 +88,7 @@
 }
 .group a:hover, .group a[aria-current='page'] { color: var(--burnt); text-decoration: underline; }
 .groupTitle {
-  font-family: var(--font-head);
+  font-family: var(--font-body);
   font-size: var(--fs-xs);
   font-weight: 700;
   color: var(--brown-2);

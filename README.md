@@ -37,6 +37,6 @@ Node 20+ is required (tested with Node 24.13). The production build downloads Lo
 
 ## Design system
 
-- Fonts: **Quicksand** (headings, navigation, buttons, labels) and **Lora** (body copy) — no other families.
+- Fonts: **Architects Daughter** (closest available match to the hand-drawn logo lettering: headings, navigation, buttons, labels) and **Quicksand** (body copy, forms, tables, small labels and prices) — no other families. Swap them in `src/app/layout.js` and the `--font-head` / `--font-body` tokens.
 - Colour tokens are in `src/app/globals.css` (`:root`). Primary actions use burnt orange `#A8440D` with white text (AA); brand orange `#ED6F2D` is used for accents and rules only.
 - Motion: `src/components/Motion.js` — reveal-on-scroll and light parallax via `gsap.matchMedia()`, disabled under `prefers-reduced-motion`, reverted on every route change.

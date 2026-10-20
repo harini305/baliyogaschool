@@ -37,7 +37,7 @@
 .glanceList { margin: 0; display: grid; gap: var(--space-3); }
 .glanceList div { display: grid; gap: 1px; padding-bottom: var(--space-3); border-bottom: 1px solid var(--line); }
 .glanceList div:last-child { border-bottom: 0; padding-bottom: 0; }
-.glanceList dt { font-family: var(--font-head); font-weight: 700; font-size: var(--fs-xs); color: var(--brown-2); }
+.glanceList dt { font-family: var(--font-body); font-weight: 700; font-size: var(--fs-xs); color: var(--brown-2); }
 .glanceList dd { margin: 0; font-size: var(--fs-sm); color: var(--ink); }
 .online { margin-top: var(--space-4); font-size: var(--fs-sm); }
 .online p { margin-bottom: var(--space-2); }
@@ -76,7 +76,7 @@
 .module[open] > summary { border-bottom: 1px solid var(--line); }
 .moduleTitle { font-family: var(--font-head); font-weight: 700; color: var(--brown); }
 .module > summary:hover .moduleTitle { color: var(--burnt); }
-.moduleCount { font-family: var(--font-head); font-size: var(--fs-xs); font-weight: 600; color: var(--brown-2); white-space: nowrap; }
+.moduleCount { font-family: var(--font-body); font-size: var(--fs-xs); font-weight: 600; color: var(--brown-2); white-space: nowrap; }
 .moduleBody { padding: var(--space-4); font-size: var(--fs-sm); }
 .cols { columns: 1; column-gap: var(--space-6); padding-left: 1.1em; margin: 0; }
 .cols li { break-inside: avoid; margin: 0 0 4px; }
@@ -104,7 +104,7 @@
 }
 .batches li { flex-wrap: wrap; min-width: 0; }
 .batches li > span:first-child { min-width: 0; overflow-wrap: anywhere; }
-.status { font-family: var(--font-head); font-weight: 700; font-size: var(--fs-xs); color: var(--success); white-space: nowrap; }
+.status { font-family: var(--font-body); font-weight: 700; font-size: var(--fs-xs); color: var(--success); white-space: nowrap; }
 .closed { background: transparent !important; color: var(--brown-2); }
 .closed > span:first-child { text-decoration: line-through; }
 .closed .status { color: var(--brown-2); }
@@ -112,19 +112,19 @@
 .feeWrap { margin-bottom: var(--space-4); }
 .fees { background: var(--white); border: 1px solid var(--line); border-radius: var(--radius); overflow: hidden; font-size: var(--fs-sm); }
 .fees thead th {
-  text-align: left; font-family: var(--font-head); font-size: var(--fs-xs); color: var(--brown-2);
+  text-align: left; font-family: var(--font-body); font-size: var(--fs-xs); color: var(--brown-2);
   padding: 10px 14px; border-bottom: 1px solid var(--line); background: var(--cream);
 }
 .fees td, .fees tbody th { padding: 10px 14px; border-bottom: 1px solid var(--line); vertical-align: top; text-align: left; }
 .fees tbody:last-child tr:last-child > * { border-bottom: 0; }
 .fees tbody th { font-weight: 400; }
 .feeGroup th {
-  background: var(--sand); font-family: var(--font-head) !important; font-weight: 700 !important;
+  background: var(--sand); font-family: var(--font-body) !important; font-weight: 700 !important;
   font-size: var(--fs-xs); color: var(--brown); padding-block: 6px !important;
 }
 .feeLabel { display: block; font-family: var(--font-head); font-weight: 700; color: var(--brown); }
 .feeDetail { display: block; color: var(--brown-2); font-size: var(--fs-xs); }
-.feeMain { font-family: var(--font-head); font-weight: 700; color: var(--brown); font-size: 1rem; white-space: nowrap; }
+.feeMain { font-family: var(--font-body); font-weight: 700; color: var(--brown); font-size: 1rem; white-space: nowrap; }
 .feeOld { color: var(--brown-2); white-space: nowrap; }
 .feeConfirm { font-size: var(--fs-xs); color: var(--error); }
 @media (max-width: 560px) {
@@ -142,13 +142,13 @@
 .addOns { margin-top: var(--space-6); max-width: 760px; }
 .addOnList { list-style: none; margin: 0; padding: 0; display: grid; gap: 4px; font-size: var(--fs-sm); }
 .addOnList li { display: flex; justify-content: space-between; gap: var(--space-4); padding: 6px 0; border-bottom: 1px dashed var(--line); margin: 0; }
-.addOnList strong { font-family: var(--font-head); color: var(--brown); }
+.addOnList strong { font-family: var(--font-body); color: var(--brown); }
 
 /* Daily life */
 .dailyGrid { display: grid; gap: var(--space-6); align-items: start; }
 @media (min-width: 900px) { .dailyGrid { grid-template-columns: minmax(0, 1.1fr) minmax(0, 1fr); gap: var(--space-7); } }
 .timetable { font-size: var(--fs-sm); }
-.timetable th { text-align: left; font-family: var(--font-head); font-weight: 700; color: var(--brown); white-space: nowrap; padding: 7px 16px 7px 0; vertical-align: top; width: 1%; }
+.timetable th { text-align: left; font-family: var(--font-body); font-weight: 700; color: var(--brown); white-space: nowrap; padding: 7px 16px 7px 0; vertical-align: top; width: 1%; }
 .timetable td { padding: 7px 0; overflow-wrap: anywhere; }
 @media (max-width: 560px) { .timetable th { white-space: normal; width: 34%; } }
 .timetable tr { border-bottom: 1px solid var(--line); }

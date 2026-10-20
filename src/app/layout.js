@@ -1,11 +1,14 @@
-import { Lora, Quicksand } from 'next/font/google';
+import { Architects_Daughter, Quicksand } from 'next/font/google';
 import './globals.css';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import Motion from '@/components/Motion';
 import { site } from '@/data/site';
 
-const lora = Lora({ subsets: ['latin'], weight: ['400', '500', '600'], style: ['normal', 'italic'], variable: '--font-lora', display: 'swap' });
+// Two families only. Architects Daughter is the closest available match to the hand-drawn
+// "BALI YOGA SCHOOL" lettering in the logo (headings, navigation, buttons, labels);
+// Quicksand, a rounded geometric face, is used for all running text, forms and tables.
+const logoFont = Architects_Daughter({ subsets: ['latin'], weight: '400', variable: '--font-logo', display: 'swap' });
 const quicksand = Quicksand({ subsets: ['latin'], weight: ['500', '600', '700'], variable: '--font-quicksand', display: 'swap' });
 
 export const metadata = {
@@ -19,7 +22,7 @@ export const viewport = { themeColor: '#fffaf6' };
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="en" className={`${lora.variable} ${quicksand.variable}`}>
+    <html lang="en" className={`${logoFont.variable} ${quicksand.variable}`}>
       <body>
         <a className="skip-link" href="#main">Skip to content</a>
         <Header />

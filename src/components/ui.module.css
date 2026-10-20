@@ -1,5 +1,5 @@
 /* Breadcrumbs */
-.crumbs { margin-bottom: var(--space-4); font-family: var(--font-head); font-size: var(--fs-xs); font-weight: 600; }
+.crumbs { margin-bottom: var(--space-4); font-family: var(--font-body); font-size: var(--fs-xs); font-weight: 600; }
 .crumbs ol { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 4px; color: var(--brown-2); }
 .crumbs li { margin: 0; display: inline-flex; gap: 4px; }
 .crumbs li + li::before { content: '/'; color: var(--line-strong); }
@@ -21,8 +21,8 @@
   margin: var(--space-5) 0 0; padding: var(--space-4) 0 0; border-top: 1px solid var(--line);
 }
 .facts div { min-width: 0; }
-.facts dt { font-family: var(--font-head); font-size: var(--fs-xs); font-weight: 700; color: var(--brown-2); }
-.facts dd { margin: 0; font-family: var(--font-head); font-weight: 700; color: var(--brown); font-size: 1.02rem; }
+.facts dt { font-family: var(--font-body); font-size: var(--fs-xs); font-weight: 700; color: var(--brown-2); }
+.facts dd { margin: 0; font-family: var(--font-body); font-weight: 700; color: var(--brown); font-size: 1.02rem; }
 
 @media (min-width: 900px) {
   .hero { padding-block: var(--space-7); }
@@ -44,12 +44,12 @@
 .card:hover .cardImage img { transform: scale(1.03); }
 .cardPlaceholder { width: 100%; height: 100%; background: linear-gradient(135deg, var(--sand), var(--sand-2)); }
 .cardBody { padding: var(--space-4) var(--space-4) var(--space-5); display: flex; flex-direction: column; gap: 4px; }
-.cardKicker { margin: 0; font-family: var(--font-head); font-size: var(--fs-xs); font-weight: 700; color: var(--brown-2); }
+.cardKicker { margin: 0; font-family: var(--font-body); font-size: var(--fs-xs); font-weight: 700; color: var(--brown-2); }
 .cardTitle { font-size: 1.12rem; margin: 0; line-height: 1.3; }
 .cardTitle a { color: var(--brown); text-decoration: none; }
 .cardTitle a:hover { color: var(--burnt); }
 .cardMeta { margin: 0; font-size: var(--fs-sm); color: var(--brown-2); }
-.cardFee { margin: var(--space-2) 0 0; font-family: var(--font-head); font-weight: 700; font-size: var(--fs-sm); color: var(--burnt); }
+.cardFee { margin: var(--space-2) 0 0; font-family: var(--font-body); font-weight: 700; font-size: var(--fs-sm); color: var(--burnt); }
 .stretched::after { content: ''; position: absolute; inset: 0; }
 .stretched:focus-visible { outline: none; }
 .stretched:focus-visible::after { outline: 3px solid var(--focus); outline-offset: -3px; border-radius: inherit; }
@@ -70,7 +70,7 @@
 .row:hover .rowTitle a { color: var(--burnt); }
 .rowMeta { margin: 0; font-size: var(--fs-sm); color: var(--brown-2); }
 .rowFee { margin: 0; font-size: var(--fs-sm); text-align: right; white-space: nowrap; color: var(--brown-2); }
-.rowFee strong { font-family: var(--font-head); color: var(--burnt); font-size: 1rem; }
+.rowFee strong { font-family: var(--font-body); color: var(--burnt); font-size: 1rem; }
 .rowArrow { display: none; color: var(--burnt); font-family: var(--font-head); font-weight: 700; transition: transform 0.2s ease; }
 .row:hover .rowArrow { transform: translateX(3px); }
 .row:focus-within { background: var(--cream); }
