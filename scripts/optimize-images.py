@@ -16,14 +16,17 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SRC_DIR = os.path.join(ROOT, "docs", "source-audit", "assets", "original", "uploads")
 OUT_DIR = os.path.join(ROOT, "public", "images")
 DATA_OUT = os.path.join(ROOT, "src", "data", "images.json")
-DEFAULT_WIDTHS = [480, 960, 1600]
-QUALITY = 74
+DEFAULT_WIDTHS = [480, 960, 1440]
+QUALITY = 70
 
 
 def main():
     with open(os.path.join(ROOT, "scripts", "image-selection.json"), encoding="utf-8") as fh:
         selection = json.load(fh)
     os.makedirs(OUT_DIR, exist_ok=True)
+    for old in os.listdir(OUT_DIR):  # regenerate from scratch so no stale derivatives remain
+        if old.endswith(".webp"):
+            os.remove(os.path.join(OUT_DIR, old))
     manifest = {}
     total_in = total_out = 0
 

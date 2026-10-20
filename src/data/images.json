@@ -121,27 +121,6 @@
     ],
     "original": "2025/05/yoga-school-in-bali-2025.jpg"
   },
-  "class-backbend": {
-    "width": 1300,
-    "height": 1040,
-    "alt": "Students lifting their chests into a gentle backbend during an indoor class",
-    "src": "/images/class-backbend-960.webp",
-    "srcSet": [
-      {
-        "w": 480,
-        "src": "/images/class-backbend-480.webp"
-      },
-      {
-        "w": 960,
-        "src": "/images/class-backbend-960.webp"
-      },
-      {
-        "w": 1300,
-        "src": "/images/class-backbend-1300.webp"
-      }
-    ],
-    "original": "2025/05/best-yoga-school-in-bali-2025.jpg"
-  },
   "teacher-greeting": {
     "width": 1300,
     "height": 1040,
@@ -199,8 +178,8 @@
         "src": "/images/beach-balance-960.webp"
       },
       {
-        "w": 1600,
-        "src": "/images/beach-balance-1600.webp"
+        "w": 1440,
+        "src": "/images/beach-balance-1440.webp"
       }
     ],
     "original": "2020/05/Bali-yoga-school-8.jpg"
@@ -262,8 +241,8 @@
         "src": "/images/class-seated-960.webp"
       },
       {
-        "w": 1600,
-        "src": "/images/class-seated-1600.webp"
+        "w": 1440,
+        "src": "/images/class-seated-1440.webp"
       }
     ],
     "original": "2024/08/bali-course-yoga-classes.jpg"
@@ -491,8 +470,8 @@
         "src": "/images/uluwatu-pool-dusk-960.webp"
       },
       {
-        "w": 1500,
-        "src": "/images/uluwatu-pool-dusk-1500.webp"
+        "w": 1440,
+        "src": "/images/uluwatu-pool-dusk-1440.webp"
       }
     ],
     "original": "2025/08/IMG_1345-1-1.png"
@@ -512,8 +491,8 @@
         "src": "/images/uluwatu-pool-day-960.webp"
       },
       {
-        "w": 1500,
-        "src": "/images/uluwatu-pool-day-1500.webp"
+        "w": 1440,
+        "src": "/images/uluwatu-pool-day-1440.webp"
       }
     ],
     "original": "2025/08/IMG_1346.png"
@@ -533,8 +512,8 @@
         "src": "/images/uluwatu-deck-960.webp"
       },
       {
-        "w": 1500,
-        "src": "/images/uluwatu-deck-1500.webp"
+        "w": 1440,
+        "src": "/images/uluwatu-deck-1440.webp"
       }
     ],
     "original": "2025/08/IMG_1347.png"
@@ -554,8 +533,8 @@
         "src": "/images/uluwatu-villa-960.webp"
       },
       {
-        "w": 1500,
-        "src": "/images/uluwatu-villa-1500.webp"
+        "w": 1440,
+        "src": "/images/uluwatu-villa-1440.webp"
       }
     ],
     "original": "2025/08/IMG_1371.png"
@@ -575,8 +554,8 @@
         "src": "/images/uluwatu-room-960.webp"
       },
       {
-        "w": 1500,
-        "src": "/images/uluwatu-room-1500.webp"
+        "w": 1440,
+        "src": "/images/uluwatu-room-1440.webp"
       }
     ],
     "original": "2025/08/IMG_1374.png"
@@ -596,8 +575,8 @@
         "src": "/images/uluwatu-room-2-960.webp"
       },
       {
-        "w": 1500,
-        "src": "/images/uluwatu-room-2-1500.webp"
+        "w": 1440,
+        "src": "/images/uluwatu-room-2-1440.webp"
       }
     ],
     "original": "2025/08/IMG_1377.png"
@@ -617,8 +596,8 @@
         "src": "/images/uluwatu-hall-960.webp"
       },
       {
-        "w": 1500,
-        "src": "/images/uluwatu-hall-1500.webp"
+        "w": 1440,
+        "src": "/images/uluwatu-hall-1440.webp"
       }
     ],
     "original": "2025/08/IMG_1352.png"
@@ -638,8 +617,8 @@
         "src": "/images/uluwatu-pool-aerial-960.webp"
       },
       {
-        "w": 1500,
-        "src": "/images/uluwatu-pool-aerial-1500.webp"
+        "w": 1440,
+        "src": "/images/uluwatu-pool-aerial-1440.webp"
       }
     ],
     "original": "2025/08/IMG_1372.png"
@@ -756,8 +735,8 @@
         "src": "/images/food-plates-960.webp"
       },
       {
-        "w": 1600,
-        "src": "/images/food-plates-1600.webp"
+        "w": 1440,
+        "src": "/images/food-plates-1440.webp"
       }
     ],
     "original": "2025/08/bali-yoga-shala-uluwatu-school-food-images-1-scaled.jpg"
@@ -777,8 +756,8 @@
         "src": "/images/food-pool-960.webp"
       },
       {
-        "w": 1600,
-        "src": "/images/food-pool-1600.webp"
+        "w": 1440,
+        "src": "/images/food-pool-1440.webp"
       }
     ],
     "original": "2025/08/bali-yoga-shala-uluwatu-school-food-images-11-scaled.jpg"
@@ -798,8 +777,8 @@
         "src": "/images/food-buffet-960.webp"
       },
       {
-        "w": 1600,
-        "src": "/images/food-buffet-1600.webp"
+        "w": 1440,
+        "src": "/images/food-buffet-1440.webp"
       }
     ],
     "original": "2025/08/bali-yoga-shala-uluwatu-school-food-images-2-scaled.jpg"
@@ -819,8 +798,8 @@
         "src": "/images/food-banana-leaf-960.webp"
       },
       {
-        "w": 1600,
-        "src": "/images/food-banana-leaf-1600.webp"
+        "w": 1440,
+        "src": "/images/food-banana-leaf-1440.webp"
       }
     ],
     "original": "2025/08/bali-yoga-shala-uluwatu-school-food-images-9-scaled.jpg"
@@ -840,8 +819,8 @@
         "src": "/images/food-table-960.webp"
       },
       {
-        "w": 1600,
-        "src": "/images/food-table-1600.webp"
+        "w": 1440,
+        "src": "/images/food-table-1440.webp"
       }
     ],
     "original": "2025/08/bali-yoga-shala-uluwatu-school-food-images-12-scaled.jpg"
@@ -861,8 +840,8 @@
         "src": "/images/sound-bowls-960.webp"
       },
       {
-        "w": 1500,
-        "src": "/images/sound-bowls-1500.webp"
+        "w": 1440,
+        "src": "/images/sound-bowls-1440.webp"
       }
     ],
     "original": "2024/09/Sound-Healing-Course-in-Bali.jpg"
@@ -1084,8 +1063,8 @@
         "src": "/images/cert-ya-200-960.webp"
       },
       {
-        "w": 1500,
-        "src": "/images/cert-ya-200-1500.webp"
+        "w": 1440,
+        "src": "/images/cert-ya-200-1440.webp"
       }
     ],
     "original": "2024/11/Bali-Yoga-School-200-hour-Yoga-Alliance-registration.jpg"
@@ -1105,8 +1084,8 @@
         "src": "/images/cert-ya-300-960.webp"
       },
       {
-        "w": 1500,
-        "src": "/images/cert-ya-300-1500.webp"
+        "w": 1440,
+        "src": "/images/cert-ya-300-1440.webp"
       }
     ],
     "original": "2024/11/Bali-Yoga-School-300-hour-Yoga-Alliance-registration.jpg"
@@ -1149,48 +1128,6 @@
     ],
     "original": "2025/11/Internatonal-yoga-organization-certificate-bali-yoga-school.jpeg"
   },
-  "cert-sample-200": {
-    "width": 1536,
-    "height": 1086,
-    "alt": "Sample certificate of completion for the 200 Hour Yoga Teacher Training Course",
-    "src": "/images/cert-sample-200-960.webp",
-    "srcSet": [
-      {
-        "w": 480,
-        "src": "/images/cert-sample-200-480.webp"
-      },
-      {
-        "w": 960,
-        "src": "/images/cert-sample-200-960.webp"
-      },
-      {
-        "w": 1536,
-        "src": "/images/cert-sample-200-1536.webp"
-      }
-    ],
-    "original": "2025/01/200-hour-yoga-teacher-training-bali-certificate-usa-1536x1086.jpeg"
-  },
-  "cert-sample-yin": {
-    "width": 1024,
-    "height": 724,
-    "alt": "Sample certificate of completion for the 200 Hour Yin Yoga Teacher Training",
-    "src": "/images/cert-sample-yin-960.webp",
-    "srcSet": [
-      {
-        "w": 480,
-        "src": "/images/cert-sample-yin-480.webp"
-      },
-      {
-        "w": 960,
-        "src": "/images/cert-sample-yin-960.webp"
-      },
-      {
-        "w": 1024,
-        "src": "/images/cert-sample-yin-1024.webp"
-      }
-    ],
-    "original": "2025/01/200-hour-yin-yoga-teacher-training-certificate-yoga-alliance-usa-1024x724.jpg"
-  },
   "founder": {
     "width": 1080,
     "height": 1080,
@@ -1211,27 +1148,6 @@
       }
     ],
     "original": "2020/05/FB_IMG_1586217251553.jpg"
-  },
-  "garden-path": {
-    "width": 1600,
-    "height": 1151,
-    "alt": "Stone garden path between thatched-roof bungalows and palms",
-    "src": "/images/garden-path-960.webp",
-    "srcSet": [
-      {
-        "w": 480,
-        "src": "/images/garden-path-480.webp"
-      },
-      {
-        "w": 960,
-        "src": "/images/garden-path-960.webp"
-      },
-      {
-        "w": 1600,
-        "src": "/images/garden-path-1600.webp"
-      }
-    ],
-    "original": "2026/09/head-management.jpeg"
   },
   "person-dewa": {
     "width": 697,
@@ -1497,19 +1413,6 @@
       }
     ],
     "original": "2021/10/Marie-Sophie-Van-de-Pas.png"
-  },
-  "review-iron-man": {
-    "width": 150,
-    "height": 150,
-    "alt": "",
-    "src": "/images/review-iron-man-96.webp",
-    "srcSet": [
-      {
-        "w": 96,
-        "src": "/images/review-iron-man-96.webp"
-      }
-    ],
-    "original": "2021/10/Iron-Man.png"
   },
   "review-nashelly": {
     "width": 150,

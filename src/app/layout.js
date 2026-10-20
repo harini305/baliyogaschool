@@ -13,10 +13,13 @@ const logoFont = Architects_Daughter({ subsets: ['latin'], weight: '400', variab
 const quicksand = Quicksand({ subsets: ['latin'], weight: ['500', '600', '700'], variable: '--font-quicksand', display: 'swap' });
 
 export const metadata = {
-  metadataBase: new URL('http://localhost:3000'),
+  // Production domain on Vercel; local URL otherwise.
+  metadataBase: new URL(
+    process.env.VERCEL_PROJECT_PRODUCTION_URL ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}` : 'http://localhost:4517',
+  ),
   title: { default: `${site.name} — Yoga Teacher Training & Retreats in Bali`, template: `%s | ${site.name}` },
   description: 'Yoga teacher training, healing courses and retreats at Bali Yoga School in Ubud, Uluwatu and Canggu, with the sister school in Rishikesh, India.',
-  icons: { icon: '/favicon.png' },
+  icons: { icon: '/favicon.png', apple: '/apple-touch-icon.png' },
 };
 
 export const viewport = { themeColor: '#fffaf6' };

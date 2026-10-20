@@ -1,0 +1,7 @@
+# Not needed to build or serve the site: audit records, screenshots, original images,
+# image-processing scripts and local logs. The build uses src/ and public/ only.
+docs/
+scripts/
+*.log
+.next/
+node_modules/

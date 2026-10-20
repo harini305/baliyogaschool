@@ -49,55 +49,6 @@
       "subsections": []
     }
   ],
-  "paymentLinksAsPublished": [
-    {
-      "label": "Advance Booking Fee (Yoga Teacher Training Courses)",
-      "provider": "Razorpay",
-      "url": "https://rzp.io/l/oPEyEy1W",
-      "source": "audit 06 §3 (link targets of the image buttons on /course-payment/; not followed)"
-    },
-    {
-      "label": "Advance Booking Fee (Yoga retreats / Yoga Healing / Yoga Ayurveda)",
-      "provider": "Razorpay",
-      "url": "https://rzp.io/rzp/2OO1Ppd",
-      "source": "audit 06 §3 (not followed)"
-    },
-    {
-      "label": "Course fee payment (linked from other pages)",
-      "provider": "Razorpay",
-      "url": "https://rzp.io/l/course-fee-payment",
-      "source": "audit 06 §3 – used on other pages, not on /course-payment/"
-    },
-    {
-      "label": "Pay with PayPal (linked from other pages)",
-      "provider": "PayPal.me",
-      "url": "https://www.paypal.com/paypalme/himalayanyogaashram?locale.x=en_GB",
-      "source": "content/pages/courses__500-hour-online-yoga-certification-course-in-bali.md – account name belongs to Himalayan Yoga Ashram"
-    }
-  ],
-  "bankDetailsAsPublished": {
-    "doNotPublish": true,
-    "headingsAsPublished": ["Our Bank Details", "Bank Details", "Bank Details"],
-    "accounts": [
-      {
-        "verbatim": "Bank name: Bank Rakyat Indonesia\nAccount name: PT Bali Yoga School and Retreat\nAccount no: 057501000584564\nAddress: JL Campuhan III\nSingakerta, Ubud 8057, Gianyar, Bali, Indonesia",
-        "bankName": "Bank Rakyat Indonesia",
-        "accountName": "PT Bali Yoga School and Retreat",
-        "accountNumber": "057501000584564",
-        "address": "JL Campuhan III, Singakerta, Ubud 8057, Gianyar, Bali, Indonesia"
-      },
-      {
-        "verbatim": "Account Name- Himanshu Joshi\nAccount Number- 9939071811\nBank Name- Permata Bank\nBank Address- JL Raya An dong BR. Ambengan Peliatan Ubud Gianyar 80571\nSwift Code – BBBAIDJA\nLocal Code – 13\nBank Code – 013-0284",
-        "bankName": "Permata Bank",
-        "accountName": "Himanshu Joshi",
-        "accountNumber": "9939071811",
-        "bankAddress": "JL Raya An dong BR. Ambengan Peliatan Ubud Gianyar 80571",
-        "swiftCode": "BBBAIDJA",
-        "localCode": "13",
-        "bankCode": "013-0284"
-      }
-    ]
-  },
   "faqs": [],
   "issues": [
     "Bank details recorded for the record only – NOT to be published on the demo site. The second account is a personal account (Himanshu Joshi), not the company PT.",

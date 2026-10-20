@@ -2,7 +2,7 @@
   "name": "bali-yoga-school",
   "version": "0.1.0",
   "private": true,
-  "description": "Bali Yoga School — Phase 2 frontend rebuild (Next.js App Router, JavaScript, GSAP).",
+  "description": "Bali Yoga School \u2014 Phase 2 frontend rebuild (Next.js App Router, JavaScript, GSAP).",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -14,5 +14,8 @@
     "next": "^16.4.2",
     "react": "^19.3.1",
     "react-dom": "^19.3.1"
+  },
+  "engines": {
+    "node": ">=20"
   }
 }
