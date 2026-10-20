@@ -24,6 +24,8 @@
 
 /* Overview */
 .overview { display: grid; gap: var(--space-6); align-items: start; }
+.overview > * { min-width: 0; }
+.glance, .overviewText { overflow-wrap: anywhere; }
 .overviewText { max-width: 68ch; }
 .styles { color: var(--brown-2); font-size: var(--fs-sm); }
 .styles strong { font-family: var(--font-head); color: var(--brown); }

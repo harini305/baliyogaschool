@@ -35,24 +35,26 @@
   --font-body: var(--font-quicksand), "Quicksand", system-ui, sans-serif;
 
   /* Type scale (one scale, used everywhere) */
-  --fs-xs: 0.8125rem;
-  --fs-sm: 0.9375rem;
-  --fs-base: 1.0625rem;
-  --fs-md: 1.1875rem;
-  --fs-h4: 1.125rem;
-  --fs-h3: clamp(1.2rem, 1.1rem + 0.4vw, 1.4rem);
-  --fs-h2: clamp(1.55rem, 1.3rem + 1vw, 2.1rem);
-  --fs-h1: clamp(1.95rem, 1.5rem + 2vw, 3rem);
-  --fs-display: clamp(2.2rem, 1.6rem + 2.8vw, 3.6rem);
+  /* Root is 18px (html font-size 112.5%), so every rem-based size on the site scales with it. */
+  --fs-xs: 0.8rem;      /* ≈14.4px: captions, small labels */
+  --fs-sm: 0.9rem;      /* ≈16.2px: secondary text, tables, lists */
+  --fs-base: 1rem;      /* 18px: body text */
+  --fs-md: 1.15rem;     /* ≈20.7px: lead paragraphs */
+  --fs-h4: 1.2rem;
+  --fs-h3: clamp(1.35rem, 1.25rem + 0.4vw, 1.6rem);
+  --fs-h2: clamp(1.75rem, 1.45rem + 1vw, 2.35rem);
+  --fs-h1: clamp(2.05rem, 1.6rem + 2vw, 3.15rem);
+  --fs-display: clamp(2.3rem, 1.7rem + 2.8vw, 3.7rem);
 
-  --space-1: 0.25rem;
-  --space-2: 0.5rem;
-  --space-3: 0.75rem;
-  --space-4: 1rem;
-  --space-5: 1.5rem;
-  --space-6: 2rem;
-  --space-7: 2rem;
-  --space-8: clamp(2rem, 1.5rem + 1.5vw, 2.75rem);   /* section padding */
+  /* Spacing in px so it does not grow with the larger text size. */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 24px;
+  --space-6: 32px;
+  --space-7: 32px;
+  --space-8: clamp(32px, 24px + 1.5vw, 44px);   /* section padding */
 
   --container: 1320px;
   --narrow: 760px;
@@ -66,6 +68,7 @@
 *, *::before, *::after { box-sizing: border-box; }
 
 html {
+  font-size: 112.5%;
   -webkit-text-size-adjust: 100%;
   /* The logo font has a single weight: never synthesise a fake bold. */
   font-synthesis-weight: none;
